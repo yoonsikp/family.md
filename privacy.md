@@ -6,7 +6,7 @@ All health information is strictly confidential and protected except during the 
 - Imminent Danger to Public Safety
 - Suspected Child Abuse
 - STI and Infectious Disease Reporting
-- Aggregate Research with De-anonymized Data
+- Aggregate Research with Anonymized Data
 
 In many jurisdictions:
 - Elder Abuse in a Long-term care home or retirement home
