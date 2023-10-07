@@ -52,7 +52,7 @@
 - ECG
 
 ## Follow-up
-- For ACEi + ARBs, check for elevated Creatinine and Potassium in 2 weeks. If elevated, reduce dose by 50% and repeat bloodwork in 2 weeks
+- For ACEi + ARB, check Creatinine and K+ in 2 weeks. If elevated, reduce dose by 50% and repeat bloodwork in 2 weeks
 - Every month until BP reaches target
 - Every 6 months for BP checkups once target reached
 - Resistant hypertension if >= 3 medications have been tried without BP control, refer to specialist
