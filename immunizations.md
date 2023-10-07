@@ -26,32 +26,32 @@
 - From Ontario Publicly Funded Guidelines
 
 1. DTaP-IPV-Hib
-   - At 2, 4, 6, 18 month
+    - At 2, 4, 6, 18 month
 2. Pneu-C-13
-   - At 2, 4, 12 month
+    - At 2, 4, 12 month
 3. Rotavirus
-   - At 2, 4 month
+    - At 2, 4 month
 4. Men-C-C
-   - At 12 month
+    - At 12 month
 5. MMR
-   - At 12 month
+    - At 12 month
 6. Varicella
-   - At 15 month
+    - At 15 month
 7. MMR-Varicella
-   - At 12 month
+    - At 12 month
 8. Tdap-IPV
-   - At 4 year
+    - At 4 year
 9. Hepatitis B
-   - Provided at Grade 7, two-dose schedule
-   - High risk, Age >= 0 months, three-dose schedule
-   - Age >= 16, three-dose schedule
+    - Provided at Grade 7, two-dose schedule
+    - High risk, Age >= 0 months, three-dose schedule
+    - Age >= 16, three-dose schedule
 10. Men-C-ACYW
-   - Provided at Grade 7
+    - Provided at Grade 7
 11. HPV-9
-   - Provided at Grade 7, two-dose schedule
-   - See above
+    - Provided at Grade 7, two-dose schedule
+    - See above
 12. Tdap
-   - Age >= 14
+    - Age >= 14
 
 ## Procedure Notes
 - Use 23-25 Gauge 1-inch needle for Adults
@@ -71,4 +71,4 @@ Immunity Serology can be tested via blood for MMR and Varicella (Titres)
 3. Hepatitis A
 4. Yellow fever
 5. Respiratory syncytial virus
-   - Ongoing research, approved in Canada 2023
+    - Ongoing research, approved in Canada 2023
