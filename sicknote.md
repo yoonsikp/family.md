@@ -1,5 +1,5 @@
-## Sick Note Templates
-# Surgical Sick Note
+# Sick Note Templates
+## Surgical Sick Note
 
 To Whom it may concern, 
 
@@ -9,7 +9,7 @@ Sincerely,
 
 Dr. ____ ____
 
-# Clinic Sick Note
+## Clinic Sick Note
 
 To Whom it may concern, 
 
