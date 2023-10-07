@@ -60,7 +60,7 @@
 - IM injections into Deltoid if Age >= 12 months and sufficient muscle mass 
 
 ## Immunity Testing
-Immunity Serology can be tested via blood for MMR and Varicella (Titres)
+Immunity Serology can be tested via blood for Measles, Mumps, Rubella, and Varicella (Titres)
 
 ## Non-routine Immunizations
 1. Rabies
