@@ -62,8 +62,7 @@
 ## Immunity Testing
 Immunity Serology can be tested via blood for MMR and Varicella (Titres)
 
-# Non-routine Immunizations
-
+## Non-routine Immunizations
 1. Rabies
     - If possible exposure to a bat or rabid animal
 2. BCG
