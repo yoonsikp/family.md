@@ -26,8 +26,9 @@
     - smokers with 30 pack year, recent use (past 10 yrs) 55-75 yrs
     - annual low dose CT
 9. Diabetes
-    - Higher risk (obesity, HTN, family hx) should be screened every 3-5 years. 
-    - 40-75 yrs, every 3 years 
+    - 40-75 yrs, every 3 years
+    - Higher risk (obesity, HTN, family hx) should be screened earlier every 3-5 years
+    - Start at 35 yrs if from high risk countries (South Asia, Latin American and African)
 10. BMD
-    - Most men under 70 and women under age 65 probably don’t need the test
+    - men > 70 yrs, women > 65 yrs with high risk every 2 years, low risk every 3-5 years
     - Test at 50 and over if hx of RA, fractures, smoking/drinking, or long-term PPI/steroids
