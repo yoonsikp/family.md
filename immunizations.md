@@ -1,5 +1,5 @@
 # Immunizations
-- Please check your health organization for vacine funding and recommendations
+- Please check your health organization for funding and schedules
 
 ## Adult Routine Immunizations
 - From Ontario Publicly Funded Guidelines
