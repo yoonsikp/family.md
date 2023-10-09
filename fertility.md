@@ -63,6 +63,6 @@ Lower-dose estrogen, around 30 mcg to 35 mcg is a good starting poin when choosi
 - Marvelon 21 and 28, 0.15 mg desogestrel and 0.03 mg ethinyl estradiol 
 - Brevicon 21 and 28, 0.5 mg/1mg norethindrone and 0.035 mg ethinyl estradiol 
 
-## Switch between COCP and POP
+### Switch between COCP and POP
 - To switch from a 28-Day COCP to POP, patients should not take any of the 7 inactive pills from the combined pill pack
 - To switch from POP to COCP, take COCP "Day 1" on first day of menstruation
