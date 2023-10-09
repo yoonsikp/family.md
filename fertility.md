@@ -59,7 +59,7 @@ No proven benefit to multi or biphasic pills. Progestin-only contraceptives have
   - long 24 hr window, +risk of clot, contraindication in smokers or renal impairment
 
 ### Combined OCP (COCP)
-Lower-dose estrogen, around 30 mcg to 35 mcg is a good starting poin when choosing COCPs. Contraindication in smokers > 35, hypertension, migraine with aura, history of clots.
+Lower-dose estrogen, around 30 mcg to 35 mcg is a good starting point when choosing COCPs. Contraindication in smokers > 35, hypertension, migraine with aura, history of clots.
 - Marvelon 21 and 28, 0.15 mg desogestrel and 0.03 mg ethinyl estradiol 
 - Brevicon 21 and 28, 0.5 mg/1mg norethindrone and 0.035 mg ethinyl estradiol 
 
