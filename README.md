@@ -5,3 +5,5 @@ useful markdown files for family medicine
 - STI sx and treatments
 - UTI sx and treatments
 - PID/vaginitis
+- CHADS a fib
+- common drugs --> side effects and monitoring
