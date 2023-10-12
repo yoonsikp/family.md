@@ -32,3 +32,6 @@
 10. BMD
     - men > 70 yrs, women > 65 yrs with high risk every 2 years, low risk every 3-5 years
     - Test at 50 and over if hx of RA, fractures, smoking/drinking, or long-term PPI/steroids
+11. Prostate Cancer
+    - men 45-69 yrs, with family history or high risk country (African or Carribean ancestry)
+    - offer PSA every 2 years
