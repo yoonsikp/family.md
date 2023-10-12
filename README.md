@@ -7,3 +7,4 @@ useful markdown files for family medicine
 - PID/vaginitis
 - CHADS a fib
 - common drugs --> side effects and monitoring
+- peds functional abdo pain
