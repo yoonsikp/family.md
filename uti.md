@@ -1,7 +1,7 @@
 # Urinary Tract Infections
 Specific symptoms include dysuria and urinary frequency. Usually caused by E coli. Different geographical areas have different resistance patterns.
 
-Uncomplicated UTIs are defined as non-pregnant female above the age of 15. Complicated UTIs include anything else, including male, immunocompromised, instruments or catheters, structural or functional abnprmalities, systemic symptoms such as fever, or flank pain.
+Uncomplicated UTIs are defined as non-pregnant female above the age of 15. Complicated UTIs include anything else, including male, immunocompromised, instruments or catheters, structural or functional abnormalities, systemic symptoms such as fever, or flank pain.
 
 ## Urinalysis and Culture
 POC urinalysis is recommended if possible. Perform a culture and sensitivity if needed, especially for recurrent infections, concern of resistance, or any complicated UTI. Midstream urine culture is preferred for diagnosing a UTI.
