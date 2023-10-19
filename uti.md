@@ -18,4 +18,4 @@ These antibiotics are excreted mainly through urine:
 - TMP/SMX (double strength) 160mg/800mg BID for 3 days
 
 ## Complicated UTI Medications
-Consider possibility of bacteremia. Use culture and sensitivity to guide treatment. Nitrofurantoin should not be used.
+Consider possibility of bacteremia. Use culture and sensitivity to guide treatment. Nitrofurantoin should not be used for systemic involvement. Caution with antibiotic choice in pregnancy.
