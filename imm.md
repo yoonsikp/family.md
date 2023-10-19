@@ -83,6 +83,6 @@ Special consideration for protection against encapsulated bacteria. The followin
 5. Haemophilus influenzae type B 
 
 ## Live Vaccines
-Avoid giving multiple live vaccines within 1 month of each other, during pregnancy, or immunocompromised individuals without recommendation from a specialist.
+Avoid giving live vaccines within 1 month of each other, during pregnancy, or immunocompromised individuals without recommendation from a specialist.
 
 MMR, varicella, rotavirus, influenza (intranasal), BCG, oral typhoid
