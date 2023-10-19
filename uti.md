@@ -12,10 +12,12 @@ Negative leukocytes is a strong negative predictor for bacteria.
 
 Positive blood is a weak predictor overall, but can push your clinical decision towards starting treatment. Repeat urinalysis when asymptomatic to confirm resolution of hematuria. 
 
-## Uncomplicated UTI Medications
+## Uncomplicated UTI Treatment
 These antibiotics are excreted mainly through urine:
 - nitrofurantoin 100mg BID for 5 days
 - TMP/SMX (double strength) 160mg/800mg BID for 3 days
 
-## Complicated UTI Medications
+Encourage adequate fluid intake, also d-mannose (found in cranberries) may help with prevention.
+
+## Complicated UTI Treatment
 Consider possibility of bacteremia. Use culture and sensitivity to guide treatment. Nitrofurantoin should not be used for systemic involvement. For males consider a differential that includes prostatitis, urethritis, and STI. Empiric treatments for males include the same antibiotics as above, but for 7 days. Caution with antibiotic choice in pregnancy.
