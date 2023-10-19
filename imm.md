@@ -72,6 +72,7 @@ Immunity Serology can be tested via blood for Measles, Mumps, Rubella, and Varic
 5. Respiratory syncytial virus
     - Ongoing research, approved in Canada 2023
 6. Meningococcal B (Bexsero)
+7. Typhoid fever
 
 ## Hyposlenism or asplenia
 Special consideration for protection against encapsulated bacteria. The following vaccines should be administered again (after their first series as a child).
