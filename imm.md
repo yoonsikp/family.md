@@ -71,3 +71,18 @@ Immunity Serology can be tested via blood for Measles, Mumps, Rubella, and Varic
 4. Yellow fever
 5. Respiratory syncytial virus
     - Ongoing research, approved in Canada 2023
+6. Meningococcal B (Bexsero)
+
+## Hyposlenism or asplenia
+Special consideration for protection against encapsulated bacteria. The following vaccines should be administered again (after their first series as a child).
+
+1. Pneumococcal Conjugate 13
+2. Pneumococcocal Polysaccharide 23
+3. Meningococcal ACYW
+4. Meningococcal B 
+5. Haemophilus influenzae type B 
+
+## Live Vaccines
+Avoid giving multiple live vaccines within 1 month of each other, during pregnancy, or immunocompromised individuals without recommendation from a specialist.
+
+MMR, varicella, rotavirus, influenza (intranasal), BCG, oral typhoid
