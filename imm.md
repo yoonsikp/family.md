@@ -83,6 +83,6 @@ Special consideration for protection against encapsulated bacteria. The followin
 5. Haemophilus influenzae type B 
 
 ## Live Vaccines
-Avoid giving live vaccines within 1 month of each other, during pregnancy, or to immunocompromised without a specialist. Autoimmune conditions are safe for live vaccines.
+Avoid adminstering live vaccines within 1 month of each other. Live vaccines are contraindicated if pregnant or immunocompromised (without specialist recommendation), or those on radiation therapy, cytotoxic drugs, biologics, or high-dose immunosuppression.
 
-MMR, varicella, rotavirus, influenza (intranasal), BCG, oral typhoid
+The live vacccines include: MMR, varicella, rotavirus, influenza (intranasal), BCG, oral typhoid
