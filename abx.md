@@ -8,7 +8,6 @@ amoxicillin-clav --> good broad range antibiotic against gram + (incl MSSA) and 
 - Skin and soft tissue infections
 - Community-acquired pneumonia
 - rhinosinusitis
-- pyelonephritis
 
 Piperacillin-tazo --> big guns, good gram + and gram -, not for resistant staph aureus, atypicals, VRE, or ESBLs
 
