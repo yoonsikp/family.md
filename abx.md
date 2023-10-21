@@ -71,3 +71,9 @@ Metronidazole, disrupts DNA through radicals, for anaerobic bacteria and protozo
 Vancomycin
 - MRSA
 - C diff (oral)
+
+
+topical antibiotics
+- fucidic acid
+- polysporin
+- bactroban
