@@ -7,8 +7,8 @@ Coverage: good gram + (not MRSA), minor gram -
 - Acute otitis media
 
 ## Amoxicillin / Clavulanic acid (PO)
-
 Coverage: good gram + (not MRSA), some gram -
+
 Note: Clavulanic acid ncreases diarrhea risk
 
 - Bite wounds
@@ -25,6 +25,7 @@ Coverage: great gram + (not MRSA or VRE), most gram - (not atypicals or ESBLs)
 
 ## Cefazolin or Ancef (IV) - 1st gen Cephalosporin
 Coverage: good gram + (not MRSA), minor gram -
+
 Note: 1st generation cephalosporin
 - Respiratory tract infections
 - SSTI
