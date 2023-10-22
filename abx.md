@@ -1,15 +1,19 @@
-## Antibiotics
+# Common Antibiotics
 
-
-amoxicillin-clav --> good broad range antibiotic against gram + (incl MSSA) and gram -
-- bite wounds
+## Amoxicillin --> good against gram + (not MRSA)
+- Group A strep (or pen V)
+- Pneumonia from Strep pneumo
+- Healthy CAP
 - ear infections
-- Group A strep (use just amox or pen V)
+
+## Amoxicillin / Clavulanic acid --> broad range antibiotic against gram + (not MRSA) and some gram -
+Note: Clavulanic acid ncreases diarrhea risk
+- bite wounds
 - Skin and soft tissue infections
 - Community-acquired pneumonia
 - rhinosinusitis
 
-Piperacillin-tazo --> big guns, good gram + and gram -, not for resistant staph aureus, atypicals, VRE, or ESBLs
+## Piperacillin-tazo --> big guns, good gram + and gram -, not for resistant staph aureus, atypicals, VRE, or ESBLs
 
 Cefazolin/Ancef IV 1st gen cephalosporin, great gram + (not MRSA), minor gram -
 - acute biliary infection
@@ -24,6 +28,7 @@ Cephalexin oral 1st gen cephalosporin, great gram + (not MRSA), minor gram -
 - Nonpurulent Cellulitis
 - strep throat in pen allergy
 - pyelonephritis during pregnancy
+- UTI in pediatric population
 
 Cefuroxime oral 2nd gen cephalosporin, good gram +, some gram -
 - community-acquired pneumonia
