@@ -9,7 +9,7 @@ Coverage: good gram + (not MRSA), minor gram -
 ## Amoxicillin / Clavulanic acid (PO)
 Coverage: good gram + (not MRSA), some gram -
 
-Note: Clavulanic acid ncreases diarrhea risk
+Note: Clavulanic acid increases diarrhea risk
 
 - Bite wounds
 - Rhinosinusitis 
@@ -17,8 +17,8 @@ Note: Clavulanic acid ncreases diarrhea risk
 - CAP
 
 ## Piperacillin / Tazobactam (IV)
-
 Coverage: great gram + (not MRSA or VRE), most gram - (not atypicals or ESBLs)
+
 - Critical care
 - Neutropenia
 - Hospital-acquired pneumonia
@@ -27,6 +27,7 @@ Coverage: great gram + (not MRSA or VRE), most gram - (not atypicals or ESBLs)
 Coverage: good gram + (not MRSA), minor gram -
 
 Note: 1st generation cephalosporin
+
 - Respiratory tract infections
 - SSTI
 - Bacteremia/endocarditis
@@ -35,6 +36,7 @@ Note: 1st generation cephalosporin
 
 ## Cephalexin (PO) - 1st gen Cephalosporin
 Coverage: good gram + (not MRSA), minor gram -
+
 - Mild to moderate SSTI
 - Nonpurulent cellulitis
 - Strep throat in penicillin allergy
@@ -43,13 +45,16 @@ Coverage: good gram + (not MRSA), minor gram -
 
 ## Cefuroxime (PO) - 2nd gen Cephalosporin
 Coverage: good gram + (not MRSA), some gram -
+
 Note: use for penicillin allergy
+
 - CAP 
 - Acute otitis media
 - Acute bacterial sinusitis
 
 ## Ceftriaxone (IV/IM) - 3rd gen Cephalosporin
 Coverage: good gram + (not MRSA), good gram -
+
 - Skin and soft tissue infections
 - Community-acquired pneumonia
 - Bacteremia/endocarditis
@@ -58,6 +63,7 @@ Coverage: good gram + (not MRSA), good gram -
 
 ## Azithromycin (IV/PO) - Macrolide
 Coverage: good gram + (not MRSA), great for atypicals
+
 - COPD exacerbation
 - Chlamydia
 - Bronchitis
@@ -65,6 +71,7 @@ Coverage: good gram + (not MRSA), great for atypicals
 
 ## TMP/SMX or Septra (IV/PO)
 Coverage: good gram + (incl. MRSA), good gram - 
+
 - Purulent SSTI (likely Staph aureus)
 - UTI
 - AOM
@@ -72,6 +79,7 @@ Coverage: good gram + (incl. MRSA), good gram -
 
 ## Ciprofloxacin (IV/PO)
 Coverage: no gram +, great gram - (incl. Pesudomonas)
+
 - UTI
 - Pyelonephritis
 - Prostatitis
@@ -79,7 +87,9 @@ Coverage: no gram +, great gram - (incl. Pesudomonas)
 
 ## Doxycycline (IV/PO) - Tetracycline
 Coverage: great gram + (incl. MRSA), great for atypicals (Lyme, Rickettsia, Q fever, Anthrax)
+
 Note: use for severe penicillin allergy
+
 - SSTI (incl MRSA)
 - CAP
 - Acne
@@ -88,22 +98,27 @@ Note: use for severe penicillin allergy
 
 ## Meropenem (IV)
 Coverage: great gram + (not MRSA or VRE), great gram - (not atypicals)
+
 - Critical care
 - Intra-abdominal infection
 - Hospital acquired pneumonia
 
 ## Metronidazole (IV/PO)
-Notes: best for anaerobic bacteria and protozoans
+Coverage: no gram +, only anaerobic bacteria and protozoans
+
 - Bacterial Vaginosis
 - Trichomonas
 - Giardiasis
 
-## Vancomycin (IV/PO)
-- MRSA (IV, with pip/tazo)
-- C diff infection (oral)
+## Vancomycin (IV)
+Coverage: great gram + (incl MRSA), minor gram -
+
+- MRSA (+ Pip/tazo)
+- C diff infection (use PO)
 
 ## Topical antibiotics
-Notes: used for superficial infections
-- fucidic acid
-- polysporin
-- bactroban
+Note: used for superficial infections
+
+- Mupirocin or Bactroban (good gram + coverage, incl. MRSA)
+- Fucidin or Fucidic acid (good gram + coverage, incl. MRSA)
+- Bacitracin/polymyxin B or Polysporin (broad coverage, not MRSA)
