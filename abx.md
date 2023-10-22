@@ -7,6 +7,7 @@ Coverage: good gram + (not MRSA), minor gram -
 - Acute otitis media
 
 ## Amoxicillin / Clavulanic acid (PO)
+
 Coverage: good gram + (not MRSA), some gram -
 Note: Clavulanic acid ncreases diarrhea risk
 - Bite wounds
@@ -15,6 +16,7 @@ Note: Clavulanic acid ncreases diarrhea risk
 - CAP
 
 ## Piperacillin / Tazobactam (IV)
+
 Coverage: great gram + (not MRSA or VRE), most gram - (not atypicals or ESBLs)
 - Critical care
 - Neutropenia
