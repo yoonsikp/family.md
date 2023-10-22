@@ -1,84 +1,105 @@
 # Common Antibiotics
 
-## Amoxicillin --> good against gram + (not MRSA)
-- Group A strep (or pen V)
-- Pneumonia from Strep pneumo
-- Healthy CAP
-- ear infections
+## Amoxicillin (PO)
+Coverage: good gram + (not MRSA), minor gram -
+- Strep throat (or use Penicillin V)
+- Community-acquired pneumonia (CAP) in healthy individuals (likely Strep pneumo)
+- Acute otitis media
 
-## Amoxicillin / Clavulanic acid --> broad range antibiotic against gram + (not MRSA) and some gram -
+## Amoxicillin / Clavulanic acid (PO)
+Coverage: good gram + (not MRSA), some gram -
 Note: Clavulanic acid ncreases diarrhea risk
-- bite wounds
-- Skin and soft tissue infections
-- Community-acquired pneumonia
-- rhinosinusitis
+- Bite wounds
+- Rhinosinusitis 
+- Skin and soft tissue infections (SSTI)
+- CAP
 
-## Piperacillin-tazo --> big guns, good gram + and gram -, not for resistant staph aureus, atypicals, VRE, or ESBLs
+## Piperacillin / Tazobactam (IV)
+Coverage: great gram + (not MRSA or VRE), most gram - (not atypicals or ESBLs)
+- Critical care
+- Neutropenia
+- Hospital-acquired pneumonia
 
-Cefazolin/Ancef IV 1st gen cephalosporin, great gram + (not MRSA), minor gram -
-- acute biliary infection
+## Cefazolin or Ancef (IV) - 1st gen Cephalosporin
+Coverage: good gram + (not MRSA), minor gram -
+Note: 1st generation cephalosporin
 - Respiratory tract infections
-- Skin infections
-- sepsis
-- endocarditis
+- SSTI
+- Bacteremia/endocarditis
 - Bone and joint infections
+- Acute biliary infection
 
-Cephalexin oral 1st gen cephalosporin, great gram + (not MRSA), minor gram -
-- mild/moderate and soft tissue infections
-- Nonpurulent Cellulitis
-- strep throat in pen allergy
-- pyelonephritis during pregnancy
+## Cephalexin (PO) - 1st gen Cephalosporin
+Coverage: good gram + (not MRSA), minor gram -
+- Mild to moderate SSTI
+- Nonpurulent cellulitis
+- Strep throat in penicillin allergy
+- Pyelonephritis during pregnancy
 - UTI in pediatric population
 
-Cefuroxime oral 2nd gen cephalosporin, good gram +, some gram -
-- community-acquired pneumonia
-- acute otitis media
-- acute bacterial sinusitis
+## Cefuroxime (PO) - 2nd gen Cephalosporin
+Coverage: good gram + (not MRSA), some gram -
+Note: use for penicillin allergy
+- CAP 
+- Acute otitis media
+- Acute bacterial sinusitis
 
-Ceftriaxone IV 3rd gen cephalosporin, less gram +, more gram -
+## Ceftriaxone (IV/IM) - 3rd gen Cephalosporin
+Coverage: good gram + (not MRSA), good gram -
 - Skin and soft tissue infections
 - Community-acquired pneumonia
-- bacteremia/endocarditis
-- acute biliary infection
-- pyelonephritis
+- Bacteremia/endocarditis
+- Acute biliary infection
+- Pyelonephritis
 
-Azithromycin, Macrolide, used for atypical
+## Azithromycin (IV/PO) - Macrolide
+Coverage: good gram + (not MRSA), great for atypicals
 - COPD exacerbation
-- chlamydia
-- bronchitis
-- CAP (with cephalosporin)
+- Chlamydia
+- Bronchitis
+- CAP (+ cephalosporin)
 
-TMP/SMX, good gram + and gram -, good for CA-MRSA 
-- Community-acquired MRSA Skin soft tissue infections
-- Purulent cellulitis
-- UTIs
-- otitis media
-- pyelonephritis (with 1 dose ceftriaxone)
+## TMP/SMX or Septra (IV/PO)
+Coverage: good gram + (incl. MRSA), good gram - 
+- Purulent SSTI (likely Staph aureus)
+- UTI
+- AOM
+- Pyelonephritis (+ single dose ceftriaxone)
 
-Ciprofloxacin, no gram +, great gram -
-- UTIs
-- pyelonephritis
-- prostatitis
-- intra-abdominal infection (with metronidazole)
+## Ciprofloxacin (IV/PO)
+Coverage: no gram +, great gram - (incl. Pesudomonas)
+- UTI
+- Pyelonephritis
+- Prostatitis
+- Intra-abdominal infection (+ metronidazole)
 
-Doxycycline, tetracycline, broad spectrum unusual pathogens including: Rickettsia, Lyme disease, Tularemia, Vibrio, Brucella, Q fever, Anthrax
+## Doxycycline (IV/PO) - Tetracycline
+Coverage: great gram + (incl. MRSA), great for atypicals (Lyme, Rickettsia, Q fever, Anthrax)
+Note: use for severe penicillin allergy
 - SSTI (incl MRSA)
-- community Pneumonia
-- acne
-- rosacea
+- CAP
+- Acne
+- Rosacea
+- Chlamydia
 
-Meropenem, --> bigger guns, great gram + and great -, not for MRSA, atypicals, VRE, or Stenotrophomonas
+## Meropenem (IV)
+Coverage: great gram + (not MRSA or VRE), great gram - (not atypicals)
+- Critical care
+- Intra-abdominal infection
+- Hospital acquired pneumonia
 
-Metronidazole, disrupts DNA through radicals, for anaerobic bacteria and protozoans
-- BV
-- Trich
+## Metronidazole (IV/PO)
+Notes: best for anaerobic bacteria and protozoans
+- Bacterial Vaginosis
+- Trichomonas
+- Giardiasis
 
-Vancomycin
-- MRSA
-- C diff (oral)
+## Vancomycin (IV/PO)
+- MRSA (IV, with pip/tazo)
+- C diff infection (oral)
 
-
-topical antibiotics
+## Topical antibiotics
+Notes: used for superficial infections
 - fucidic acid
 - polysporin
 - bactroban
