@@ -117,6 +117,14 @@ Coverage: great gram + (incl MRSA), minor gram -
 - MRSA (+ Pip/tazo)
 - C diff infection (use PO)
 
+### Linezolid (IV/PO)
+Coverage: all gram + (incl MRSA, VRE), some gram -
+Note: Drug of last resort (antimicrobial stewardship)
+
+- Critical care
+- Complicated SSTI
+- Hospital acquired pneumonia
+
 ### Topical antibiotics
 Note: used for superficial infections
 
