@@ -60,6 +60,7 @@ Coverage: good gram + (not MRSA), good gram -
 - Bacteremia/endocarditis
 - Acute biliary infection
 - Pyelonephritis
+- Community-acquired meningitis (+ vancoymycin)
 
 ### Azithromycin (IV/PO) - Macrolide
 Coverage: good gram + (not MRSA), great for atypicals
