@@ -119,6 +119,7 @@ Coverage: great gram + (incl MRSA), minor gram -
 
 ### Linezolid (IV/PO)
 Coverage: all gram + (incl MRSA, VRE), some gram -
+
 Note: Drug of last resort (antimicrobial stewardship)
 
 - Critical care
