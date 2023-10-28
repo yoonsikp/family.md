@@ -21,3 +21,8 @@ Encourage adequate fluid intake, also d-mannose (found in cranberries) may help 
 
 ## Complicated UTI Treatment
 Consider possibility of bacteremia. Use culture and sensitivity to guide treatment. Nitrofurantoin should not be used for systemic involvement. For males consider a differential that includes prostatitis, urethritis, and STI. Empiric treatments for males include the same antibiotics as above, but for 7 days. Caution with antibiotic choice in pregnancy.
+
+## Treatment for Related Infections
+Urethritis: azithromycin 1g PO once (add ceftriaxone 500mg IM once if gonococcal source)
+Acute Prostatitis: ciprofloxacin 500mg BID for 2-4 weeks
+Acute Uncomplicated Pyelonephritis: ciprofloxacin 500mg PO BID for 7 days
