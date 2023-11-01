@@ -59,7 +59,7 @@ Coverage: good gram + (not MRSA), good gram -
 - Community-acquired pneumonia
 - Bacteremia/endocarditis
 - Acute biliary infection
-- Pyelonephritis
+- Pyelonephritis or UTI
 - Community-acquired meningitis (+ vancoymycin)
 
 ### Azithromycin (IV/PO) - Macrolide
@@ -79,7 +79,7 @@ Coverage: good gram + (incl. MRSA), good gram -
 - Pyelonephritis (+ single dose ceftriaxone)
 
 ### Ciprofloxacin (IV/PO)
-Coverage: no gram +, great gram - (incl. Pesudomonas)
+Coverage: no gram +, great gram - (incl. Pseudomonas)
 
 - UTI
 - Pyelonephritis
