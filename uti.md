@@ -17,12 +17,14 @@ These antibiotics are excreted mainly through urine:
 - nitrofurantoin 100mg BID for 5 days
 - TMP/SMX (double strength) 160mg/800mg BID for 3 days
 
-Encourage adequate fluid intake, also d-mannose (found in cranberries) may help with prevention.
+Encourage adequate fluid intake, good hygiene, also d-mannose (found in cranberries) may help with prevention.
 
 ## Complicated UTI Treatment
 Consider possibility of bacteremia. Use culture and sensitivity to guide treatment. Nitrofurantoin should not be used for systemic involvement. For males consider a differential that includes prostatitis, urethritis, and STI. Empiric treatments for males include the same antibiotics as above, but for 7 days. Caution with antibiotic choice in pregnancy.
 
 ## Treatment for Related Infections
 Urethritis: azithromycin 1g PO once (add ceftriaxone 500mg IM once if gonococcal source)
+
 Acute Prostatitis: ciprofloxacin 500mg BID for 2-4 weeks
+
 Acute Uncomplicated Pyelonephritis: ciprofloxacin 500mg PO BID for 7 days
