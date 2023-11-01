@@ -98,7 +98,7 @@ Note: use for severe penicillin allergy
 - Chlamydia
 
 ### Meropenem (IV)
-Coverage: great gram + (not MRSA or VRE), great gram - (not atypicals)
+Coverage: great gram + (not MRSA or VRE), great gram - (incl. Pseudomonas, not atypicals)
 
 - Critical care
 - Intra-abdominal infection
