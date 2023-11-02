@@ -5,6 +5,7 @@ Coverage: good gram + (not MRSA), minor gram -
 - Strep throat (or use Penicillin V)
 - Community-acquired pneumonia (CAP) in healthy individuals (likely Strep pneumo)
 - Acute otitis media
+- Non-purulent cellulitis prophylaxis
 
 ### Amoxicillin / Clavulanic acid (PO)
 Coverage: good gram + (not MRSA), some gram -
@@ -59,7 +60,7 @@ Coverage: good gram + (not MRSA), good gram -
 - Community-acquired pneumonia
 - Bacteremia/endocarditis
 - Acute biliary infection
-- Pyelonephritis
+- Pyelonephritis or UTI
 - Community-acquired meningitis (+ vancoymycin)
 
 ### Azithromycin (IV/PO) - Macrolide
@@ -79,7 +80,7 @@ Coverage: good gram + (incl. MRSA), good gram -
 - Pyelonephritis (+ single dose ceftriaxone)
 
 ### Ciprofloxacin (IV/PO)
-Coverage: no gram +, great gram - (incl. Pesudomonas)
+Coverage: no gram +, great gram - (incl. Pseudomonas)
 
 - UTI
 - Pyelonephritis
@@ -98,7 +99,7 @@ Note: use for severe penicillin allergy
 - Chlamydia
 
 ### Meropenem (IV)
-Coverage: great gram + (not MRSA or VRE), great gram - (not atypicals)
+Coverage: great gram + (not MRSA or VRE), great gram - (incl. Pseudomonas, not atypicals)
 
 - Critical care
 - Intra-abdominal infection
