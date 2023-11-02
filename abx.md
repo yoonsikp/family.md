@@ -5,6 +5,7 @@ Coverage: good gram + (not MRSA), minor gram -
 - Strep throat (or use Penicillin V)
 - Community-acquired pneumonia (CAP) in healthy individuals (likely Strep pneumo)
 - Acute otitis media
+- Non-purulent cellulitis prophylaxis
 
 ### Amoxicillin / Clavulanic acid (PO)
 Coverage: good gram + (not MRSA), some gram -
