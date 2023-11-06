@@ -18,7 +18,7 @@ Note: Clavulanic acid increases diarrhea risk
 - CAP
 
 ### Piperacillin / Tazobactam (IV)
-Coverage: great gram + (not MRSA or VRE), most gram - (not atypicals or ESBLs)
+Coverage: great gram + (not MRSA or VRE), most gram - (incl. Pseudomonas, not atypicals or ESBLs)
 
 - Critical care
 - Neutropenia
