@@ -161,7 +161,7 @@ The human immunodeficiency viruses (HIV-1 and HIV-2), cause infections that resu
 
 - Primary acute infection (weeks to months)
 - Chronic asymptomatic infection (years)
-- Chronic symptomatic infection
+- Chronic symptomatic infection (3-10 years after infection)
 
 ### Symptoms
 During primary acute infection, symptoms appear 2 to 6 weeks after exposure, and include fever, muscle pain, joint pain, malaise, sore throat, nausea, diarrhea, and headache. 
