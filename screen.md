@@ -35,3 +35,5 @@
 11. Prostate Cancer
     - men 45 - 69 yrs, with family hx of prostate cancer or high risk regions (African or Carribean)
     - PSA every 2 years
+12. Chlamydia and Gonorrhea 
+    - sexually active < 30 yrs, every year
