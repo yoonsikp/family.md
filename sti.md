@@ -1,5 +1,5 @@
 # Sexually Transmitted Infections
-Co-infection with multiple STIs is common. 
+Co-infection with multiple sexually transmitted infections (STIs) is common. 
 
 ## Syphilis
 
@@ -174,13 +174,15 @@ With late and chronic symptomatic infection, symptoms include fever, weight loss
 HIV testing in Canadian laboratories include both HIV p24 antigen and HIV antibody testing, with an accurate result within three to six weeks after exposure.
 
 ### Management
-Those infected can be treated daily antiretroviral therapy (ART) until viral levels are undetectable. HIV infection can be effectively prevented with daily pre-exposure prophylaxis (PrEP). Those at risk of infection can receive post-exposure prophylaxis (PEP) within 72 hours, which may prevent infection. 
+Those infected can be treated with daily antiretroviral therapy (ART) until viral levels are undetectable. HIV infection can be effectively prevented with daily pre-exposure prophylaxis (PrEP). Those at risk of infection can receive post-exposure prophylaxis (PEP) within 72 hours, which may prevent infection. 
+
+PrEP: Emtricitabine / Tenofovir (Truvada) OD, at least 7 days before and 7 days after possible exposure.
 
 ## Mgen
-Mgen is a newly emerging STI caused by the *Mycoplasma genitalium* bacterium, that is already showing resistance to macrolide antibiotics.
+Mgen is a newly emerging STI caused by the *Mycoplasma genitalium* bacterium, that is naturally resistant to antibiotics and is already showing resistance to macrolides.
 
 ### Symptoms
-Treatment resistant urethritis, cervicitis, or pelvic inflammatory disease (PID). Abnormal discharge from the vagina or urethra. Dysuria.
+Although currently under investigation, symptoms include abnormal discharge from the vagina or urethra, dysuria, or treatment-resistant urethritis, cervicitis, or pelvic inflammatory disease (PID).
 
 ### Testing
 - TODO
