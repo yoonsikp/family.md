@@ -176,7 +176,16 @@ HIV testing in Canadian laboratories include both HIV p24 antigen and HIV antibo
 ### Management
 Those infected can be treated daily antiretroviral therapy (ART) until viral levels are undetectable. HIV infection can be effectively prevented with daily pre-exposure prophylaxis (PrEP). Those at risk of infection can receive post-exposure prophylaxis (PEP) within 72 hours, which may prevent infection. 
 
-## Mycoplasma genitalium
+## Mgen
+Mgen is a newly emerging STI caused by the *Mycoplasma genitalium* bacterium, that is already showing resistance to macrolide antibiotics.
+
+### Symptoms
+Treatment resistant urethritis, cervicitis, or pelvic inflammatory disease (PID). Abnormal discharge from the vagina or urethra. Dysuria.
+
+### Testing
+- TODO
+
+### Management
 - TODO
 
 ## References
@@ -186,7 +195,7 @@ Those infected can be treated daily antiretroviral therapy (ART) until viral lev
 - https://www.canada.ca/en/public-health/services/diseases/gonorrhea.html
 - https://www.gov.mb.ca/health/publichealth/diseases/lgv.html
 - https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-023-00490-2
-- https://www.ncbi.nlm.nih.gov/books/NBK534826/
+  -https://www.ncbi.nlm.nih.gov/books/NBK534826/
 - https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html
 - https://www.who.int/docs/default-source/searo/hiv-hepatitis/training-modules/07-hbv-natural-history.pdf
 - https://www.phac-aspc.gc.ca/id-mi/pdf/hepB-eng.pdf
@@ -194,3 +203,4 @@ Those infected can be treated daily antiretroviral therapy (ART) until viral lev
 - https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/herpes-simplex-virus.html
 - https://www.merckmanuals.com/en-ca/home/infections/herpesvirus-infections/herpes-simplex-virus-hsv-infections
 - https://www.canada.ca/en/public-health/services/diseases/hiv-aids/health-professionals.html
+- https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/mycoplasma-genitalium.html
