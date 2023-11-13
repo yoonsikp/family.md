@@ -176,7 +176,7 @@ HIV testing in Canadian laboratories include both HIV p24 antigen and HIV antibo
 ### Management
 Those infected can be treated with daily antiretroviral therapy (ART) until viral levels are undetectable. HIV infection can be effectively prevented with daily pre-exposure prophylaxis (PrEP). Those at risk of infection can receive post-exposure prophylaxis (PEP) within 72 hours, which may prevent infection. 
 
-PrEP: Emtricitabine / Tenofovir (Truvada) OD, at least 7 days before and 7 days after possible exposure.
+PrEP: Emtricitabine / Tenofovir (Truvada) PO OD, at least 7 days before and 7 days after possible exposure.
 
 ## Mgen
 Mgen is a newly emerging STI caused by the *Mycoplasma genitalium* bacterium, that is naturally resistant to antibiotics and is already showing resistance to macrolides.
