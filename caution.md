@@ -28,6 +28,7 @@
 - Sleepiness
 - Weight gain
 - NMS
+- Elevated prolactin
 
 ### Lithium
 - Renal insufficiency
@@ -103,6 +104,9 @@
 ### SSRI
 - Serotonin syndrome
 - Sexual dysfunction
+
+### Bupropion (Wellbutrin)
+- Seizure risk
 
 ### Trazadone
 - Priapism
