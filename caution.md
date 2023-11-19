@@ -42,9 +42,44 @@
 ### Valproate
 - Liver toxicity
 
+### Fluoroquinolone
+- Achilles rupture
+- Tendinopathy
+
 ### Corticosteroid
 - Weight gain
 - Osteoporosis (long term)
+
+### Digoxin
+- GI Upset
+- Hypokalemia
+
+### Salbutamol
+- Hypokalemia
+
+### Lasix or Thiazide Diuretics
+- Hypokalemia
+
+### ACE Inhibitors
+- Cough
+- Hyperkalemia
+
+### ARBs
+- Hyperkalemia
+
+### Spironolactone
+- Hyperkalemia
+- Gynecomastia
+
+### Amiodarone
+- Pulmonary toxicity
+- Thyroid disease
+- Liver toxicity
+- Blue man syndrome
+
+### SSRI
+- Serotonin syndrome
+- Sexual dysfunction
 
 ### Blood Transfusion
 - Alloimmunization (1/100)
