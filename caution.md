@@ -167,7 +167,7 @@
 - Anesthesia complications
 - Vocal cord injury/paralysis
 
-### Chiropractor
+### Cervical Manipulation
 - Vertebral artery dissection (1/10000)
 
 ## Investigations
