@@ -2,19 +2,19 @@
 
 ## Medications
 
-### Advil
+### Ibuprofen (Advil)
 - Acute kidney injury
 - Stomach ulcers
 
-### Tylenol
+### Paracetamol (Tylenol)
 - Liver toxicity
 
-### Aspirin
+### Acetylsalicylic Acid (Aspirin)
 - Reye's syndrome in children
 - Overdose
 - Bleeding
 
-### PPI
+### Proton Pump Inhibitors
 - Bone fracture (long term)
 - Magnesium deficiency
 
@@ -66,7 +66,7 @@
 ### Terbinafine
 - Liver injury
 
-### Risperidone or Antipsychotic
+### Risperidone or Antipsychotics
 - EPS
 - Sleepiness
 - Weight gain
@@ -119,7 +119,7 @@
 - Liver toxicity
 - Blue man syndrome
 
-### Truvada
+### PrEP (Truvada)
 - Kidney damage
 
 ### SSRI
@@ -151,9 +151,6 @@
 - Lung injury (1/10000)
 - Viral infection (1/100000)
 
-### CT Contrast
-- Acute kidney injury
-
 ## Vaccines
 
 ### Rotavirus Oral (Rotarix)
@@ -181,4 +178,4 @@
 
 ### CT Scan
 - Cancer risk (1/1000)
-
+- Acute Kidney Injury from Contrast
