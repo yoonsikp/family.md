@@ -42,6 +42,7 @@
 
 ### Advil
 - Acute kidney injury
+- Stomach ulcers
 
 ### Tylenol
 - Liver toxicity
@@ -61,6 +62,7 @@
 ### Corticosteroid
 - Weight gain
 - Osteoporosis (long term)
+- Stomach ulcers with NSAID
 
 ### Digoxin
 - Overdose
@@ -104,6 +106,19 @@
 
 ### Amoxicillin-clavulanate
 - Liver toxicity
+
+### Aspirin
+- Reye's syndrome in children
+- Overdose
+- Bleeding
+
+### Benzodiazepines
+- Alcohol interaction (death)
+- Addiction
+
+### Opioids
+- Alcohol interaction (death)
+- Addiction
 
 ### Blood Transfusion
 - Alloimmunization (1/100)
