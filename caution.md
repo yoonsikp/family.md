@@ -151,6 +151,8 @@
 - Lung injury (1/10000)
 - Viral infection (1/100000)
 
+### CT Contrast
+
 ## Vaccines
 
 ### Rotavirus Oral (Rotarix)
@@ -167,3 +169,12 @@
 
 ### Chiropractor
 - Vertebral artery dissection (1/10000)
+
+## Investigations
+### MRI Scan
+- Metal shards
+- Hearing loss (without ear protection)
+
+### CT Scan
+- Cancer risk (1/1000)
+
