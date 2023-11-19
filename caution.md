@@ -28,6 +28,7 @@
 
 ### Lasix or Thiazide Diuretics
 - Hypokalemia
+- Hyponatremia
 - Acute kidney injury
 
 ### ACE Inhibitors
@@ -125,6 +126,7 @@
 ### SSRI
 - Serotonin syndrome
 - Sexual dysfunction
+- Hyponatremia
 
 ### Bupropion (Wellbutrin)
 - Seizure risk
