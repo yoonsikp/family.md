@@ -150,3 +150,8 @@
 - Transfusion associated circulatory overload (TACO) (1/1000)
 - Lung injury (1/10000)
 - Viral infection (1/100000)
+
+## Vaccines
+
+### Rotavirus Oral (Rotarix)
+- Intussusception (1/10000)
