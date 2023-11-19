@@ -120,6 +120,10 @@
 - Alcohol interaction (death)
 - Addiction
 
+### Z-drugs
+- Fall risk
+- Sleepwalking
+
 ### Blood Transfusion
 - Alloimmunization (1/100)
 - Allergic reaction (1/100)
