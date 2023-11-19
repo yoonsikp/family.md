@@ -25,6 +25,7 @@
 ### Beta blockers
 - Sexual dysfunction
 - Asthma exacerbation
+- Hyperkalemia
 
 ### Lasix or Thiazide Diuretics
 - Hypokalemia
@@ -71,6 +72,7 @@
 - EPS
 - Sleepiness
 - Weight gain
+- Diabetes
 - NMS
 - Elevated prolactin
 
@@ -127,6 +129,12 @@
 - Serotonin syndrome
 - Sexual dysfunction
 - Hyponatremia
+- Mania/suicide
+
+### Tricyclic antidepressant
+- Serotonin syndrome
+- Overdose
+- Restlessness
 
 ### Bupropion (Wellbutrin)
 - Seizure risk
@@ -137,6 +145,7 @@
 ### Benzodiazepines
 - Alcohol interaction (death)
 - Addiction
+- Delirium
 
 ### Opioids
 - Alcohol interaction (death)
