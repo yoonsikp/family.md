@@ -2,10 +2,10 @@
 
 ## Medications
 
-## Warfarin
+### Warfarin
 - Alcohol interaction (bleeding)
 
-## TMP/SMX & Metronidazole
+### TMP/SMX & Metronidazole
 - Alcohol interaction (hangover)
 
 ### Methotrexate
@@ -14,7 +14,7 @@
 - Respiratory symptoms
 - Cytopenias
 
-## Azathioprine
+### Azathioprine
 - Liver injury
 
 ### Risperidone or Antipsychotic
