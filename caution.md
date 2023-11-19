@@ -152,6 +152,7 @@
 - Viral infection (1/100000)
 
 ### CT Contrast
+- Acute kidney injury
 
 ## Vaccines
 
