@@ -103,7 +103,7 @@
 ### Corticosteroid
 - Weight gain
 - Osteoporosis (long term)
-- Stomach ulcers with NSAID
+- Stomach ulcers
 
 ### Digoxin
 - Overdose
@@ -157,6 +157,9 @@
 
 ### Rotavirus Oral (Rotarix)
 - Intussusception (1/10000)
+
+### COVID-19 mRNA (BioNTech)
+- Myocarditis (1/10000)
 
 ## Procedures
 ### Surgery
