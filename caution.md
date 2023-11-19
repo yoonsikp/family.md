@@ -2,6 +2,49 @@
 
 ## Medications
 
+### Advil
+- Acute kidney injury
+- Stomach ulcers
+
+### Tylenol
+- Liver toxicity
+
+### Aspirin
+- Reye's syndrome in children
+- Overdose
+- Bleeding
+
+### PPI
+- Bone fracture (long term)
+- Magnesium deficiency
+
+### Statins
+- Muscle pain/injury
+- Liver toxicity
+
+### Beta blockers
+- Sexual dysfunction
+- Asthma exacerbation
+
+### Lasix or Thiazide Diuretics
+- Hypokalemia
+- Acute kidney injury
+
+### ACE Inhibitors
+- Cough
+- Hyperkalemia
+- Acute kidney injury
+
+### ARBs
+- Hyperkalemia
+
+### Spironolactone
+- Hyperkalemia
+- Gynecomastia
+
+### Amoxicillin-clavulanate
+- Liver toxicity
+
 ### Warfarin
 - Alcohol interaction (bleeding)
 
@@ -37,17 +80,6 @@
 - Hypothyroidism
 - Overdose
 
-### PPI
-- Bone fracture (long term)
-- Magnesium deficiency
-
-### Advil
-- Acute kidney injury
-- Stomach ulcers
-
-### Tylenol
-- Liver toxicity
-
 ### Valproate
 - Overdose
 - Liver toxicity
@@ -81,22 +113,6 @@
 ### Salbutamol
 - Hypokalemia
 
-### Lasix or Thiazide Diuretics
-- Hypokalemia
-- Acute kidney injury
-
-### ACE Inhibitors
-- Cough
-- Hyperkalemia
-- Acute kidney injury
-
-### ARBs
-- Hyperkalemia
-
-### Spironolactone
-- Hyperkalemia
-- Gynecomastia
-
 ### Amiodarone
 - Pulmonary toxicity
 - Thyroid disease
@@ -115,22 +131,6 @@
 
 ### Trazadone
 - Priapism
-
-### Statins
-- Muscle pain/injury
-- Liver toxicity
-
-### Beta blockers
-- Sexual dysfunction
-- Asthma exacerbation
-
-### Amoxicillin-clavulanate
-- Liver toxicity
-
-### Aspirin
-- Reye's syndrome in children
-- Overdose
-- Bleeding
 
 ### Benzodiazepines
 - Alcohol interaction (death)
@@ -161,7 +161,7 @@
 ## Procedures
 ### Surgery
 - Infection
-- Injury
+- Intraoperative injury
 - Bleeding
 - Blood clots
 - Anesthesia complications
