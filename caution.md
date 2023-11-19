@@ -45,3 +45,10 @@
 ### Corticosteroid
 - Weight gain
 - Osteoporosis (long term)
+
+### Blood Transfusion
+- Alloimmunization (1/100)
+- Allergic reaction (1/100)
+- Transfusion associated circulatory overload (TACO) (1/1000)
+- Lung injury (1/10000)
+- Viral infection (1/100000)
