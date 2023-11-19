@@ -76,17 +76,19 @@
 ### Digoxin
 - Overdose
 - GI Upset
-- Hypokalemia
+- Hyperkalemia
 
 ### Salbutamol
 - Hypokalemia
 
 ### Lasix or Thiazide Diuretics
 - Hypokalemia
+- Acute kidney injury
 
 ### ACE Inhibitors
 - Cough
 - Hyperkalemia
+- Acute kidney injury
 
 ### ARBs
 - Hyperkalemia
@@ -100,6 +102,9 @@
 - Thyroid disease
 - Liver toxicity
 - Blue man syndrome
+
+### Truvada
+- Kidney damage
 
 ### SSRI
 - Serotonin syndrome
