@@ -95,6 +95,7 @@
 ### SSRI
 - Serotonin syndrome
 - Sexual dysfunction
+- Priapism
 
 ### Statins
 - Muscle pain/injury
