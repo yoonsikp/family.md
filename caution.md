@@ -17,6 +17,12 @@
 ### Azathioprine
 - Liver injury
 
+### Empagliflozin
+- UTI
+
+### Terbinafine
+- Liver injury
+
 ### Risperidone or Antipsychotic
 - EPS
 - Sleepiness
@@ -28,6 +34,7 @@
 - Liver toxicity
 - Intoxication
 - Hypothyroidism
+- Overdose
 
 ### PPI
 - Bone fracture (long term)
@@ -42,6 +49,11 @@
 ### Valproate
 - Liver toxicity
 
+### Phenytoin (Dilantin)
+- Overdose
+- Liver toxicity
+- Anemia
+
 ### Fluoroquinolone
 - Achilles rupture
 - Tendinopathy
@@ -51,6 +63,7 @@
 - Osteoporosis (long term)
 
 ### Digoxin
+- Overdose
 - GI Upset
 - Hypokalemia
 
@@ -80,6 +93,17 @@
 ### SSRI
 - Serotonin syndrome
 - Sexual dysfunction
+
+### Statins
+- Muscle pain/injury
+- Liver toxicity
+
+### Beta blockers
+- Sexual dysfunction
+- Asthma exacerbation
+
+### Amoxicillin-clavulanate
+- Liver toxicity
 
 ### Blood Transfusion
 - Alloimmunization (1/100)
