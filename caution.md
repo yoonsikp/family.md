@@ -155,3 +155,15 @@
 
 ### Rotavirus Oral (Rotarix)
 - Intussusception (1/10000)
+
+## Procedures
+### Surgery
+- Infection
+- Injury
+- Bleeding
+- Blood clots
+- Anesthesia complications
+- Vocal cord injury/paralysis
+
+### Chiropractor
+- Vertebral artery dissection (1/10000)
