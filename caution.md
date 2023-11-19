@@ -48,12 +48,20 @@
 - Liver toxicity
 
 ### Valproate
+- Overdose
 - Liver toxicity
 
 ### Phenytoin (Dilantin)
 - Overdose
 - Liver toxicity
 - Anemia
+- Skin rash
+- Toxic epidermal necrolysis
+
+### Lamotrigine
+- Anemia
+- Skin rash
+- Toxic epidermal necrolysis
 
 ### Fluoroquinolone
 - Achilles rupture
@@ -95,6 +103,8 @@
 ### SSRI
 - Serotonin syndrome
 - Sexual dysfunction
+
+### Trazadone
 - Priapism
 
 ### Statins
