@@ -44,11 +44,20 @@
 - Hyperkalemia
 - Gynecomastia
 
+### Cephalosporins
+- Diarrhea
+- C. diff infection
+
 ### Amoxicillin-clavulanate
 - Liver toxicity
+- Diarrhea
+- C. diff infection
 
 ### Warfarin
 - Alcohol interaction (bleeding)
+
+### Nitroglycerin
+- PDE5 inhibitors contraindicated
 
 ### TMP/SMX & Metronidazole
 - Alcohol interaction (hangover)
@@ -63,7 +72,8 @@
 - Liver injury
 
 ### Empagliflozin
-- UTI
+- Urinary tract infection
+- Foot ulcers
 
 ### Terbinafine
 - Liver injury
@@ -102,6 +112,7 @@
 ### Fluoroquinolone
 - Achilles rupture
 - Tendinopathy
+- C. diff infection
 
 ### Corticosteroid
 - Weight gain
