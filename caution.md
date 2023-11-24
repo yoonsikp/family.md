@@ -91,9 +91,9 @@
 ### Lithium
 - Renal insufficiency
 - Liver toxicity
-- Intoxication
 - Hypothyroidism
 - Overdose
+- NSAID interactions
 
 ### Valproate
 - Overdose
