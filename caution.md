@@ -78,12 +78,14 @@
 ### Terbinafine
 - Liver injury
 
-### Risperidone or Antipsychotics
+### Haloperidol
+- Contraindicated in dementia and Parkinson's
 - EPS
-- Sleepiness
-- Weight gain
-- Diabetes
-- NMS
+- Elevated prolactin
+
+### Risperidone and other Antipsychotics
+- EPS
+- Metabolic syndrome
 - Elevated prolactin
 
 ### Lithium
