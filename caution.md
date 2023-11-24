@@ -45,7 +45,7 @@
 - Gynecomastia
 
 ### Cephalosporins
-- Diarrhea
+- Alcohol interaction (toxicity)
 - C. diff infection
 
 ### Amoxicillin-clavulanate
@@ -60,7 +60,7 @@
 - PDE5 inhibitors contraindicated
 
 ### TMP/SMX & Metronidazole
-- Alcohol interaction (hangover)
+- Alcohol interaction (toxicity)
 
 ### Methotrexate
 - Liver toxicity
