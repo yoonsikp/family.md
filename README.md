@@ -4,5 +4,8 @@ useful markdown files for family medicine
 # TODO
 - PID/vaginitis
 - CHADS a fib
-- common drugs --> side effects and monitoring
+- thyroid
+- COPD
+- Asthma
+- fatigue
 - peds functional abdo pain
