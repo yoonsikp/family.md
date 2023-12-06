@@ -44,14 +44,23 @@
 - Hyperkalemia
 - Gynecomastia
 
+### Cephalosporins
+- Alcohol interaction (toxicity)
+- C. diff infection
+
 ### Amoxicillin-clavulanate
 - Liver toxicity
+- Diarrhea
+- C. diff infection
 
 ### Warfarin
 - Alcohol interaction (bleeding)
 
+### Nitroglycerin
+- PDE5 inhibitors contraindicated
+
 ### TMP/SMX & Metronidazole
-- Alcohol interaction (hangover)
+- Alcohol interaction (toxicity)
 
 ### Methotrexate
 - Liver toxicity
@@ -63,25 +72,28 @@
 - Liver injury
 
 ### Empagliflozin
-- UTI
+- Urinary tract infection
+- Foot ulcers
 
 ### Terbinafine
 - Liver injury
 
-### Risperidone or Antipsychotics
+### Haloperidol
+- Contraindicated in dementia and Parkinson's
 - EPS
-- Sleepiness
-- Weight gain
-- Diabetes
-- NMS
+- Elevated prolactin
+
+### Risperidone and other Antipsychotics
+- EPS
+- Metabolic syndrome
 - Elevated prolactin
 
 ### Lithium
 - Renal insufficiency
 - Liver toxicity
-- Intoxication
 - Hypothyroidism
 - Overdose
+- NSAID interactions
 
 ### Valproate
 - Overdose
@@ -102,6 +114,7 @@
 ### Fluoroquinolone
 - Achilles rupture
 - Tendinopathy
+- C. diff infection
 
 ### Corticosteroid
 - Weight gain
