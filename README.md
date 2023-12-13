@@ -10,3 +10,4 @@ useful markdown files for family medicine
 - fatigue
 - peds functional abdo pain
 - DLD
+- swabs/smear
