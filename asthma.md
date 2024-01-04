@@ -16,7 +16,7 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 - O2 titrate to ~92%
 - SABA (every 20-30 minutes)
 - Ipratropium (every 20-30 minutes)
-- IV steroids
+- IV steroids (Prednisone 30-60mg or 2 mg/kg PO for 5 days)
 - IV MgSO4
 - IV Salbutamol (reserve for PICU setting)
 
