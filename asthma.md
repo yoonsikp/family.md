@@ -1,6 +1,6 @@
 # Asthma
 
-Asthma is the paroxysmal obstruction of airways due to a stimulus, causing wheeze, cough, dyspnea, and sputum. Most of the obstruction in an acute asthma attack is in the tracheobronchial tree. Diagnosis starts at 1 year of age, but needs convincing clinical report.
+Asthma is the paroxysmal obstruction of airways due to a stimulus, causing wheeze, cough, dyspnea, and sputum. Most of the obstruction in an acute asthma attack is in the tracheobronchial tree. Diagnosis starts at 1 year of age, but needs convincing clinical report. Part of the atopic triad (asthma, eczema, and allergies).
 
 ## Testing
 Obtain spirometry. Stop bronchodilators and ICS before test.
