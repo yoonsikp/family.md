@@ -31,3 +31,10 @@ Start triple therapy for those who have severe COPD symptoms.
 - Provide Tdap + PPSV23 + flu vaccine.
 - Reduce smoke exposure
 - Continue exercise.
+
+## Differential Diagnosis
+- Asthma (reversible)
+- Bronchiectasis (purulent sputum, bacterial)
+- Heart failure
+- Tuberculosis
+- Obliterative bronchiolitis, i.e. popcorn lung (obtain HRCT)
