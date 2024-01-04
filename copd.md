@@ -16,11 +16,18 @@ Symptoms include SOB, sputum, cough. Start oxygen therapy, target is ~90-92%. Ob
 
 Antibiotics +/- sputum culture if concern for infection
 
-## Initial Treatment
-Low Ex. + Low Sx. = Any bronchodilator
-Low Ex. + High Sx. = LABA or LAMA
-High Ex. + Low Sx. = LAMA
-High Ex. + High Sx. = LABA + LAMA, (ICS + LABA if eosinophilic)
+## Outpatient Treatment (GOLD 2020)
+Try to divide patients into: High Risk for Exacerbation vs High Symptoms using COPD Assessment Test. High risk for exacerbation: >= 1 severe exacerbation per year.
 
-## Long Term
-Reduce smoke exposure, continue exercise.
+- Low Ex. + Low Sx. = Any bronchodilator
+- Low Ex. + High Sx. = LABA or LAMA (e.g. Tiotropium)
+- High Ex. + Low Sx. = LAMA
+- High Ex. + High Sx. = LABA + LAMA, (ICS + LABA if eosinophilic)
+
+Start triple therapy for those who have severe COPD symptoms.
+
+## Long Term Treatment
+- Supplement oxygen if resting O2 <= 88%. Wear for 15hr/day.
+- Provide Tdap + PPSV23 + flu vaccine.
+- Reduce smoke exposure
+- Continue exercise.
