@@ -8,21 +8,21 @@ Symptoms include shortness of breath that worsens on exertion, and cough with or
 COPD patients will have an FEV1/FVC ratio less than 0.7, with minimal signs of reversibility with bronchodilator compared to asthma. Low FEV1 is pathognomonic for obstruction.
 
 ## Acute Exacerbation
-Symptoms include SOB, sputum, cough. Start oxygen therapy, target is ~90-92%. Obtain VBG and consider nebulizer if indicated.
+Symptoms include dyspnea, purulent or increased sputum, cough. Start oxygen therapy, target is ~90-92%. Obtain VBG and consider nebulizer if indicated.
 
 - Mild: SABA (e.g. Salbutamol q1-2h)
 - Moderate: SABA + SAMA (e.g. Ipratropium q1-2h)
 - Severe: SABA + SAMA + systemic corticosteroids (e.g. Prednisone 30-60 mg OD)
 
-Antibiotics +/- sputum culture if concern for infection
+Antibiotics (e.g. Azithromycin 500 mg PO OD) +/- sputum culture if concern for infection
 
 ## Outpatient Treatment (GOLD 2020)
 Try to divide patients into: High Risk for Exacerbation vs High Symptoms using COPD Assessment Test. High risk for exacerbation: >= 1 severe exacerbation per year. Start with a rescue puffer: short-acting bronchodilator.
 
 - Low Ex. + Low Sx. = Any bronchodilator
-- Low Ex. + High Sx. = LABA or LAMA (e.g. Tiotropium)
-- High Ex. + Low Sx. = LAMA
-- High Ex. + High Sx. = LABA + LAMA, (ICS + LABA if eosinophilic)
+- Low Ex. + High Sx. = LABA (e.g. Salmeterol BID) or LAMA
+- High Ex. + Low Sx. = LAMA (e.g. Tiotropium OD)
+- High Ex. + High Sx. = LABA (e.g. Formoterol BID) + LAMA, (ICS + LABA if eosinophilic)
 
 Start triple therapy for those who have severe COPD symptoms.
 
