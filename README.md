@@ -5,8 +5,9 @@ useful markdown files for family medicine
 - PID/vaginitis
 - CHADS a fib
 - thyroid
-- COPD
+- acne
 - Asthma
 - fatigue
 - peds functional abdo pain
 - DLD
+- swabs/smear

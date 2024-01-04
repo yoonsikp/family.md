@@ -120,6 +120,8 @@
 - Weight gain
 - Osteoporosis (long term)
 - Stomach ulcers
+- Glaucoma
+- Cataracts
 
 ### Digoxin
 - Overdose
