@@ -21,6 +21,8 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 - IV Salbutamol (reserve for ICU setting)
 
 ## Outpatient Treatment (GINA)
+Avoidance of triggers and medications. Recommend using a spacer with Metered Dose Inhalers (MDIs). 
+
 ### Adults
 For rescue puffer, start low dose ICS-LABA PRN or SABA. Start a scheduled controller based on symptoms:
 - 1x a month: low dose ICS-LABA PRN
