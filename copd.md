@@ -8,7 +8,7 @@ Symptoms include shortness of breath that worsens on exertion, and cough with or
 COPD patients will have an FEV1/FVC ratio less than 0.7, with minimal signs of reversibility with bronchodilator compared to asthma. Low FEV1 is pathognomonic for obstruction.
 
 ## Acute Exacerbation
-Sputum and cough. Start oxygen therapy, target is ~90-92%. Obtain VBG and consider nebulizer if indicated.
+Symptoms include SOB, sputum, cough. Start oxygen therapy, target is ~90-92%. Obtain VBG and consider nebulizer if indicated.
 
 - Mild: SABA (e.g. Salbutamol q1-2h)
 - Moderate: SABA + SAMA (e.g. Ipratropium q1-2h)
