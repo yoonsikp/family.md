@@ -14,18 +14,14 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 
 ## Treatment (GINA)
 ### Adults
-Rescue: start low dose ICS-LABA PRN or SABA
-
-Controller (based on symptoms):
+For rescue puffer, start low dose ICS-LABA PRN or SABA. Start a scheduled controller based on symptoms:
 - 1x a month: low dose ICS-LABA PRN
 - less than half of days: daily low dose ICS or ICS-LABA PRN
 - more than half of days: daily low dose ICS-LABA
 - more than half of days with low lung function: medium dose ICS-LABA
 
 ### Children
-Rescue: start SABA
-
-Controller (based on symptoms):
+For a rescue puffer, use a SABA. Start a scheduled controller based on symptoms:
 - 1x a month: nothing
 - less than half of days: daily low dose ICS
 - more than half of days: daily low dose ICS-LABA
