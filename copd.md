@@ -17,7 +17,7 @@ Symptoms include SOB, sputum, cough. Start oxygen therapy, target is ~90-92%. Ob
 Antibiotics +/- sputum culture if concern for infection
 
 ## Outpatient Treatment (GOLD 2020)
-Try to divide patients into: High Risk for Exacerbation vs High Symptoms using COPD Assessment Test. High risk for exacerbation: >= 1 severe exacerbation per year.
+Try to divide patients into: High Risk for Exacerbation vs High Symptoms using COPD Assessment Test. High risk for exacerbation: >= 1 severe exacerbation per year. Start with a rescue puffer: short-acting bronchodilator.
 
 - Low Ex. + Low Sx. = Any bronchodilator
 - Low Ex. + High Sx. = LABA or LAMA (e.g. Tiotropium)
