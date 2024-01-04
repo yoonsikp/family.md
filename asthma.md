@@ -18,6 +18,7 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 - Ipratropium (every 20-30 minutes)
 - IV steroids
 - IV MgSO4
+- IV Salbutamol (reserve for PICU setting)
 
 ## Outpatient Treatment (GINA)
 ### Adults
