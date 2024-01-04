@@ -14,11 +14,11 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 
 ## Acute Exacerbation
 - O2 titrate to ~92%
-- SABA (every 20-30 minutes)
-- Ipratropium (every 20-30 minutes)
-- IV steroids (Prednisone 30-60mg or 2 mg/kg PO for 5 days)
-- IV MgSO4
-- IV Salbutamol (reserve for PICU setting)
+- SABA (e.g. Salbutamol 4-8 puffs q20-30 min x3)
+- SAMA (e.g. Ipratropium 4-8 puffs q20-30 min x3)
+- PO/IV Steroids (e.g. Prednisone 30-60mg or 2 mg/kg OD for 5 days)
+- IV Magnesium Sulfate 40 mg/kg (max 2g) over 30 min.
+- IV Salbutamol (reserve for ICU setting)
 
 ## Outpatient Treatment (GINA)
 ### Adults
