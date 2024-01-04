@@ -35,7 +35,7 @@ For a rescue puffer, use a SABA. Start a scheduled controller based on symptoms:
 - 1x a month: nothing
 - less than half of days: daily low dose ICS
 - more than half of days: daily low dose ICS-LABA
-- more than half of days with low lung function: referral
+- more than half of days with low lung function: referral to respirologist
 
 ## Examples of ICS/LABA:
 
