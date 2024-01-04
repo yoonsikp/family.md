@@ -12,7 +12,14 @@ Obtain spirometry. Stop bronchodilators and ICS before test.
 
 FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8 moderate, <0.6 severe). Asthma has variable PEFRs. Flow volume loop will show scooping. CXR may show hyperinflation. Hallmarks of asthma are reversibility: after SABA FEV1 increases 12% or 200mL, and provocation: after methacholine FEV1 decreases 20%, after exercise decreases 10%. FVC takes longer to recover vs. FEV1.
 
-## Treatment (GINA)
+## Acute Exacerbation
+- O2 titrate to ~92%
+- SABA (every 20-30 minutes)
+- Ipratropium (every 20-30 minutes)
+- IV steroids
+- IV MgSO4
+
+## Outpatient Treatment (GINA)
 ### Adults
 For rescue puffer, start low dose ICS-LABA PRN or SABA. Start a scheduled controller based on symptoms:
 - 1x a month: low dose ICS-LABA PRN
