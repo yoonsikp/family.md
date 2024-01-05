@@ -61,5 +61,4 @@ Don't use nitrates in those with Right sided Heart Failure, HOCM, bradycardia, s
 
 ## References
 - https://www.uptodate.com/contents/evaluation-of-emergency-department-patients-with-chest-pain-at-low-or-intermediate-risk-for-acute-coronary-syndrome
-- https://www.uptodate.com/contents/overview-of-the-nonacute-management-of-st-elevation-myocardial-infarction#H20
-- UpToDate
+- https://www.uptodate.com/contents/overview-of-the-nonacute-management-of-st-elevation-myocardial-infarction
