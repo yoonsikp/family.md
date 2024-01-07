@@ -143,11 +143,10 @@
 - Kidney damage
 
 ### MAOI
-- Serotonin syndrome (w/ SSRI, MDMA, etc.)
-- Hypertension (w/ tyramine-rich foods)
+- Serotonin syndrome
+- Hypertension (tyramine-rich foods)
 
 ### SSRI
-- Serotonin syndrome
 - Sexual dysfunction
 - Hyponatremia
 - Mania/suicide
