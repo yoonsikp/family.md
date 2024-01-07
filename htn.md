@@ -42,7 +42,9 @@
 - Thiazide diuretics
 - ACEi + ARBs (don't use if pregnant)
 - Long-acting Dihydropyridine CCBs
-- Beta Blockers (use for those with CVD or pregnant)
+- Nonselective Beta Blockers
+  - Carvedilol (also used for MI, HFrEF, cirrhosis)
+  - Lebatalol (in pregnancy or non-HF hypertensive emergency)
 
 ## Initial Screening
 - Urinalysis and ACR
