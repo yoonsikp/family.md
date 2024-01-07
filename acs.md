@@ -35,10 +35,10 @@ If unclear do a repeat troponin in 3hrs. Low risk patients with negative troponi
 
 ## NSTEACS (NSTEMI or UA)
 - Acute management
-    - Antiplatelet: aspirin 
-    - Nitrates: nitrate spray, max 3 sprays in 15 min for angina
+    - Antiplatelet: aspirin (160mg loading, 81mg OD) + ticagrelor (180 mg loading, 90mg BID)
+    - Nitrates: e.g. nitrate spray, max 3 sprays/15 min for angina
     - Anticoagulation: enoxaparin or fondaparinux (conservative ~48 hrs) or UFH (Invasive +/- PCI) 
-        - Enoxaparin – 1 mg/kg subcutaneously every 12 hours (24 hrs if eGFR<30)
+        - Enoxaparin: 1 mg/kg subcutaneously every 12 hours (24 hrs if eGFR<30)
         - Fondaparinux: 2.5 mg SC OD
         - UFH for PCI: IV bolus of UFH of 70 to 100 units/kg up to a maximum of 10,000 units (with additional boluses if needed, ACT target > 250s)
         - UFH for Invasive: IV bolus of UFH of 60 units/kg up to a maximum of 4000 units, IV infusion of 12 units/kg/hour (maximum 1000 units/hour) aPTT target 50-75s
