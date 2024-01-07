@@ -21,6 +21,7 @@
 ### Statins
 - Muscle pain/injury
 - Liver toxicity
+- Tendon injury
 
 ### Beta blockers
 - Sexual dysfunction
