@@ -27,6 +27,7 @@
 - Sexual dysfunction
 - Asthma exacerbation
 - Hyperkalemia
+- Fatigue
 
 ### Lasix or Thiazide Diuretics
 - Hypokalemia
