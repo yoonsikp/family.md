@@ -1,8 +1,11 @@
 # Acute Coronary Syndrome (ACS)
 
-Types of ACS: ST-elevation Myocardial Infarction (STEMI), non-ST-elevation Myocardial Infarction (NSTEMI), Unstable Angina (UA). STEMI has ST elevation on EKG. NSTEMI has troponin rise, no ST elevation. UA has no troponin rise, but severe, sudden, or increasing angina, usually > 20 minutes. If unclear do a repeat troponin in 3hrs. Low risk patients with negative troponin after 3 hrs of symptoms can rule-out MI.
+Types of ACS:
+- ST-elevation Myocardial Infarction (STEMI), troponin rise, ST elevation on EKG
+- non-ST-elevation Myocardial Infarction (NSTEMI), troponin rise, no ST elevation
+- Unstable Angina (UA), no troponin rise, but severe, sudden, or worsening angina > 20 minutes
 
-Don't use nitrates in those with Right sided Heart Failure, HOCM, bradycardia, severe hypotension or PDE5 inihibitors.
+If unclear do a repeat troponin in 3hrs. Low risk patients with negative troponin after 3 hrs of symptoms can rule-out MI. Don't use nitrates in those with Right sided Heart Failure, HOCM, bradycardia, severe hypotension or PDE5 inihibitors.
 
 ## STEMI
 - Acute management
