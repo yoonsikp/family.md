@@ -6,7 +6,6 @@ useful markdown files for family medicine
 - CHADS a fib
 - thyroid
 - acne
-- Asthma
 - fatigue
 - peds functional abdo pain
 - DLD

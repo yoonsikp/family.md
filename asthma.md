@@ -1,6 +1,6 @@
 # Asthma
 
-Asthma is the paroxysmal obstruction of airways due to a stimulus, causing wheeze, cough, dyspnea, and sputum. Most of the obstruction in an acute asthma attack is in the tracheobronchial tree. Diagnosis starts at 1 year of age, but needs convincing clinical report.
+Asthma is the paroxysmal obstruction of airways due to a stimulus, causing wheeze, cough, dyspnea, and sputum. Most of the obstruction in an acute asthma attack is in the tracheobronchial tree. Diagnosis starts at 1 year of age, but needs convincing clinical report. Part of the atopic triad (asthma, eczema, and allergies).
 
 ## Testing
 Obtain spirometry. Stop bronchodilators and ICS before test.
@@ -21,6 +21,8 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 - IV Salbutamol (reserve for ICU setting)
 
 ## Outpatient Treatment (GINA)
+Avoidance of triggers and medications. Recommend using a spacer with Metered Dose Inhalers (MDIs). 
+
 ### Adults
 For rescue puffer, start low dose ICS-LABA PRN or SABA. Start a scheduled controller based on symptoms:
 - 1x a month: low dose ICS-LABA PRN
@@ -33,7 +35,7 @@ For a rescue puffer, use a SABA. Start a scheduled controller based on symptoms:
 - 1x a month: nothing
 - less than half of days: daily low dose ICS
 - more than half of days: daily low dose ICS-LABA
-- more than half of days with low lung function: referral
+- more than half of days with low lung function: referral to respirologist
 
 ## Examples of ICS/LABA:
 

@@ -40,9 +40,13 @@
 
 ## Pharmacotherapies
 - Thiazide diuretics
+  - Chlorthalidone
+  - HCTZ
 - ACEi + ARBs (don't use if pregnant)
 - Long-acting Dihydropyridine CCBs
-- Beta Blockers (use for those with CVD or pregnant)
+- Nonselective Beta Blockers
+  - Carvedilol (also used for MI, HFrEF, cirrhosis)
+  - Lebatalol (in pregnancy or non-HF hypertensive emergency)
 
 ## Initial Screening
 - Urinalysis and ACR
@@ -57,3 +61,9 @@
 - Every 6 months for BP checkups once target reached
 - Resistant hypertension if >= 3 medications have been tried without BP control, refer to specialist
 - Repeat bloodwork as necessary (every 1-3 yrs)
+
+## Hypertensive Emergencies
+- Nicardipine
+- Nitroglycerine (avoid in right-sided heart failure)
+- Esmolol or Lebatalol (avoid in decompensated HF)
+- Hydralazine (difficult to dose)

@@ -21,11 +21,13 @@
 ### Statins
 - Muscle pain/injury
 - Liver toxicity
+- Tendon injury
 
 ### Beta blockers
 - Sexual dysfunction
 - Asthma exacerbation
 - Hyperkalemia
+- Fatigue
 
 ### Lasix or Thiazide Diuretics
 - Hypokalemia
