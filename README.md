@@ -3,7 +3,7 @@ useful markdown files for family medicine
 
 # TODO
 - PID/vaginitis
-- CHADS a fib
+- etoh
 - thyroid
 - acne
 - fatigue
