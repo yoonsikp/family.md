@@ -7,6 +7,7 @@ useful markdown files for family medicine
 - thyroid
 - acne
 - fatigue
+- eye
 - peds functional abdo pain
 - DLD
 - swabs/smear
