@@ -147,6 +147,7 @@
 - Hypertension (w/ tyramine-rich foods)
 
 ### SSRI
+- Serotonin syndrome
 - Sexual dysfunction
 - Hyponatremia
 - Mania/suicide
