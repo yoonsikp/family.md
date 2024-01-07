@@ -20,11 +20,11 @@
 - Obstructive sleep apnea
 
 ## Management
-If hemodynamically unstable, urgent rhythm control (cardioversion). For younger patients (<80 yrs) or those who are at high cardiovascular risk, first-line therapy is rhythm control. If <48 hrs of AF, cardioversion can be attempted immediately. If >48 hrs of AF or unsure, four weeks of anticoagulation is needed before and after cardioversion.
+If hemodynamically unstable, urgent rhythm control (cardioversion). For younger patients (<80 yrs) or those who are at high cardiovascular risk, first-line therapy is rhythm control. If <48 hrs of AF, cardioversion can be attempted immediately. If >48 hrs of AF or unsure, four weeks of anticoagulation is needed before and after cardioversion. Refer to cardiology for ablation and antiarrhythmic drugs.
 
 - Assess for stability and thromboembolic symptoms
 - 12-lead EKG +/- echocardiogram
-- Rhythm control: electrical or pharmacological cardioversion, ablation, etc. Refer to cardiology for ablation and antiarrhythmic drugs.
+- Rhythm control: electrical or pharmacological cardioversion, ablation, etc.
 - Rate control: used for symptom management
   - Cardioselective beta blocker (may worsen pulmonary edema)
     - metoprolol tartrate (short-acting) 25 mg PO BID
