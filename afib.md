@@ -37,11 +37,7 @@ If hemodynamically unstable, urgent rhythm control (cardioversion). For younger 
 - Long term anticoagulation to prevent embolic risk
   - Must consider bleeding risk
   - CHADS score >= 1 would warrant anticoagulation
-    - CHF
-    - HTN
-    - Age >= 75
-    - DM
-    - Stroke/TIA (+2)
+    - CHF, HTN, Age >= 75, DM, Stroke/TIA (+2)
   - DOAC
     - Rivaroxaban 20mg PO OD (15mg OD for EGFR 15-50)
     - Apixaban 5mg PO BID (2.5mg BID for EGFR 15-50)
