@@ -142,15 +142,18 @@
 ### PrEP (Truvada)
 - Kidney damage
 
+### MAOI
+- Serotonin syndrome (w/ SSRI, MDMA, etc.)
+- Hypertension (w/ tyramine-rich foods)
+
 ### SSRI
-- Serotonin syndrome
 - Sexual dysfunction
 - Hyponatremia
 - Mania/suicide
 
 ### Tricyclic antidepressant
-- Serotonin syndrome
 - Overdose
+- Drowsiness
 - Restlessness
 
 ### Bupropion (Wellbutrin)
