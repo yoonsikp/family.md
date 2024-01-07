@@ -26,12 +26,12 @@ If unclear do a repeat troponin in 3hrs. Low risk patients with negative troponi
     - Statin within 24 hrs
 
 - Non-acute management
-    - echo for LVEF
-    - stress test
+    - Echocardiogram for LVEF
+    - Stress test
     - ACEi
-    - spirinolactone
-    - beta blocker
-    - aspirin forever, additional antiplatelet for at least 1 year
+    - Spirinolactone
+    - Beta blocker
+    - Aspirin forever, additional antiplatelet for at least 1 year
 
 ## NSTEACS (NSTEMI or UA)
 - Acute management
@@ -55,12 +55,12 @@ If unclear do a repeat troponin in 3hrs. Low risk patients with negative troponi
     - Statin within 24 hrs
 
 - Non-acute management
-    - echo for LVEF
-    - stress test
+    - Echocardiogram for LVEF
+    - Stress test
     - ACEi
-    - spirinolactone
-    - aspirin forever, additional antiplatelet for max 1 year
-    - nitrates PRN
+    - Spirinolactone
+    - Aspirin forever, additional antiplatelet for max 1 year
+    - Nitrates PRN
 
 ## References
 - https://www.uptodate.com/contents/evaluation-of-emergency-department-patients-with-chest-pain-at-low-or-intermediate-risk-for-acute-coronary-syndrome
