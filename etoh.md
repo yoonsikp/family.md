@@ -1,4 +1,4 @@
-# Alcohol Use
+# Ethanol Use
 
 ## AUD
 affecting function
