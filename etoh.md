@@ -11,7 +11,7 @@ Defined in the DSM-5 as either alcohol abuse or alcohol dependence. In general, 
 - Withdrawal symptoms
 
 ## Acute Alcohol Poisoning
-Check EtOH levels, glucose, electrolytes, VBG, anion gap and ketones.
+Check EtOH levels, glucose, extended electrolytes, VBG, anion gap and ketones.
 - Anion-gap metabolic acidosis: possible methanol or ethylene glycol ingestion
 - Ketosis without acidosis: possible isopropyl alcohol ingestion.
 - Alcoholic Ketoacidosis: in long-term drinkers, treat with IVF and IV dextrose
