@@ -8,9 +8,12 @@ affecting function
 - Flumazenil is an antagonist, but can cause seizures and withdrawal
 
 ## bloodwork
-high risk for cirrhosis
- aspartate aminotransferase (AST) to alanine aminotransferase (ALT) ratio >1
+affects liver, high risk for cirrhosis
+
+check aspartate aminotransferase (AST) to alanine aminotransferase (ALT) ratio >1
+
 Elevated bilirubin in alcoholic hepatitis
+
 increases pancreatitis risk
 
 ## Withdrawal
