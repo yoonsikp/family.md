@@ -10,9 +10,8 @@ Defined in the DSM-5 as either alcohol abuse or alcohol dependence. In general, 
 - Risky behaviour
 - Withdrawal symptoms
 
-## Acute Overdose
-
-- Flumazenil is an antagonist, but can cause seizures and withdrawal
+## Acute Alcohol Poisoning
+Can result in disihibition, memory impairment, respiratory depression, and alcoholic ketoacidosis. Check EtOH levels, glucose, electrolytes, VBG, anion gap and ketones. Anion-gap metabolic acidosis can indicate methanol or ethylene glycol ingestion. Ketosis without acidosis can indicate isopropyl alcohol ingestion. Alcohol ketoacidosis can occur in long-term drinkers, and should be treated with IVF and IV dextrose. Altered mental status may warrant a urine drug screen and CT head imaging. Ingestion of alcohol with benzodiazepines is dangerous, Flumazenil can be considered, but it may cause seizures and withdrawal symptoms.
 
 ## bloodwork
 affects liver, high risk for cirrhosis
@@ -48,3 +47,4 @@ refeeding syndrome
 
 ## References
 - https://www.niaaa.nih.gov/sites/default/files/DSMfact.pdf
+- https://www.uptodate.com/contents/ethanol-intoxication-in-adults
