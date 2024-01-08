@@ -1,7 +1,14 @@
-# Ethanol Use
+# Ethanol
+Canadian guidelines are now recommending 2 drinks/week, previously 2 drinks/day. A drink is defined as shot (1.5ounce), beer (355mL), or glass of wine (150mL). Regularly screen for alcohol intake and frequency.
 
-## AUD
-affecting function
+## Alcohol Use Disorder (AUD)
+Defined in the DSM-5 as either alcohol abuse or alcohol dependence. In general, AUD is present when alcohol intake affects daily functioning or increasing dependence. Example criteria to help diagnose (meets >= 2):
+
+- Drinking more than intended
+- Unable to cut back
+- Affecting work or social interactions
+- Risky behaviour
+- Withdrawal symptoms
 
 ## Acute Overdose
 
@@ -37,3 +44,7 @@ refeeding syndrome
 ## long term
 - naltrexone
 - acamprosate
+
+
+## References
+- https://www.niaaa.nih.gov/sites/default/files/DSMfact.pdf
