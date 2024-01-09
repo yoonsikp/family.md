@@ -53,4 +53,4 @@ A potentially life threatening illness, begins 6-24 hours after last drink. Betw
 - https://www.uptodate.com/contents/ethanol-intoxication-in-adults
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513682/
 - https://www.uptodate.com/contents/wernicke-encephalopathy
-- 
+- https://www.albertahealthservices.ca/frm-20745-bond.pdf
