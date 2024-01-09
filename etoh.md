@@ -27,7 +27,7 @@ Medications to decrease alcohol intake:
 ## Nutritional deficiency
 Wernicke-Korsakoff syndrome is characterized by thiamine (vitamin B1) deficiency, with changes in memory, movement, ataxia, oculomotor dysfunction, possibly delirium. Usually due to chronic alcoholism, but can be caused by malnutrition or hyperemesis. Treatment is thiamine IV 300 mg over 30 minutes TID for 2 days, then 300 mg IV/PO OD for 5 days.
 
-- Provide IV thiamine before giving IV glucose
+- Provide 300mg IV thiamine before giving IV glucose
 - Add B-complex multivitamin and folic acid (vitamin B9)
 
 ## Acute Alcohol Poisoning
@@ -45,7 +45,7 @@ The complications of overconsumption of alcohol include fatty liver disease, alc
 Defined as moderately elevated AST or ALT (below 500), AST > ALT, and elevated bilirubin, with other causes ruled out (such as biliary tree, viral, medications, hemochromatosis, Wilson's, autoimmune). Must have recent heavy alcohol ingestion (last 2 months). Symptoms include those of liver failure: fever, jaundice, RUQ pain, ascites, encephalopathy, high PT/INR. Calculation of Maddrey's Discriminant Function > 32 indicates a possible benefit of corticosteroid (prednisolone 40 mg/day for 28 days). Check creatinine to identify hepatorenal syndrome. Increased protein intake (100g/day) improves outcomes.
 
 ## Alcohol Withdrawal and Benzodiazepine Withdrawal
-A potentially life threatening illness, begins 6-24 hours after last drink. Between 24-48 hours is highest risk for seizures. Treat with benzodiazepines (e.g. lorazepam) using the CIWA protocol. Gabapentin may also help. Keep NPO for 24-48 hrs to prevent aspiration for more severe cases. Watch for delirium tremens starting 48 hours after last drink, which presents as tachycardia, agitation, tremors, seizures, hallucinations.
+A potentially life threatening illness, begins 6-24 hours after last drink. Between 24-48 hours is highest risk for seizures. Treat with benzodiazepines (e.g. lorazepam) using the CIWA protocol. Gabapentin may also help. Keep NPO for 24-48 hrs to prevent aspiration for more severe cases. Watch for delirium tremens starting 48 hours after last drink, which presents as tachycardia, agitation, tremors, seizures, hallucinations. Consider a "banana bag" (IV thiamine with B vitamins) during admission.
 
 
 ## References
