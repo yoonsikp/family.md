@@ -32,16 +32,15 @@ Altered mental status may warrant a urine drug screen and CT head imaging. Inges
 The complications of overconsumption of alcohol include fatty liver disease, alcoholic hepatitis, and cirrhosis. Alcoholic steatohepatitis (ASH) is a severe form of fatty liver accompanied by inflammation. Fatty liver can be reversible, however cirrhosis is a permanent fibrotic process. Monitor liver enzymes (AST, ALT, GGT) which provide a marker of liver inflammation. AST > ALT with increased MCV indicates alcoholic liver disease. Decreasing caloric intake, and zinc supplementation may help reduce liver injury. Refer to heaptology for moderate to severe hepatic steatosis.
 
 ## Alcoholic hepatitis
-Defined as moderately elevated AST or ALT (below 500), AST > ALT, and elevated bilirubin, with other causes ruled out (such as biliary tree, viral, medications, hemochromatosis, Wilson's, autoimmune). Must have recent heavy alcohol ingestion (last 2 months). Symptoms include those of liver failure: fever, jaundice, RUQ pain, ascites, encephalopathy, high PT/INR. Calculation of Maddrey's Discriminant Function > 32 indicates a possible benefit of corticosteroid (prednisolone 40 mg/day for 28 days). Check creatinine to identify hepatorenal syndrome. Increase protein intake.
+Defined as moderately elevated AST or ALT (below 500), AST > ALT, and elevated bilirubin, with other causes ruled out (such as biliary tree, viral, medications, hemochromatosis, Wilson's, autoimmune). Must have recent heavy alcohol ingestion (last 2 months). Symptoms include those of liver failure: fever, jaundice, RUQ pain, ascites, encephalopathy, high PT/INR. Calculation of Maddrey's Discriminant Function > 32 indicates a possible benefit of corticosteroid (prednisolone 40 mg/day for 28 days). Check creatinine to identify hepatorenal syndrome. Increased protein intake (100g/day) improves outcomes.
 
-## Withdrawal
-CIWA protocol
+## Alcohol Withdrawal
+Life threatening. CIWA protocol
 watch for delirium tremens
-life threatening
 treat with benzo, lorazepam
 gabapentin may help
 
-## Long term
+## Non acute management
 Thiamine deficiency --> Wernicke-Korsakoff syndrome 
 - memory, movement, coordination
 IV thiamine and IVF
@@ -51,12 +50,11 @@ phosphorus
 magnesium
 
 refeeding syndrome
-
-## long term
+medications
 - naltrexone
 - acamprosate
-
 
 ## References
 - https://www.niaaa.nih.gov/sites/default/files/DSMfact.pdf
 - https://www.uptodate.com/contents/ethanol-intoxication-in-adults
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513682/
