@@ -1,5 +1,5 @@
 # Ethyl Alcohol
-Canadian guidelines 2 drinks/week, previously 2 drinks/day. A drink is defined as shot (1.5ounce), beer (355mL), or glass of wine (150mL). Regularly screen for alcohol intake and frequency. Acute effects of alcohol include disihibition, memory impairment, and respiratory depression.
+Canadian guidelines recommend maximum of 2 drinks/week, previously 2 drinks/day. Drink is defined as shot (1.5ounce), beer (355mL), or glass of wine (150mL). Regularly screen for alcohol intake and frequency. Acute effects of alcohol include disihibition, memory impairment, and respiratory depression.
 
 ## Long-Term Risks
 - Liver disease
@@ -12,7 +12,7 @@ Canadian guidelines 2 drinks/week, previously 2 drinks/day. A drink is defined a
 - Fetal alcohol spectrum disorder (during pregnancy)
 
 ## Alcohol Use Disorder (AUD)
-Defined in the DSM-5 as either alcohol abuse or alcohol dependence. In general, AUD is present when alcohol intake affects daily functioning or increasing dependence. Example criteria to help diagnose (meets >= 2):
+Defined in the DSM-5 as alcohol abuse or alcohol dependence. AUD is considered if alcohol intake affects day to day functioning or if increasing dependence. Example criteria to help diagnose (meets >= 2):
 
 - Drinking more than intended
 - Unable to cut back
@@ -31,12 +31,12 @@ Wernicke-Korsakoff syndrome is characterized by thiamine (vitamin B1) deficiency
 - Add B-complex multivitamin and folic acid (vitamin B9)
 
 ## Acute Alcohol Poisoning
-Assess for hypotension and respiratory depression, provide supportive care. Check EtOH levels, glucose, extended electrolytes, VBG, anion gap and ketones.
-- Anion-gap metabolic acidosis: possible methanol or ethylene glycol ingestion
-- Ketosis without acidosis: possible isopropyl alcohol ingestion.
-- Alcoholic Ketoacidosis: in long-term drinkers, treat with IVF and IV dextrose
+Assess for hypotension and respiratory depression, provide supportive care. Check ethanol levels, glucose, extended lytes, VBG, anion gap and ketones.
+- (+) anion-gap, (+) acidosis, (-) ketones: possible methanol or ethylene glycol ingestion
+- (-) anion-gap, (-) acidosis, (+) ketones: possible isopropyl alcohol ingestion.
+- (+) anion-gap, (+) acidosis, (+) ketones, (-) hyperglycemic: alcoholic ketoacidosis, treat with IVF and IV dextrose
 
-Altered mental status may warrant a urine drug screen and CT head imaging. Ingestion of alcohol with benzodiazepines is dangerous, Flumazenil can be considered, but it may cause seizures and withdrawal symptoms. Watch for refeeding syndrome.
+Altered mental status may warrant a drug screen and CT head imaging. Ingestion of alcohol with benzodiazepines is dangerous, Flumazenil can be considered, but it may cause seizures and withdrawal symptoms. Watch for refeeding syndrome.
 
 ## Alcoholic liver disease
 The complications of overconsumption of alcohol include fatty liver disease, alcoholic hepatitis, and cirrhosis. Alcoholic steatohepatitis (ASH) is a severe form of fatty liver accompanied by inflammation. Fatty liver can be reversible, however cirrhosis is a permanent fibrotic process. Monitor liver enzymes (AST, ALT, GGT) which provide a marker of liver inflammation. AST > ALT with increased MCV indicates alcoholic liver disease. Obtain imaging to help stage liver disease. Decreasing caloric intake, and zinc supplementation may help reduce liver injury. Refer to heaptology for moderate to severe hepatic steatosis.
