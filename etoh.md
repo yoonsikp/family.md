@@ -1,7 +1,7 @@
 # Ethyl Alcohol
 Canadian guidelines 2 drinks/week, previously 2 drinks/day. A drink is defined as shot (1.5ounce), beer (355mL), or glass of wine (150mL). Regularly screen for alcohol intake and frequency. Acute effects of alcohol include disihibition, memory impairment, and respiratory depression.
 
-## Health Risks
+## Long-Term Risks
 - Liver disease
 - Cancer
 - Malnutrition
