@@ -3,10 +3,11 @@ useful markdown files for family medicine
 
 # TODO
 - PID/vaginitis
-- CHADS a fib
+- diabetes
 - thyroid
 - acne
 - fatigue
+- eye
 - peds functional abdo pain
 - DLD
 - swabs/smear
