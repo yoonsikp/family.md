@@ -1,7 +1,7 @@
 # Dyslipidemia
 Start screening at 30-40 years of age (younger for males). A normal screen in healthy individuals can be repeated every 3-5 years. Fasting tends to cause a decrease in triglyceride levels. Non-fasting levels are recommended for risk stratification. Signs of marked dyslipidemia on exam include palmar/skin xanthoma, yellowish bumps near the eyelid, or hepatosplenomegaly.
 
-## Types of lipids
+## Important lipids
 - Triglycerides
 - Cholesterol
 - Lipoprotein
