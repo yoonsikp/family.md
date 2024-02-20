@@ -1,5 +1,5 @@
 # Dyslipidemia
-Routine screening can start between 30-40 years of age (older for females). Repeating a lipid screen that is normal within 5 yrs in otherwise healthy individuals is not recommended. Fasting tends to cause a decrease in triglyceride levels. Non-fasting levels are recommended for risk stratification. 
+Routine screening can start between 30-40 years of age (older for females). Repeating a lipid screen that is normal within 5 yrs in otherwise healthy individuals is not recommended. Fasting tends to cause a decrease in triglyceride levels. Non-fasting levels are recommended for risk stratification. Possible signs of dyslipidemia on exam include palmar/skin xanthoma, yellowish bumps near the eyelid, or hepatosplenomegaly.
 
 ## Types of lipids
 - Triglycerides
@@ -8,11 +8,6 @@ Routine screening can start between 30-40 years of age (older for females). Repe
   - incl. HDL, IDL, LDL, VLDL, Chylomicrons (ULDL)
   - Apo B, Lipoprotein (a)/Apo (a) --> associated with LDL
   - Apo A-I --> associated with HDL
-
-## Physical signs/symptoms
-With high triglycerides: palmar/skin xanthoma
-With high cholesterol: yellowish bumps near the eyelid
-With both: HSM
 
 ## Management
 Dyslipidemia carries the risk of atherosclerosis, cardiovascular disease including stroke, MI, etc, as well as non-alcoholic fatty liver disease. Very high triglycerides also carries risk of pancreatitis. As a general rule, the lower the lipoprotein density, the more atherogenic the effcts, therefore, LDL cholesterol is an important target in elevated cholesterol. Uncontrolled LDL cholesterol can result in fatty deposits and atherosclerosis, resulting in oxidative stress, decrease in vessel diameter, and possible thrombogenesis.
