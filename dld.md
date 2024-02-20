@@ -20,7 +20,7 @@ Coronary artery calcification (CAC) testing can be considered if unclear about t
 
 ### Nonpharmacological Treatments
 - Aerobic exercise as prescription, 5 to 7 days of the week, Moderate Intensity, 30-60 min/session
-- Dietary changes, DASH or Mediterranean diet, fish oil, intermittent fasting (to decrease triglycerides)
+- Dietary changes, DASH or Mediterranean diet, Omega 3 + fish oil, intermittent fasting (to decrease triglycerides)
 - Weight loss (target healthy BMI)
 - Smoking cessation
 
