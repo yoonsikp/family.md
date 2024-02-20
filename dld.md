@@ -18,13 +18,13 @@ Start statins in those with atherosclerosis, stroke, TIA, PAD, CVD, AAA, chronic
 
 Coronary artery calcification (CAC) testing can be considered if unclear about the atherosclerotic risk of a patient (every 5 years).
 
-## Nonpharmacological Treatments
+### Nonpharmacological Treatments
 - Aerobic exercise as prescription, 5 to 7 days of the week, Moderate Intensity, 30-60 min/session
 - Dietary changes, DASH or Mediterranean diet, fish oil, intermittent fasting (to decrease triglycerides)
 - Weight loss (target healthy BMI)
 - Smoking cessation
 
-## Pharmacological Treatments
+### Pharmacological Treatments
 - Statins (Pravastatin has least side effects)
 - Ezetimibe
 - Fibrates (e.g. Fenofibrate)
@@ -37,7 +37,7 @@ With medications, target > 50% reduction of LDL-C or <=2 mmol/L LDL-C. Target LD
 ## Nonalcoholic fatty liver disease (NAFLD)
 Caused by fatty deposits in the liver, associated with dyslipidemia, metabolic syndrome, HTN, and obesity. High prevalence in the general population, approximately 1 in 3. Regularly screen for lipids, HTN, elevated liver enzymes (transaminases, GGT, alkaline phosphatase), glucose, HgBA1c every 6 months. Perform abdominal ultrasound  every year. If persistent elevated LFTs or moderate fatty liver, refer to hepatologist (+/- fibroscan).
 
-# References
+## References
 - 2021 Canadian Cardiovascular Society guideline
 - https://www.ncbi.nlm.nih.gov/books/NBK556024/
 - https://www.ncbi.nlm.nih.gov/books/NBK305896/
