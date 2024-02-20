@@ -35,7 +35,7 @@ Coronary artery calcification (CAC) testing can be considered if unclear about t
 With medications, target > 50% reduction of LDL-C or <=2 mmol/L LDL-C. Target LDL-C <1.8mmol/L in those with high cardiovascular risks.
 
 ## Nonalcoholic fatty liver disease (NAFLD)
-Caused by fatty deposits in the liver, associated with dyslipidemia, metabolic syndrome, HTN, and obesity. High prevalence in the general population, approximately 1 in 3. Regularly screen for lipids, HTN, elevated liver enzymes (transaminases, GGT, alkaline phosphatase), glucose, HgBA1c every 6 months. Perform abdominal ultrasound  every year. If persistent elevated liver enzymes or moderate fatty liver, refer to hepatologist (+/- fibroscan).
+Caused by fatty deposits in the liver, associated with dyslipidemia, metabolic syndrome, HTN, and obesity. High prevalence in the general population, approximately 1 in 3. Regularly screen for lipids, HTN, elevated liver enzymes (transaminases, GGT, alkaline phosphatase), glucose, HgBA1c every 6 months. Perform abdominal ultrasound  every year. Can progress to nonalcoholic steatohepatitis (NASH) causing cell damage and cirrhosis. If persistent elevated liver enzymes or moderate fatty liver, refer to hepatologist (+/- fibroscan). 
 
 ## References
 - 2021 Canadian Cardiovascular Society guideline
