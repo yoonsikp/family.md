@@ -29,7 +29,7 @@ Coronary artery calcification (CAC) testing can be considered if unclear about t
 - Ezetimibe
 - Fibrates (e.g. Fenofibrate)
 - PCSK9 inhibitor (expensive)
-- Nexletol
+- Bempedoic acid (i.e. Nexletol)
 - Niacin
 
 With medications, target > 50% reduction of LDL-C or <=2 mmol/L LDL-C. Target LDL-C <1.8mmol/L in those with high cardiovascular risks.
