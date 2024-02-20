@@ -1,5 +1,5 @@
 # Dyslipidemia
-Routine screening can start between 30-40 years of age (older for females). Repeating a lipid screen that is normal within 5 yrs in otherwise healthy individuals is not recommended. Fasting tends to cause a decrease in triglyceride levels. Non-fasting levels are recommended for risk stratification. Signs of marked dyslipidemia on exam include palmar/skin xanthoma, yellowish bumps near the eyelid, or hepatosplenomegaly.
+Routine screening can start between 30-40 years of age (younger for males). A normal lipid screen in otherwise healthy individuals can be repeated in 5 years. Fasting tends to cause a decrease in triglyceride levels. Non-fasting levels are recommended for risk stratification. Signs of marked dyslipidemia on exam include palmar/skin xanthoma, yellowish bumps near the eyelid, or hepatosplenomegaly.
 
 ## Types of lipids
 - Triglycerides
