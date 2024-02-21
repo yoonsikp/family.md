@@ -2,10 +2,10 @@
 Hypothyroidism is relatively common affecting 5-10% of the general population, while hyperthyroidism is closer to 1%. Secondary causes of hypothyroidism or hyperthyroidism are exceedingly rare.
 
 ## Goiter
-Swelling of the thyroid. Goiter + hyperthyroid symptoms = toxic goiter, goiter + euthyroid = nontoxic goiter. Common causes include iodine deficiency, Hashimoto's thyroiditis, and Grave's disease. Goiter can be associated with hypothyroidism and hyperthyroidism, thus requiring further investigation.
+Swelling of the thyroid. Goiter + hyperthyroid symptoms = toxic goiter, goiter + euthyroid = nontoxic goiter. Common causes include iodine deficiency, Hashimoto's thyroiditis, and Grave's disease. Goiter is associated with many diseases, thus requiring further investigation.
 
 ## Thyroiditis
-Describes inflammation of the thyroid, divided into painful and painless thyroiditis. Painful thyroiditis presents with neck pain, throat discomfort, and tenderness to palpation. It can be caused by De Quervain Thyroiditis, radiation or trauma, and rarely acute infectious thyroiditis (bacteria). Painless thyroiditis can be caused by Hashimoto's thyroiditis, postpartum thyroiditis, silent thyroiditis, or drug-induced. Painless thyroiditis genereally presents as hyperthyroidism, progressing to euthyroid state, then hypothyroidism.
+Inflammation of the thyroid. Painful thyroiditis presents with neck pain, throat discomfort, and tenderness to palpation. It can be caused by De Quervain Thyroiditis, radiation, trauma, and rarely acute infectious thyroiditis (bacteria). Painless thyroiditis can be caused by Hashimoto's thyroiditis, postpartum thyroiditis, silent thyroiditis, or drug-induced. Painless thyroiditis follows a course of hyperthyroidism, then euthyroid state, and then hypothyroidism.
 
 ## Thyroid Nodules
 Should be investigated with ultrasound for characterization and diagnosis.
