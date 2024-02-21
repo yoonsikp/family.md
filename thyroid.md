@@ -13,8 +13,7 @@ Should be investigated with ultrasound for characterization and diagnosis.
 ## Radioactive Iodine Uptake (RAIU) test
 - differentiate hyperthyroidism
 - check for hot nodules
-- check for suspected thyroid cancer
-- Suspected metastasis of thyroid cancer
+- check for suspected thyroid cancer, or metastasis of thyroid cancer
 
 ## Symptoms of Hypothyroidism
 - Dry skin
