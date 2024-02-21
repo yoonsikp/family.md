@@ -38,7 +38,7 @@ Should be investigated with ultrasound for characterization and diagnosis.
 - Iodine deficiency, treat with iodine-rich salt
   - confirmed with low urine iodine concentrations
 - Hashimoto's disease, anti-TPO destroys the thyroid gland
-  - in some early stages causes hashitoxicosis, low TSH, high T4
+  - early stages might show hashitoxicosis: low TSH, high T4
   - late stage: high TSH, low T4, positive Anti-TPO antibodies
   - if TSH >10, then treat with synthroid
   - if TSH >7, with normal T4, can also treat as subclinical
