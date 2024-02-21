@@ -42,6 +42,9 @@ Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measu
 - glucagon agonist (BAQSIMI)
     - for hypoglycemic states
 
+## Hypoglycemic Risk
+Those on basal insulin may benefit from having a small snack of complex carbohydrate + protein before bedtime.
+
 ## Inpatient Management
 - for critical care patients, continuous IV infusion of insulin to maintain BG >6 and BG <10
 - for peri-operative (cardiac), continuous IV infusion of insulin to maintain BG >5 and BG <10
