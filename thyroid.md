@@ -2,7 +2,7 @@
 Hypothyroidism is relatively common affecting 5-10% of the general population, while hyperthyroidism is closer to 1%. Secondary causes of hypothyroidism or hyperthyroidism are exceedingly rare.
 
 ## Goiter
-Non-specific swelling of the thyroid, usually non-painful. Toxic goiter is defined as goiter with hyperthyroid symptoms, with nontoxic goiter defined as goiter with a euthyroid state. Commonly associated with iodine deficiency in less developed countries, which can be detected with high TSH, low T4, and low urine iodine concentrations. Other common causes include Hashimoto's thyroiditis (hyperthyroid which progresses to hypothyroid), and Grave's disease (hyperthyroid). Goiter can be linked to either hypothyroidism and hyperthyroidism, thus requiring further investigation. Goiter can also be associated with benign or malignant tumours of the thyroid.
+Swelling of the thyroid. Goiter + hyperthyroid symptoms = toxic goiter, goiter + euthyroid = nontoxic goiter. Common causes include iodine deficiency, Hashimoto's thyroiditis, and Grave's disease. Goiter can be associated with hypothyroidism and hyperthyroidism, thus requiring further investigation.
 
 ## Thyroiditis
 Describes inflammation of the thyroid, divided into painful and painless thyroiditis. Painful thyroiditis presents with neck pain, throat discomfort, and tenderness to palpation. It can be caused by De Quervain Thyroiditis, radiation or trauma, and rarely acute infectious thyroiditis (bacteria). Painless thyroiditis can be caused by Hashimoto's thyroiditis, postpartum thyroiditis, silent thyroiditis, or drug-induced. Painless thyroiditis genereally presents as hyperthyroidism, progressing to euthyroid state, then hypothyroidism.
@@ -37,8 +37,10 @@ Should be investigated with ultrasound for characterization and diagnosis.
 
 ## Causes for Hypothyroidism (at later stages)
 - Iodine deficiency, treat with iodine-rich salt
+  - confirmed with low urine iodine concentrations
 - Hashimoto's disease, anti-TPO destroys the thyroid gland
-  - high TSH, low T4, positive Anti-TPO antibodies
+  - in some early stages causes hashitoxicosis, low TSH, high T4
+  - late stage: high TSH, low T4, positive Anti-TPO antibodies
   - if TSH >10, then treat with synthroid
   - if TSH >7, with normal T4, can also treat as subclinical
 - Postpartum Thyroiditis or Silent Thyroiditis
@@ -54,12 +56,12 @@ Should be investigated with ultrasound for characterization and diagnosis.
   - early stage: low TSH, elevated T4, high CRP, fever
   - late stage: high TSH, low T4
   - decreased RAIU
-  - Treat with NSAIDs, +/- prednisone, with endocrine consult
+  - Treat with NSAIDs, +/- prednisone, endocrine referral
 - Iatrogenic
 - Congenital
 
 ### Medications for Hypothyroidism
-- Levothyroxine (Synthroid) PO OD, titrate up as needed
+- Levothyroxine (Synthroid) daily, titrate up as needed
   - Taken in the morning on an empty stomach with water
   - For subclinical hypothyroidism start at 1.6mcg/kg, or 25mcg daily
 
