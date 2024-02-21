@@ -49,13 +49,11 @@ Those on basal insulin may benefit from having a small snack of complex carbohyd
 - for critical care patients, continuous IV infusion of insulin to maintain BG >6 and BG <10
 - for peri-operative (cardiac), continuous IV infusion of insulin to maintain BG >5 and BG <10
 - for general medicine use a basal bolus supplement to target fasting BG 5.0 and 8.0 mmol, random <10
-
-https://guidelines.diabetes.ca/docs/resources/in-hospital-management-clinical-order-set-fillable.pdf
-- Diabetes canada insulin order set 
+- Diabetes Canada insulin order set 
     - estimate total daily dose, TDD = 0.4 times weight in kg
     - basal = TDD * 0.4
     - bolus = TDD * 0.2 (3 meals, hold if not eating)
-    - supplemental = see chart ()
+    - supplemental = see chart (https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/in-hospital-management-clinical-order-set-fillable.pdf)
 
 ## Diabetic ketoacidosis (DKA) VS Hyperosmolar Hyperglycemic State (HHS)
 DKA mostly T1DM. HHS mostly T2DM. DKA has acidosis, ketones plus anion gap. Trigger includes infection or sepsis. Treatment generally IV fluids, potassium replacement. Insulin starts once K+ >= 3.3. IV regular insulin bolus 0.1 units/kg with IV infusion 0.1 units/kg/hr or subcut short acting insulin 0.3units/kg with 0.1units/kg every hr. Continue giving insulin until BG <14, then supplement with IV dextrose.
