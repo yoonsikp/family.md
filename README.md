@@ -4,7 +4,6 @@ useful markdown files for family medicine
 # TODO
 - PID/vaginitis
 - diabetes
-- thyroid
 - acne
 - fatigue
 - eye
