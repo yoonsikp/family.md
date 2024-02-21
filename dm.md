@@ -34,6 +34,7 @@ Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measu
     - creates more pancreatic cells
     - weight loss
 - empagaflozin (sglt2 inhibitor)
+    - start if eGFR >20
     - releases more glucose through urine
     - cardio and nephro protective
 - insulin
