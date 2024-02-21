@@ -1,5 +1,5 @@
 # Thyroid
-Hypothyroidism is relatively common affecting 5-10% of the general population, while hyperthyroidism is closer to 1%. Secondary causes of hypothyroidism or hyperthyroidism are exceedingly rare.
+Hypothyroidism affects 5-10% of the general population, hyperthyroidism is closer to 1%. Secondary causes of hypothyroidism or hyperthyroidism are exceedingly rare.
 
 ## Goiter
 Swelling of the thyroid. Goiter + hyperthyroid symptoms = toxic goiter, goiter + euthyroid = nontoxic goiter. Common causes include iodine deficiency, Hashimoto's thyroiditis, and Grave's disease. Goiter is associated with many diseases, thus requiring further investigation.
