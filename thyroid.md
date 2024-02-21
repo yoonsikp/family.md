@@ -86,7 +86,7 @@ Should be investigated with ultrasound for characterization and diagnosis.
 - Beta-blocker for cardiac symptoms or tremor (e.g. atenolol)
 
 # References
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822815/
-https://www.ncbi.nlm.nih.gov/books/NBK526066/
-https://www.ncbi.nlm.nih.gov/books/NBK555978/
-https://www.uptodate.com/contents/treatment-of-toxic-adenoma-and-toxic-multinodular-goiter
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822815/
+- https://www.ncbi.nlm.nih.gov/books/NBK526066/
+- https://www.ncbi.nlm.nih.gov/books/NBK555978/
+- https://www.uptodate.com/contents/treatment-of-toxic-adenoma-and-toxic-multinodular-goiter
