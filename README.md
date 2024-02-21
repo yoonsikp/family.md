@@ -9,3 +9,6 @@ useful markdown files for family medicine
 - eye
 - peds functional abdo pain
 - swabs/smear
+- hand
+- ankle
+- prenatals
