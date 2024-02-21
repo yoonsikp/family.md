@@ -27,7 +27,9 @@
 Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measured at least every 3 months when glycemic targets are not being met.
 
 - metformin
+    - 500mg BID or TID
     - increases efficiency of insulin
+    - start if eGFR >30
 - gliclazide (sulfonylurea)
     - increases insulin production
 - semaglutide (glp1 agonist)
