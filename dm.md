@@ -31,9 +31,13 @@ Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measu
 - gliclazide (sulfonylurea)
     - increases insulin production
 - semaglutide (glp1 agonist)
+    - Ozempic (weekly injection), 0.25 mg once weekly for 4 weeks, then 0.5 mg once weekly
+    - Rybelsus (daily oral), 3 mg once daily for 30 days, then 7 mg once daily
+    - start if eGFR >30
     - creates more pancreatic cells
     - weight loss
 - empagaflozin (sglt2 inhibitor)
+    - Jardiance (daily oral), 10mg daily in the morning
     - start if eGFR >20
     - releases more glucose through urine
     - cardio and nephro protective
