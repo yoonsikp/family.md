@@ -7,6 +7,9 @@ https://www.cfpc.ca/CFPC/media/Resources/Patient-Education/PatInfoBro_Pregnancy_
 Morning sickness: usually resolves after the first trimester, small snacks and saltine crackers may help. Diclectin 4-8 tablets a day, or Benadryl PRN.
 Hyperemesis gravidarum: severe vomiting, dehydration, electrolyte balances. Possibly linked to GDF15 hormone. May require hospitilization for IVF.
 
+## Pregnancy and Implantation
+At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. Confirmatory beta HCG is not needed. Ectopic pregnancy occurs at a rate of approximately 2%, and requires emergency treatment. 80% of miscarriages happen during the 1st trimester, symptoms include spotting and cramping. Molar pregnancies are unviable pregnancies, can be detected during routine ultrasound, can also be detected by abnormally elevated beta HCG levels. Ultrasound and beta HCG trend for suspected abortion, trend beta HCG to zero for suspected ectopic.
+
 ## Contraindicated Drugs
 - ACEi/ARBs
 - NSAIDs
@@ -94,3 +97,22 @@ Hyperemesis gravidarum: severe vomiting, dehydration, electrolyte balances. Poss
 - Contraception
   - Lactational amenorrhea (LAM) for natural birth control
   - Progestin-only contraceptives or IUD 1 month after birth
+
+## Conditions during Pregnancy
+- Hypertension
+  - Gestational Hypertension
+  - Pre-eclampsia (above + proteinuria) or HELLP (hemolysis, elevated liver enzymes, low platelets)
+  - Eclampsia (above + seizures)
+- Skin changes
+  - Cholestasis of pregnancy (itchy skin, jaundice) vs acute fatty liver of pregnancy (jaundice, thirst)
+  - Pruritic urticarial papules and plaques of pregnancy (raised itchy rash near trunk, 3rd trimester)
+  - Prurigo of pregnancy (itchy extensors/extremities, any trimester)
+- Thyroid
+  - Beta-HCG acts like TSH
+  - Normal TSH during Pregnancy: 0.1-2.5 (1st trimester), 0.2-3.0 (2nd trimester), 0.3-3.0 (3rd trimester)
+  - Only screen if past history of thyroid conditions, goiter, radiation therapy, or any history of autoimmune disease
+
+# References
+- https://www.aafp.org/pubs/afp/issues/2014/0215/p273.html
+- https://www.ncbi.nlm.nih.gov/books/NBK459155/
+- https://www.aafp.org/pubs/afp/issues/2011/0701/p75.html
