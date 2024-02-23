@@ -11,7 +11,6 @@ useful markdown files for family medicine
 - swabs/smear
 - hand
 - ankle
-- prenatals
 - lytes
 - endo
 - anion gap
