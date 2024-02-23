@@ -89,7 +89,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 - Continue folic acid or multivitamin for 3-6 months
 - Postpartum depression (PPD)
   - Ensure baby safety
-  - ? Zuranolone treatment
+  - SSRI vs ?Zuranolone treatment
 - Postpartum thyroiditis
   - check for thyroid sx, and TSH and T4
 - Postpartum pituitary necrosis
