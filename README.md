@@ -4,7 +4,6 @@ useful markdown files for family medicine
 # TODO
 - headache
 - PID/vaginitis
-- diabetes
 - acne
 - fatigue
 - eye
