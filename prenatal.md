@@ -28,9 +28,9 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 
 ## Prenatal Visit Schedule
 ### Every visit
-- BP, weight, headache check
-- CBC (<105 HgB is abnormal)
+- BP, weight, headache + edema check
 - Fetal heart rate at >12 weeks
+- Fundal height at >20 weeks
 
 ### <11 weeks
 - twins --> increase caloric intake (+300), increase protein, increase iron (up to 60mg in 2nd trimester), increase vit D
@@ -41,14 +41,13 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 
 ### 11 weeks
 - organize dating ultrasound +/- nuchal translucency
-- prenatal blood work +/- genetic screening
-    - CBC, urinalysis and culture, rubella antibody, blood type and Rh, DAT, G+C swab, syphilis, HIV, Hep B
-- genetic screening
+- prenatal blood work and urine testing
+    - CBC (<105 HgB is abnormal), rubella antibody, blood type and Rh, DAT, G+C swab, syphilis, HIV, Hep B
+    - urinalysis and culture, urine bacteria > 10^5 CFU/mL should be treated
+- genetic screening (optional)
     - eFTS bloodwork (hCG, PAPP-A, MSAFP +/- PlGF) 11w3d to 13w3d for trisomy 21 or 18
     - MSS bloodwork (MS-AFP, uE3, DIA, hCG) 14w0d to 20w6d for trisomy 21 or 18
-- physical exam with BP
-- urine bacteria > 10^5 CFU/mL should be treated
-- offer CVS to those 35 yrs or older
+    - offer CVS to those 35 yrs or older
 
 ### 15-20 weeks
 - additional genetic screening if requested
