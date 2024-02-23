@@ -30,6 +30,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 ### Every visit
 - BP, weight, headache check
 - CBC (<105 HgB is abnormal)
+- Fetal heart rate at >12 weeks
 
 ### <11 weeks
 - twins --> increase caloric intake (+300), increase protein, increase iron (up to 60mg in 2nd trimester), increase vit D
