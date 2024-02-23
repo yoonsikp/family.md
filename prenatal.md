@@ -53,10 +53,11 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 - additional genetic screening if requested
   - amniocentesis can be done for down's syndrome testing and neural tube defects (2nd trim)
   - NIPT an option if eFTS/MSS is positive, or if twins >10w0d for trisomy 21, 18, or 13, chromosomal abnormalities
+- referral to OB/GYN
 
 ### 20 weeks
 - review anatomy scan (check for neural tube defects)
-- routine visit
+- OB/GYN should take over care
 
 ### 26 weeks
 - GDM screen
