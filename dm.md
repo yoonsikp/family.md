@@ -1,6 +1,6 @@
 # Diabetes Mellitus
 
-## Type 1 Diabetes Mellitus
+## Type 1 Diabetes Mellitus (T1DM)
 - incidence peaks in children from 4-14 yrs of age
 - should not use HgB A1C to diagnose, instead use fasting glucose
 - start insulin early
