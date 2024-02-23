@@ -1,13 +1,14 @@
 # Diabetes Mellitus
 
 ## Type 1 Diabetes Mellitus
-- should not use HgB A1C to diagnose
+- incidence peaks in children from 4-14 yrs of age
+- should not use HgB A1C to diagnose, instead use fasting glucose
 - start insulin early
 
 ## Type 2 Diabetes Mellitus (T2DM)
 
 ### Testing
-- HGB A1C is a measure of blood glucose over the past 3 months.
+- HgB A1C is a measure of blood glucose over the past 3 months.
 - Fasting plasma glucose (FPG), measure glucose after no caloric intake for 8 hrs
 - 2-hour plasma glucose (2hPG) after drinking 75g oral glucose tolerance test (OGTT)
 - Random blood glucose
@@ -65,5 +66,5 @@ Those on basal insulin may benefit from having a small snack of complex carbohyd
 ## Diabetic ketoacidosis (DKA) VS Hyperosmolar Hyperglycemic State (HHS)
 DKA mostly T1DM. HHS mostly T2DM. DKA has acidosis, ketones plus anion gap. Trigger includes infection or sepsis. Treatment generally IV fluids, potassium replacement. Insulin starts once K+ >= 3.3. IV regular insulin bolus 0.1 units/kg with IV infusion 0.1 units/kg/hr or subcut short acting insulin 0.3units/kg with 0.1units/kg every hr. Continue giving insulin until BG <14, then supplement with IV dextrose.
 
-## Comorbodities
+## Risk Management
 Should be started on a statin above age 40 to reduce cardiovascular risk. ACE inhibitors or ARBs can be used to reduce kidney disease. Empagliflozin also helps with reducing kidney disease and cardiovascular risk.
