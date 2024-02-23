@@ -20,11 +20,11 @@
 - 2hPG in a 75 g OGTT >= 11.1 mmol/L
 - Random PG >= 11.1 mmol/L
 
-## Prediabetes
+### Prediabetes
 - High risk for developing diabetes
 - HgB A1C between 6.0–6.4
 
-## Pharmacologic Management
+### Pharmacologic Management
 Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measured at least every 3 months when glycemic targets are not being met.
 
 - metformin
