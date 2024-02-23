@@ -72,7 +72,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 - depression screening
 
 ### 34 weeks
-- Tdap vaccine
+- Tdap vaccine for mother
 - Routine visit
 
 ### 36 weeks
