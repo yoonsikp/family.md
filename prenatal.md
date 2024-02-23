@@ -58,6 +58,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 ### 20 weeks
 - review anatomy scan (check for neural tube defects)
 - OB/GYN should take over care
+- early GDM screen for high-risk individuals
 
 ### 26 weeks
 - GDM screen
@@ -66,6 +67,8 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 
 ### 30 weeks
 - review GDM screen
+  - BG targets: <5.5 fasting, <6.7 2-hr post prandial
+  - start with dietary + lifestyle changes, may require basal or bolus insulin
 - depression screening
 
 ### 34 weeks
@@ -98,6 +101,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 - Contraception
   - Lactational amenorrhea (LAM) for natural birth control
   - Progestin-only contraceptives or IUD 1 month after birth
+- T2DM screening for those with GDM within 6 months
 
 ## Conditions during Pregnancy
 - Hypertension
