@@ -49,16 +49,16 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 - urine bacteria > 10^5 CFU/mL should be treated
 - offer CVS to those 35 yrs or older
 
-## 15-20 weeks
+### 15-20 weeks
 - additional genetic screening if requested
   - amniocentesis can be done for down's syndrome testing and neural tube defects (2nd trim)
   - NIPT an option if eFTS/MSS is positive, or if twins >10w0d for trisomy 21, 18, or 13, chromosomal abnormalities
 
-## 20 weeks
+### 20 weeks
 - review anatomy scan (check for neural tube defects)
 - routine visit
 
-## 26 weeks
+### 26 weeks
 - GDM screen
 - CBC and any other indicated labs
 - discuss fetal surveillance and kick counting
