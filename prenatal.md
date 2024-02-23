@@ -19,7 +19,7 @@ Hyperemesis gravidarum: severe vomiting, dehydration, electrolyte balances. Poss
 - topiramate
 - methotrexate
 - guaifenesin
-- Phenylephrine or decongestants
+- phenylephrine or decongestants
 - live vaccines
 - statins
 
