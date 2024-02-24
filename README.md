@@ -16,3 +16,4 @@ useful markdown files for family medicine
 - anion gap
 - CHF/diuretics
 - urinalysis
+- weight loss
