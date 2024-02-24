@@ -105,7 +105,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 
 ## Conditions during Pregnancy
 - Hypertension
-  - Gestational Hypertension
+  - Gestational hypertension (treat BP > 150/100 with lebetalol)
   - Pre-eclampsia (above + proteinuria) or HELLP (hemolysis, elevated liver enzymes, low platelets)
   - Eclampsia (above + seizures)
 - Skin changes
