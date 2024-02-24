@@ -14,3 +14,5 @@ useful markdown files for family medicine
 - lytes
 - endo
 - anion gap
+- CHF/diuretics
+- urinalysis
