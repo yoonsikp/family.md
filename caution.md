@@ -76,6 +76,7 @@
 ### Empagliflozin
 - Urinary tract infection
 - Foot ulcers
+- Dehydration
 
 ### Terbinafine
 - Liver injury
