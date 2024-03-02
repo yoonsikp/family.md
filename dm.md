@@ -3,6 +3,7 @@
 ## Type 1 Diabetes Mellitus (T1DM)
 - incidence peaks in children from 4-14 yrs of age
 - should not use HgB A1C to diagnose, instead use fasting glucose
+- confirmed with GAD Antibody test
 - start insulin early
 
 ## Type 2 Diabetes Mellitus (T2DM)
@@ -34,9 +35,9 @@ Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measu
 - gliclazide (sulfonylurea)
     - increases insulin production
 - glp1 agonist
-    - semaglutide/Ozempic (weekly injection), 0.25 mg once weekly for 4 weeks, then 0.5 mg once weekly
+    - semaglutide/Ozempic (weekly injection), 0.25 mg once weekly for 4 weeks, then 0.5 mg per week
     - semaglutide/Rybelsus (daily oral), 3 mg once daily for 30 days, then 7 mg once daily
-    - tirzepatide (mounjaro), 2.5 mg once per week, for 4 weeks. then 5 mg per week
+    - tirzepatide/Mounjaro (weekly injection), 2.5 mg once weekly for 4 weeks, then 5 mg per week
     - start if eGFR >30
     - creates more pancreatic cells
     - weight loss
@@ -74,3 +75,8 @@ DKA mostly T1DM. HHS mostly T2DM. DKA has acidosis, ketones plus anion gap. Trig
 
 ## Risk Management
 Should be started on a statin above age 40 to reduce cardiovascular risk. ACE inhibitors or ARBs can be used to reduce kidney disease. Empagliflozin also helps with reducing kidney disease and cardiovascular risk.
+
+## Atypical forms of Diabetes
+- Latent autoimmune diabetes in adults, sometimes referred as Type 1.5 diabetes
+- Ketosis prone diabetes, unprovoked diabetic ketoacidosis
+- Maturity-onset diabetes of the young (MODY), single gene cause of mild diabetes
