@@ -36,7 +36,7 @@ Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measu
     - increases insulin production
 - glp1 agonist
     - semaglutide/Ozempic (weekly injection), 0.25 mg once weekly for 4 weeks, then 0.5 mg per week
-    - semaglutide/Rybelsus (daily oral), 3 mg once daily for 30 days, then 7 mg once daily
+    - semaglutide/Rybelsus (daily oral), 3 mg once daily for 30 days, then 7 mg once daily (less weight loss)
     - tirzepatide/Mounjaro (weekly injection), 2.5 mg once weekly for 4 weeks, then 5 mg per week
     - start if eGFR >30
     - creates more pancreatic cells
