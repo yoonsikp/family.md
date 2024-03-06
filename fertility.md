@@ -8,6 +8,7 @@
 - Corpus luteum develops from the empty follicle, and secretes progesterone, which helps support the oocyte implantation with the uterine lining
 - Progesterone is secreted during pregnancy and suppresses ovulation
 - Usually most fertile between 4 days before ovulation to one day after
+- Recommend use of cycle tracking apps
 
 ## Female Hormonal Regulation
 - GnRH from hypothalamus stimulates the pituitary gland to release FSH and LH
