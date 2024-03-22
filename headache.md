@@ -38,3 +38,6 @@ Frequent usage of NSAIDs/painkillers (>15 days/month) or triptans (>10 days/mont
 
 ### Treatment
 Counsel and provide alternative medication for limited usage. Treat any comorbidities. Start prophylaxis treatment.
+
+## Cervicogenic Headache
+Unilateral head pain caused by radiation from the neck.
