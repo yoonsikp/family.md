@@ -13,10 +13,13 @@ Most common is migraine. Symptoms include: pulsating feeling, one-day duration, 
 Migraines can be accompanied by aura in a subset of the population. This is characterized by the onset of visual, sensory, or speech symptoms during or shortly before the migraine. This can include bright or falshing lights, or creeping numbness. These symptoms should fully resolve with resolution of the migraine.
 
 ### Causes
-Common causes include stress, lack of sleep, lights, weather, and certain foods (high histamine or tyramine foods may be a culprit, cheeses, preserved meats, alcohol, Aspartame, tomatoes). Other specific causes include hormonal (menstruation or menopause) and medication induced.
+Common causes include stress, lack of sleep, lights, weather, and certain foods (high histamine or tyramine foods may be a culprit, cheeses, preserved meats, alcohol, Aspartame, tomatoes). Other specific causes include hormonal (menstruation or menopause) and medication induced. A headache diary can be useful.
 
 ### Treatment
-Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed triptans as an abortive medication: e.g. Rizatriptan dissolving tablet 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid. Preventative methods include magnesium supplements, creatine, hydration. co q10 supplements, and prophylactic triptans or COCP for those with hormonal migraines.
+Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed triptans as an abortive medication: e.g. Rizatriptan dissolving tablet 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid.
+
+## Preventative
+Some preventative methods include propranolol BID, magnesium supplements, creatine, hydration. co q10 supplements. Schedule triptans or COCP for those with hormonal migraines.
 
 ## Tension Headache
 Can be diagnosed as non-pulsating pain bilaterally, akin to a tight ring around the head. It can radiate to the back of the head and neeck. There should be no nausea or vomiting. The duration can last from 30 minutes to 7 days.
@@ -34,4 +37,4 @@ Start on 100% O2, subcutaenous sumatriptan 6mg. Prophylaxis is verapamil 240mg/d
 Frequent usage of NSAIDs/painkillers (>15 days/month) or triptans (>10 days/month) can sometimes lead to withdrawal symptoms and rebound headaches. 
 
 ### Treatment
-Counsel and provide alternative medication for limited usage. Start prophylaxis treatment.
+Counsel and provide alternative medication for limited usage. Treat any comorbidities. Start prophylaxis treatment.
