@@ -28,3 +28,9 @@ Characterized by severe excruciating pain unilaterally around the eye or temples
 
 ### Treatment
 Start on 100% O2, subcutaenous sumatriptan 6mg. Prophylaxis is verapamil 240mg/day.
+
+## Medication Overuse Headaches
+Frequent usage of NSAIDs/painkillers (>15 days/month) or triptans (>10 days/month) can sometimes lead to withdrawal symptoms and rebound headaches. 
+
+### Treatment
+Counsel and provide alternative medication for limited usage. Start prophylaxis treatment.
