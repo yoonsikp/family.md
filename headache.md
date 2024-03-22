@@ -8,6 +8,7 @@ Headache physical examination should include a BP, GCS/MSE screen, neurological 
 
 ## Migraine Headache
 Most common is migraine. Symptoms include: pulsating feeling, one-day duration, unilateral (in 70%), nausea or vomiting, and disabling (POUND mnemonic).  The duration generally lasts from 4 to 72 hours. Has a gradual onset with symptoms that chronic sufferers will recognize (irritability, inability to concentrate). 
+
 ### Aura
 Migraines can be accompanied by aura in a subset of the population. This is characterized by the onset of visual, sensory, or speech symptoms during or shortly before the migraine. This can include bright or falshing lights, or creeping numbness. These symptoms should fully resolve with resolution of the migraine.
 
@@ -15,7 +16,7 @@ Migraines can be accompanied by aura in a subset of the population. This is char
 Common causes include stress, lack of sleep, lights, weather, and certain foods (high histamine or tyramine foods may be a culprit, cheeses, preserved meats, alcohol, Aspartame, tomatoes). Other specific causes include hormonal (menstruation or menopause) and medication induced.
 
 ### Treatment
-Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed triptans as an abortive medication: e.g. Rizatriptan 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid. Preventative methods include magnesium supplements, creatine, hydration. co q10 supplements, and prophylactic triptans or COCP for those with hormonal migraines.
+Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed triptans as an abortive medication: e.g. Rizatriptan dissolving tablet 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid. Preventative methods include magnesium supplements, creatine, hydration. co q10 supplements, and prophylactic triptans or COCP for those with hormonal migraines.
 
 ## Tension Headache
 Can be diagnosed as non-pulsating pain bilaterally, akin to a tight ring around the head. It can radiate to the back of the head and neeck. There should be no nausea or vomiting. The duration can last from 30 minutes to 7 days.
