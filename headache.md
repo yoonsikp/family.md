@@ -1,7 +1,7 @@
 # Headache
 
 ## Undifferentiated Headache
-Red flags that may indicate more timely investigations: new headache especially over age 50, worst headache of their life (?SAH), focal neurological deficits (?stroke), head trauma (?bleed), post LP (CSF leak --> bed rest and fluids), and rapidly progressing frequency of headaches. Fever/infection may indicate a CNS infection. Exertional headaches may sometimes be caused by intracranial abnormalities and may warrant MRI, although commonly caused be cough. Temporal pain with jaw claudication or vision changes can be GCA. Seizures with headache should warrant urgent imaging (?lesion).
+Red flags that may indicate more timely investigations: new headache especially over age 50, worst headache of their life (?SAH), focal neurological deficits (?stroke), head trauma (?bleed), post LP (CSF leak --> bed rest and fluids), and rapidly progressing frequency of headaches (?structural). Fever/infection may indicate a CNS infection. Exertional headaches may sometimes be caused by intracranial abnormalities and may warrant MRI, although commonly caused be cough. Temporal pain with jaw claudication or vision changes can be GCA. Seizures with headache should warrant urgent imaging (?lesion).
 
 ## Examination
 Headache physical examination should include a BP, GCS/MSE screen, neurological screening, CN screening, and neck exam. A hazy edematous cornea may indicate acute angle closure glaucoma.
