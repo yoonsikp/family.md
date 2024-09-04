@@ -74,7 +74,7 @@ Those on basal insulin may benefit from having a small snack of complex carbohyd
 DKA mostly T1DM. HHS mostly T2DM. DKA has acidosis, ketones plus anion gap. Trigger includes infection or sepsis. Treatment generally IV fluids, potassium replacement. Insulin starts once K+ >= 3.3. IV regular insulin bolus 0.1 units/kg with IV infusion 0.1 units/kg/hr or subcut short acting insulin 0.3units/kg with 0.1units/kg every hr. Continue giving insulin until BG <14, then supplement with IV dextrose.
 
 ## Risk Management
-Should be started on a statin above age 40 to reduce cardiovascular risk. ACE inhibitors or ARBs can be used to reduce kidney disease. Empagliflozin also helps with reducing kidney disease and cardiovascular risk.
+Should be started on a statin above age 40 to reduce cardiovascular risk. ACE inhibitors or ARBs can be used to reduce kidney disease. Empagliflozin also helps with reducing kidney disease and cardiovascular risk. Pneumococcal vaccines should also be given at age 50.
 
 ## Atypical forms of Diabetes
 - Latent autoimmune diabetes in adults, sometimes referred as Type 1.5 diabetes
