@@ -63,6 +63,14 @@ Coverage: good gram + (not MRSA), good gram -
 - Pyelonephritis or UTI
 - Community-acquired meningitis (+ vancoymycin)
 
+### Cefixime (PO) - 3rd gen Cephalosporin
+Coverage: some gram + (not MRSA), good gram -
+
+- UTI (incl pediatric population)
+- Sinusitis (incl pediatric population)
+- Bacterial LRTI/URTI
+- AOM
+
 ### Azithromycin (IV/PO) - Macrolide
 Coverage: good gram + (not MRSA), great for atypicals
 
