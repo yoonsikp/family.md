@@ -28,7 +28,7 @@ Start triple therapy for those who have severe COPD symptoms.
 
 ## Long Term Treatment
 - Supplement oxygen if resting O2 <= 88%. Wear for 15hr/day.
-- Provide Tdap + PPSV23 + flu vaccine.
+- Provide Tdap + PPSV23/PCV20 + flu vaccine.
 - Reduce smoke exposure
 - Continue exercise.
 
