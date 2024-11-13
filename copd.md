@@ -26,7 +26,7 @@ Try to divide patients into: High Risk for Exacerbation vs High Symptoms using C
 
 Start triple therapy for those who have severe COPD symptoms.
 
-## Long Term Treatment
+## Long Term Treatment (improves mortality)
 - Supplement oxygen if resting O2 <= 88%. Wear for 15hr/day.
 - Provide Tdap + PPSV23/PCV20 + flu vaccine.
 - Reduce smoke exposure
