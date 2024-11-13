@@ -12,7 +12,7 @@
     - With dirty wounds if tetanus status unknown
 3. Influenza
     - Annual
-4. Pneu-C23
+4. Pneu-C20
     - Age >= 65, one dose (wait 5 years after PPSV23)
 5. Shingles (Herpes Zoster)
     - High lifetime risk of VZV (~50%)
