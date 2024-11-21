@@ -117,6 +117,10 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
   - Normal TSH during Pregnancy: 0.1-2.5 (1st trimester), 0.2-3.0 (2nd trimester), 0.3-3.0 (3rd trimester)
   - Only screen if past history of thyroid conditions, goiter, radiation therapy, or any history of autoimmune disease
 
+## Higher Risk Pregnancy
+- Risk factors include two or more pregnancy losses, high BMI, advanced maternal age (>35 yrs).
+- Consider early referral to OBGYN, starting ASA at 12 weeks (reduces risk of preeclampsia), and an early GTT.
+
 ## References
 - https://www.aafp.org/pubs/afp/issues/2014/0215/p273.html
 - https://www.ncbi.nlm.nih.gov/books/NBK459155/
