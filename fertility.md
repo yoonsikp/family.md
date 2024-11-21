@@ -1,5 +1,9 @@
 # Fertility
 
+## Patient Resources
+
+https://www.reproductiveaccess.org/
+
 ## Menstrual Cycle
 - Menstruation is the discharge of blood from the uterine lining
 - The first day of menstruation is the date of the last menstrual period (LMP)
