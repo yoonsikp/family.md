@@ -32,7 +32,7 @@ https://www.reproductiveaccess.org/
 - Medroxyprogesterone acetate (MPA), Provera 2.5mg, 5mg, 10mg tablets
 
 ## Contraception
-Ask, "Do you want to be pregnant?"
+Ask, "Do you want to be pregnant?". Conduct urine pregnancy test if needed.
 
 ### Emergency Contraception
 - Plan B, Levonorgestrel 1.5 mg tablet, one dose, within 72 hrs
