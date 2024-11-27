@@ -67,6 +67,7 @@ No proven benefit to multi or biphasic pills. Progestin-only contraceptives have
 Lower-dose estrogen, around 30 mcg to 35 mcg is a good starting point when choosing COCPs. Contraindication in smokers > 35, hypertension, migraine with aura, history of clots.
 - Marvelon 21 and 28, 0.15 mg desogestrel and 0.03 mg ethinyl estradiol 
 - Brevicon 21 and 28, 0.5 mg/1mg norethindrone and 0.035 mg ethinyl estradiol 
+- Yaz Plus 24/4, 3.0 mg drospirenone, 0.020 mg ethinyl estradiol, 0.451 mg levomefolate calcium (folic acid) tablets (lowest stroke risk)
 
 ### Switch between COCP and POP
 - To switch from a 28-Day COCP to POP, patients should not take any of the 7 inactive pills from the combined pill pack
