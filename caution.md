@@ -46,6 +46,11 @@
 - Hyperkalemia
 - Gynecomastia
 
+### Bisphosphonate
+- Osteonecrosis of the jaw (avoid after dental surgery)
+- Avascular necrosis
+- Hypocalcemia
+
 ### Cephalosporins
 - Alcohol interaction (toxicity)
 - C. diff infection
