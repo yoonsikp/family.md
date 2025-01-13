@@ -102,6 +102,10 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
   - Lactational amenorrhea (LAM) for natural birth control
   - Progestin-only contraceptives or IUD 1 month after birth
 - T2DM screening for those with GDM within 6 months
+- Newborn care
+  - Avoid unsupervised tummy time
+  - Watch out for jaundice + biliary atresia
+  - Safe sleep seven after 4mo old (https://llli.org/news/the-safe-sleep-seven/)
 
 ## Conditions during Pregnancy
 - Hypertension
