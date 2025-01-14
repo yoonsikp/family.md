@@ -8,7 +8,7 @@ Morning sickness: usually resolves after the first trimester, small snacks and s
 Hyperemesis gravidarum: severe vomiting, dehydration, electrolyte balances. Possibly linked to GDF15 hormone. May require hospitilization for IVF.
 
 ## Pregnancy and Implantation
-At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. Confirmatory beta HCG is not needed. Ectopic pregnancy occurs at a rate of approximately 2%, and requires emergency treatment. 80% of miscarriages happen during the 1st trimester, symptoms include spotting and cramping. Molar pregnancies are unviable pregnancies, can be detected during routine ultrasound, can also be detected by abnormally elevated beta HCG levels. Ultrasound and beta HCG trend for suspected abortion, trend beta HCG to zero for suspected ectopic.
+At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. Confirmatory beta HCG is not needed. Ectopic pregnancy occurs at a rate of approximately 2%, and requires emergency treatment. 80% of miscarriages happen during the 1st trimester, symptoms include spotting and cramping. Molar pregnancies are unviable pregnancies, can be detected during routine ultrasound, can also be detected by abnormally elevated beta HCG levels. Ultrasound and beta HCG trend for suspected abortion, trend beta HCG to zero for suspected ectopic. Any bleeding/abortion with a negative Rh status should be considered for RhoGAM (<8 weeks is unlikely to be needed).
 
 ## Contraindicated Drugs
 - ACEi/ARBs
