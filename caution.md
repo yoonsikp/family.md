@@ -42,6 +42,9 @@
 ### ARBs
 - Hyperkalemia
 
+### Mirabegron
+- HTN
+
 ### Spironolactone
 - Hyperkalemia
 - Gynecomastia
