@@ -2,7 +2,6 @@
 useful markdown files for family medicine
 
 # TODO
-- headache
 - PID/vaginitis
 - acne
 - fatigue
