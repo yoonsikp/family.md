@@ -14,8 +14,10 @@ Two types of maneuvers to check for tendon injury of each finger digits 1 throug
 
 # Special Tests:
 
-### Flexor Digitorum Profundus (FDP): hold down middle phalanx and ask the patient to flex at the DIP
-### Flexor Digitorum Superficialis (FDS):  holding 3 of the patient’s other digits in complete extension
+### Flexor Digitorum Profundus (FDP):
+hold down middle phalanx and ask the patient to flex at the DIP
+### Flexor Digitorum Superficialis (FDS): 
+holding 3 of the patient’s other digits in complete extension
 
 Compare with the other hand if you are unsure of normal variation. 
 
