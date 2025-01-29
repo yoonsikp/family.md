@@ -26,3 +26,4 @@
 - differential - radiculopathy, mononeuropathy, spinal cord / CNS disorders (myelopathy)
 - NMJ disorder, myopathy, or motor neuron disease
 - red flags: asymmetry, non length dependence, motor prominence, acute onset, severe symptoms, sensory ataxia, autonomic features
+- Guillain–Barré syndrome (after an infection?)
