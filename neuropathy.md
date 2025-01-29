@@ -21,7 +21,7 @@
  
 ## polyneuropathy
 - common causes
-  - dm2, hiv, illness, EESSRD< hypothyroid, B12, amyloid, etoh, thyroid, medications, autoimmune
+  - dm2, hiv, illness, EESSRD< hypothyroid, B12, amyloid, etoh, thyroid, medications, autoimmune, multiple myeloma
 - starts with sensory (i.e. pinprick and proprioception) then muscle weakness
 - differential - radiculopathy, mononeuropathy, spinal cord / CNS disorders (myelopathy)
 - NMJ disorder, myopathy, or motor neuron disease
