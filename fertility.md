@@ -2,7 +2,8 @@
 
 ## Patient Resources
 
-https://www.reproductiveaccess.org/
+- https://www.reproductiveaccess.org/
+- https://www.sexandu.ca/
 
 ## Menstrual Cycle
 - Menstruation is the discharge of blood from the uterine lining
