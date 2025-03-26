@@ -19,6 +19,7 @@
     - women 30 - 65 yrs, can do a HPV test instead of PAP every 5 years
     - LSIL or ASCUS --> conduct cytology annually for 2 years, colposcopy if abnormal
     - HSIL --> colposcopy
+    - at least 3 normal PAP smears within 10 years for those above 70
 7. Breast Cancer
     - women 50 - 75 yrs, every 2-3 years
     - mammogram
