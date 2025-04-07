@@ -1,9 +1,15 @@
-Remember dose of Epinephrine for Seizures + ACLS
+Remember dose for ACLS:
+      Epinephrine 1mg q3-5 min for adults
 
-Remember dose of Lorazepam 4mg SL/IV (0.1mg/kg)
-		Midazolam 5mg IM (0.2mg/kg) IM/IV
-
+Remember dose for Seizures:
+     Lorazepam 4mg SL/IV (0.1mg/kg)
+     Midazolam 5mg IM (0.2mg/kg) IM/IV
   
-Status Epilepticus: Phenytoin
+In case of Status Epilepticus: Phenytoin / Dilantin
 
-Nitro contraindicated in right-sided or inferior myocardial infarction
+For Bradycardia: use Atropine
+For Arrythmia: use Amiodarone
+For SVT: use Adenosine
+
+Nitro medications are contraindicated in right-sided or inferior myocardial infarction
+
