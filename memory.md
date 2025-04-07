@@ -1,5 +1,5 @@
 Remember dose for ACLS:
-- Epinephrine 1mg q3-5 min for adults
+- Epinephrine 1mg q3-5 min for adults (0.01mg/kg)
 
 Remember dose for Seizures:
 - Lorazepam 4mg SL/IV (0.1mg/kg)
