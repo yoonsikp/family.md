@@ -8,7 +8,10 @@ Remember dose for Seizures:
 In case of Status Epilepticus: Phenytoin / Dilantin
 
 For Bradycardia: use Atropine
+
+
 For Arrythmia: use Amiodarone
+
 For SVT: use Adenosine
 
 Nitro medications are contraindicated in right-sided or inferior myocardial infarction
