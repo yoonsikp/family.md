@@ -29,6 +29,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 ## Prenatal Visit Schedule
 ### Every visit
 - BP, weight, headache + edema check
+- Bleed or gush or abdominal pain
 - Fetal heart rate at >12 weeks
 - Fundal height at >20 weeks
 
