@@ -22,6 +22,7 @@ If unclear do a repeat troponin in 3hrs. Low risk patients with negative troponi
             - ASAP, within 30 min of entering hospital
         - Fibrinolysis if PCI cannot be done within 120 min of medical contact
             - ASAP, within 10 min of decision being made
+            - Can still send to PCI after fibrinolysis
     - Beta Blocker within 24 hrs, defer if in heart failure
     - Statin within 24 hrs
 
