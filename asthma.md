@@ -20,6 +20,7 @@ FEV1/FVC ratio <0.70 is indicative of obstructive disease. (>0.8 normal, 0.6-0.8
 - IV Magnesium Sulfate 40 mg/kg (max 2g) over 30 min.
 - IV Salbutamol (reserve for ICU setting)
 - IV Epinephrine can be used as well
+- RSI last resort: Use ketamine for induction and succinylcholine for paralysis
 
 ## Outpatient Treatment (GINA)
 Avoidance of triggers and medications. Recommend using a spacer with Metered Dose Inhalers (MDIs). 
