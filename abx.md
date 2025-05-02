@@ -143,4 +143,4 @@ Note: used for superficial infections
 - Bacitracin/polymyxin B or Polysporin (broad coverage, not MRSA)
 
 Note: used for partial or full thickness burns 
-- Silver sulfadiazine or Silvadene (broad coverage, incl. MRSA)
+- Silver sulfadiazine or Silvadene (broad coverage, incl. MRSA) - slows healing
