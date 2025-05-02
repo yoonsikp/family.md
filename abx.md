@@ -141,3 +141,6 @@ Note: used for superficial infections
 - Mupirocin or Bactroban (good gram + coverage, incl. MRSA)
 - Fucidin or Fucidic acid (good gram + coverage, incl. MRSA)
 - Bacitracin/polymyxin B or Polysporin (broad coverage, not MRSA)
+
+Note: used for partial or full thickness burns 
+- Silver sulfadiazine or Silvadene (broad coverage, incl. MRSA)
