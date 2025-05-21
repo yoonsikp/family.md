@@ -9,7 +9,15 @@ Special Tests: sensation, tabletop test (>5mm gap between flat hand and table)
 
 Management: smoking cessation, attempt conservative approach first, PIP contracture is indication for surgery, will need XRays if considering surgery, collagenase not available in Canada (high recurrence rates)
 
-## 
+## Carpal Tunnel Syndrome
+History: onset, progression, numbness, functional status i.e. dropping objects or grip strength, handedness + occupation
+check for DM2, and other risk factors
+
+Exam: check for thenar wasting, wrist swelling, sensation + strength, Tinnels + Phalen's test (consider Durkan test)
+
+Management: bracing if mild, if moderate symptoms do a NCS, if severe do surgery
+
+## De Quervain's
 
 # Feel
 
