@@ -25,7 +25,9 @@ Exam: check for triggering, focal tenderness or any lesions to palmar region + d
 Management: can consider ultrasound to check for masses or ganglion cysts, conservative management (splint + NSAID + activity changes), recommend steroid injection first (2-3 attempts), then consider surgery.
 
 ## OA Mucous Cyst
-Management: wait at least 1 year before surgery
+
+DDX: heberden's or bouchards nodes
+Management: do an XRay to rule in OA, wait at least 1 year before surgery
 
 ## De Quervain's
 
