@@ -7,15 +7,22 @@ Consider dupuytren's diathesis (younger, plantar fibromatosis, nodules on PIP jo
 
 Special Tests: sensation, tabletop test (>5mm gap between flat hand and table)
 
-Management: smoking cessation, attempt conservative approach first, PIP contracture is indication for surgery, will need XRays if considering surgery, collagenase not available in Canada (high recurrence rates)
+Management: smoking cessation, attempt conservative approach first (short term splint or physio), PIP contracture is indication for surgery, will need XRays if considering surgery (Needle aponeurotomy vs fasciotomy), collagenase not available in Canada (high recurrence rates)
 
 ## Carpal Tunnel Syndrome
 History: onset, progression, numbness, functional status i.e. dropping objects or grip strength, handedness + occupation
 check for DM2, and other risk factors
 
-Exam: check for thenar wasting, wrist swelling, sensation + strength, Tinnels + Phalen's test (consider Durkan test)
+Exam: check for thenar wasting, thumb opposition, wrist swelling, sensation + strength, Tinnels + Phalen's test (consider Durkan test)
 
-Management: bracing if mild (8+ weeks), if moderate symptoms do a NCS, if severe do surgery
+Management: bracing + physiotherapy if mild (8+ weeks), if moderate to severe symptoms do a NCS and consider surgery, (steroid injection has high recurrence)
+
+## Trigger Finger (stenosing tenosynovitis)
+History: snapping resistance when opening finger, sheath becomes inflamed
+
+Exam: check for triggering, focal tenderness or any lesions to palmar region + digit, check ROM of MCP + PIP
+
+Management: can consider ultrasound to check for masses or ganglion cysts, conservative management (splint + NSAID + activity changes), recommend steroid injection first (2-3 attempts), then consider surgery.
 
 ## De Quervain's
 
