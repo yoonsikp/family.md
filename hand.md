@@ -27,6 +27,7 @@ Management: can consider ultrasound to check for masses or ganglion cysts, conse
 ## OA Mucous Cyst
 
 DDX: heberden's or bouchards nodes
+
 Management: do an XRay to rule in OA, wait at least 1 year before surgery
 
 ## De Quervain's
