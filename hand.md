@@ -15,7 +15,7 @@ check for DM2, and other risk factors
 
 Exam: check for thenar wasting, wrist swelling, sensation + strength, Tinnels + Phalen's test (consider Durkan test)
 
-Management: bracing if mild, if moderate symptoms do a NCS, if severe do surgery
+Management: bracing if mild (8+ weeks), if moderate symptoms do a NCS, if severe do surgery
 
 ## De Quervain's
 
