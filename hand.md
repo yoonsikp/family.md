@@ -2,8 +2,14 @@
 
 ## Dupuytren's Disease
 History: Joint contractures, chords nodules pits, thumb adduction
+
 Consider dupuytren's diathesis (younger, plantar fibromatosis, nodules on PIP joints)
+
 Special Tests: sensation, tabletop test (>5mm gap between flat hand and table)
+
+Management: attempt conservative approach, may need XRays for surgical planning
+
+## 
 
 # Feel
 
