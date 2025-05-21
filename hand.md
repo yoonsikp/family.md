@@ -7,7 +7,7 @@ Consider dupuytren's diathesis (younger, plantar fibromatosis, nodules on PIP jo
 
 Special Tests: sensation, tabletop test (>5mm gap between flat hand and table)
 
-Management: attempt conservative approach, may need XRays for surgical planning
+Management: attempt conservative approach first, may need XRays if considering surgery
 
 ## 
 
