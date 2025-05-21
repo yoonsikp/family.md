@@ -36,7 +36,7 @@ Three signs for the motor nerves running to the hand:
 
 - Spread high five ( Ulnar Nerve )
 - Thumbs up sign ( Radial Nerve )
-- Okay sign ( medican nerve )
+- Okay sign ( Median nerve )
 
 Two types of maneuvers to check for tendon injury of each finger digits 1 through 4:
 
