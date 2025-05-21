@@ -7,7 +7,7 @@ Consider dupuytren's diathesis (younger, plantar fibromatosis, nodules on PIP jo
 
 Special Tests: sensation, tabletop test (>5mm gap between flat hand and table)
 
-Management: smoking cessation, attempt conservative approach first (short term splint or physio), PIP contracture is indication for surgery, will need XRays if considering surgery (Needle aponeurotomy vs fasciotomy), collagenase not available in Canada (high recurrence rates)
+Management: smoking cessation, attempt conservative approach first (physio, don't splint), PIP contracture is indication for surgery, will need XRays if considering surgery (Needle aponeurotomy vs fasciotomy), collagenase not available in Canada (high recurrence rates)
 
 ## Carpal Tunnel Syndrome
 History: onset, progression, numbness, functional status i.e. dropping objects or grip strength, handedness + occupation
