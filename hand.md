@@ -7,7 +7,7 @@ Consider dupuytren's diathesis (younger, plantar fibromatosis, nodules on PIP jo
 
 Special Tests: sensation, tabletop test (>5mm gap between flat hand and table)
 
-Management: attempt conservative approach first, may need XRays if considering surgery, collagenase not available in Canada
+Management: smoking cessation, attempt conservative approach first, PIP contracture is indication for surgery, will need XRays if considering surgery, collagenase not available in Canada (high recurrence rates)
 
 ## 
 
