@@ -1,4 +1,4 @@
-# Look
+# Common Disorders of the Hand
 
 ## Dupuytren's Disease
 History: Joint contractures, chords nodules pits, thumb adduction
@@ -18,6 +18,8 @@ Exam: check for thenar wasting, wrist swelling, sensation + strength, Tinnels + 
 Management: bracing if mild, if moderate symptoms do a NCS, if severe do surgery
 
 ## De Quervain's
+
+# Look
 
 # Feel
 
