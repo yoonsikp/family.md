@@ -59,7 +59,7 @@ Ask, "Do you want to be pregnant?". Conduct urine pregnancy test if needed.
 No proven benefit to multi or biphasic pills. Progestin-only contraceptives have less contraindications.
 
 ### Progestin-only Pill (POP)
-- Norethisterone 350ug, Micronor, (28 active tablets taken at same time daily)
+- Norethisterone/norethindrone 350ug, Micronor, (28 active tablets taken at same time daily)
   - slight conversion to estrogen, good for premenopausal women
 - Drospirenone 4 mg, Slynd, 24/4 dosing regimen (24 active tablets plus four inactive tablets taken once-daily for 28 consecutive days)
   - long 24 hr window, +risk of clot, contraindication in smokers or renal impairment
@@ -67,7 +67,7 @@ No proven benefit to multi or biphasic pills. Progestin-only contraceptives have
 ### Combined OCP (COCP)
 Lower-dose estrogen, around 30 mcg to 35 mcg is a good starting point when choosing COCPs. Contraindication in smokers > 35, hypertension, migraine with aura, history of clots.
 - Marvelon 21 and 28, 0.15 mg desogestrel and 0.03 mg ethinyl estradiol 
-- Brevicon 21 and 28, 0.5 mg/1mg norethindrone and 0.035 mg ethinyl estradiol 
+- Brevicon 21 and 28, 0.5 mg/1mg norethisterone/norethindrone and 0.035 mg ethinyl estradiol 
 - Yaz Plus 24/4, 3.0 mg drospirenone, 0.020 mg ethinyl estradiol, 0.451 mg levomefolate calcium (folic acid) tablets (lowest stroke risk)
 
 ### Switch between COCP and POP
