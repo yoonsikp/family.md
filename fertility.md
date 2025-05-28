@@ -61,7 +61,7 @@ No proven benefit to multi or biphasic pills. Progestin-only contraceptives have
 ### Progestin-only Pill (POP)
 - Norethisterone 350ug, Micronor, (28 active tablets taken at same time daily)
   - slight conversion to estrogen, good for premenopausal women
-- Drospirenone 4 mg, 24/4 dosing regimen (24 active tablets plus four inactive tablets taken once-daily for 28 consecutive days)
+- Drospirenone 4 mg, Slynd, 24/4 dosing regimen (24 active tablets plus four inactive tablets taken once-daily for 28 consecutive days)
   - long 24 hr window, +risk of clot, contraindication in smokers or renal impairment
 
 ### Combined OCP (COCP)
