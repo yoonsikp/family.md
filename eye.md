@@ -13,38 +13,36 @@ Rule out infections - viral and bacterial conjunctivitis is common, however othe
 - Slit lamp w/ fluorescein
 
 ## Acute Ocular Emergencies
-## Acute Angle Closure Glaucoma
+### Acute Angle Closure Glaucoma
 Due to obstruction of drainage of the aqueous humor. Symptoms include eye pain and progressive vision loss, nausea, headache. On exam, signs include a fixed dilated pupil, eye edema (patient may see haloes or haziness). IOP will be raised above >50 mm Hg. Treatment includes Diamox (500 mg PO or IV), Timolol (0.5% eyedrop, one drop on affected eye), Mannitol (20% IV, 1-2g/kg over 60 minutes), or pilocarpine (eyedrops). Attempt target IOP < 40 mm Hg, measured frequently.
 
-## Corneal ulcer
-swelling, discharge, blurred vision
-pain even with topical lidocaine
-serious infection of the cornea
-urgent optho consult
+### Corneal Ulcer
+A serious infection of the cornea that may be caused by ocular trauma. Causes eye irritation, local swelling and discharge, blurred vision. Can be painful even with application of topical lidocaine. On exam, a dull grayish sport may be seen, and if severe a hypopyon (pus collection). Requires urgent optho referral. 
 
-## globe rupture
-tetanus
-antibiotics
-patch
-optho referral
+### Globe Rupture
+Traumatic rupture of the eye. Use normal saline to wash away any foreign bodies if appropriate. Requires eye patch, do not attempt to remove protruding objects. Requires a tetanus shot, antibiotic eydrops can be given prophylactically. CT scan can be considered to localize the foreign body and any surrounding tissue damage. Consider anti-emetics to help prevent increases in IOP. Urgent optho referral.
 
-## glaucoma
-## ?shingles/herpes
-check dendrites on exam, linear branching patterns
-treat: oral + eyedrop antivirals
+### Shingles/Herpes Infection
+Usually dermatomal or affecting only half the face. Confirmed with dendrites on fluorescein exam, i.e. linear branching patterns. Treat with oral + eyedrop antivirals.
 
-## orbital cellulitis
-- severe pain and proptosis/CN 346 involvment
+### Orbital Cellulitis
+Infection of the orbits, more common in children. Can spread and is life threatening (as opposed to periorbital cellulitis). Symptoms include severe pain and proptosis/CN 346 involvement. Can be diagnosed with CT scan. If suspecting orbital cellulitis, draw blood cultures and start IV antibiotics. 
 
-## retinal detachment?
+### Retinal Detachment
+Sudden vision loss, flashes, curtain, and floaters. Urgent optho referral for surgery. 
+
+## Other Ocular Conditions
+### Open Angle Glaucoma
+Typically painless, chronic, and not a medical emergency
 
 ## Stye / Chalazion
-Blockage of sebaceous gland, usually caused by staph
+Blockage of sebaceous gland, usually caused by staph aureus. Treat with warm compresses and erythromycin ointment (BID).
 
-## bacterial conjunctivitis
-erythryomicin or Vigamox Ophthalmic
+## Bacterial Conjunctivitis
+Seen commonly in one eye with crusting/discharge. Usually minimal vision changes. Treat with erythryomicin ointment or Vigamox Ophthalmic drops. 
 
-## conjunctivitis vs keratitis
+## Conjunctivitis vs Keratitis
+risk factor is contact lenses
 keratitis only affects the cornea and causes pain, not a truge emergency
 keratitis photophbia + small pupil
 iritis --> referred pain from opposite eye
