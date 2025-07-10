@@ -3,9 +3,8 @@ Rule out infections - viral and bacterial conjunctivitis is common, however othe
 
 ## Physical Exam
 - Visual inspection
-- Visual acuity, snellen chart (20 feet (current)/x feet (normal vision))
-- Visual fields
-- Finger counting
+- Visual acuity, snellen chart (20 feet (current)/x feet (someone with normal vision))
+- Visual fields and finger counting
 - Motion
 - Light vs dark
 - CN 346
