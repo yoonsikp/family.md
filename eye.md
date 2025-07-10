@@ -1,6 +1,5 @@
 # Eye 
-Infection
-Vision loss painful vs nonpainful
+Rule out infections - viral and bacterial conjunctivitis is common, however other serious infections such as ocular herpes, shingles, corneal ulcers. Both bacterial endophthalmitis and uveitis (includes ciliary body, iris, and uvea) are medical emergencies. Always do visual acuity on both eyes for any vision loss, and differentiate between painful vs nonpainful.
 
 ## Physical Exam
 - Visual inspection
