@@ -35,20 +35,14 @@ Sudden vision loss, flashes, curtain, and floaters. Urgent optho referral for su
 ### Open Angle Glaucoma
 Typically painless, chronic, and not a medical emergency
 
-## Stye / Chalazion
-Blockage of sebaceous gland, usually caused by staph aureus. Treat with warm compresses and erythromycin ointment (BID).
+### Stye / Chalazion
+Blockage of sebaceous gland, usually caused by staph aureus. Treat with warm compresses and erythromycin ointment (BID). Can take several weeks for resolution. 
 
-## Bacterial Conjunctivitis
+### Bacterial Conjunctivitis
 Seen commonly in one eye with crusting/discharge. Usually minimal vision changes. Treat with erythryomicin ointment or Vigamox Ophthalmic drops. 
 
-## Conjunctivitis vs Keratitis
-risk factor is contact lenses
-keratitis only affects the cornea and causes pain, not a truge emergency
-keratitis photophbia + small pupil
-iritis --> referred pain from opposite eye
-dont give eye steroids without optho
+### Other Conjunctivitis and Keratitis
+Other causes of conjunctivitis include allergic, viral, etc. Keratitis is inflammation only affecting the cornea, usually not a true emergency. Microbial keratitis is common in contact lens users and should be treated with Vigamox eyedrops for Pseudomonas coverage. Do not prescribe steroids without optho referral.
 
-## corneal abrasion
-use polysporin eye drops or vigamox
-topical NSAID
-refer for large lesions
+### Corneal Abrasion
+Blurry vision and discomfort post corneal injury. Can be confirmed with fluorescein exam. Treat with OTC Polysporin eye drops or Vigamox. Topical ketorolac can be used for short term (QID 1-2 days) for discomfort. Refer to ophtho for large lesions.
