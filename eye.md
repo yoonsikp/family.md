@@ -9,23 +9,19 @@ Rule out infections - viral and bacterial conjunctivitis is common, however othe
 - Light vs dark
 - CN 346
 - Pupillary response
-- Ocular pressure
+- Intraocular pressure (IOP) with tonometry (<25 mm Hg is normal)
 - Slit lamp w/ fluorescein
 
-## Acute presentations
-## acute angle closure
-painful and vision loss
-?headache
-eye may be hazy
-check IOP (<25 is normal)
-
-treat: with timolol, pilocarpine, mannitol
+## Acute Ocular Emergencies
+## Acute Angle Closure Glaucoma
+Due to obstruction of drainage of the aqueous humor. Symptoms include eye pain and progressive vision loss, nausea, headache. On exam, signs include a fixed dilated pupil, eye edema (patient may see haloes or haziness). IOP will be raised above >50 mm Hg. Treatment includes Diamox (500 mg PO or IV), Timolol (0.5% eyedrop, one drop on affected eye), Mannitol (20% IV, 1-2g/kg over 60 minutes), or pilocarpine (eyedrops). Attempt target IOP < 40 mm Hg, measured frequently.
 
 ## Corneal ulcer
 swelling, discharge, blurred vision
 pain even with topical lidocaine
 serious infection of the cornea
 urgent optho consult
+
 ## globe rupture
 tetanus
 antibiotics
