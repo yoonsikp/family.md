@@ -1,5 +1,5 @@
 # Eye 
-Rule out infections - viral and bacterial conjunctivitis is common, however other infections such as ocular herpes, shingles, corneal ulcers should be ruled out. Bacterial endophthalmitis and uveitis (includes ciliary body, iris, and uvea) are medical emergencies. Do visual acuity on both eyes for any vision loss, and differentiate between painful vs non-painful.
+Do visual acuity on both eyes for any vision loss, and differentiate between painful vs non-painful. Rule out infections - viral and bacterial conjunctivitis is common, however other infections such as ocular herpes, shingles, corneal ulcers should be ruled out. Bacterial endophthalmitis and uveitis (includes ciliary body, iris, and uvea) are both medical emergencies. 
 
 ## Physical Exam
 - Visual inspection
