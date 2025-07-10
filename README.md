@@ -5,7 +5,6 @@ useful markdown files for family medicine
 - PID/vaginitis
 - acne
 - fatigue
-- eye
 - peds functional abdo pain
 - swabs/smear
 - hand
