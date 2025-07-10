@@ -42,7 +42,7 @@ Blockage of sebaceous gland, usually caused by staph aureus. Treat with warm com
 Seen commonly in one eye with crusting/discharge. Usually minimal vision changes. Treat with erythryomicin ointment or Vigamox Ophthalmic drops. 
 
 ### Other Conjunctivitis and Keratitis
-Other causes of conjunctivitis include allergic, viral, etc. Keratitis is inflammation only affecting the cornea, usually not a true emergency. Microbial keratitis is common in contact lens users and should be treated with Vigamox eyedrops for Pseudomonas coverage. Do not prescribe steroids without optho referral.
+Other causes of conjunctivitis include allergic, viral, etc. Keratitis is inflammation only affecting the cornea, usually not a true emergency. Microbial keratitis is common in contact lens users and should be treated with Vigamox eyedrops for Pseudomonas coverage. Some autoimmune conditions also present with conjunctivitis / uveitis symptoms. Do not prescribe steroids without optho referral.
 
 ### Corneal Abrasion
 Blurry vision and discomfort post corneal injury. Can be confirmed with fluorescein exam. Treat with OTC Polysporin eye drops or Vigamox. Topical ketorolac can be used for short term (QID 1-2 days) for discomfort. Refer to ophtho for large lesions.
