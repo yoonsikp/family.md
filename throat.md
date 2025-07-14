@@ -1,4 +1,4 @@
-# Pharyngitis and Related Conditions
+# Pharyngitis, Throat, and Related Conditions
 
 ## Common Causes
 
@@ -14,9 +14,26 @@ Another common cause of pharyngitis. Usually presents with low grade fever (as o
 ### Gastroesophageal reflux disease (GERD)
 Throat pain associated with GERD, usually worse with supine positioning, smoking, EtOH etc. Treat with PPI and lifestyle changes.
 
+### Croup
+Steeple sign
+
 ## Urgent Causes
+## Inhaled Foreign Body
+
 ### Peritonsillar abscess (clinical or CT)
+Fever, hot potato voice. Deviated uvula. Trismus.
+
 ### Epiglottitis (thumb sign on XR)
+Patient prefers neck extension. Keep patient calm and intubate if needed.
+
+### Parapharyngeal abscess
+Trismus
+
 ### Retropharyngeal abscess (CT)
+Patient prefers neck flexion.
+
 ### Ludwig angina
+Deep space infection, seen around anterior neck.
+
 ### Kawasaki
+Strawberry tongue, uveitis, fever.
