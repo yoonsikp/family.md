@@ -16,3 +16,4 @@ Usually <2 year old and viral cause (i.e. RSV)
 supportive care
 admit if severe respiratory symptoms
 O2 +/- nebulized epi if admitted
+frequent superficial nasal suction 
