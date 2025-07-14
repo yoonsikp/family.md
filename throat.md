@@ -11,16 +11,16 @@ Caused by Group A Streptococcus. No antibiotic resistance seen in this group. Ca
 ### Croup (Subglottis)
 Viral infection of the subglottis affecting children <5 years of age. Symptoms incluide barky cough, inspiratory stridor, and increased work of breathing. Commonly caused by parainfluenza, and usually improves <7 days. Steeple sign may be seen on frontal chest X-ray, but is not a sensitive test. Distress or cyanosis are signs of impending respiratory failure and should warrant emergent: nebulised epinephrine, O2 mask, intubation, and dexamethasone. Mild intercostal retractions are typical. Patients that are stable and have no stridor at rest can be discharged home with oral dexamethasone at 0.6mg/kg PO once, with monitoring for improvement within 2-4 hours.
 
+### Pertussis (Whooping Cough or 100-day cough)
+Bacterial URTI caused by Bordetella pertussis and disruption of ciliary clearing of the epithelium. Highly contagious, with incubation period of 1-3 weeks. Some remain completely asymptomatic. Phase 1 (Catarrhal) lasts 1-2 weeks and symptoms include malaise, rhinorrhea, and mild cough. Phase 2 (Paroxysmal) lasts for 2 months and includes coughing fits, then a sharp inspiration or "whoop", and usually feel well. Phase 3 (Convalescent) lasts for a few weeks and is a general reduction of symptoms. Nasopharyngeal culture and polymerase chain reaction can be used to confirm diagnosis. Antibiotics may be useful when started within 3 weeks of cough onset.
+
+Azithromycin PO for five days (500 mg day 1, 250 mg days 2 through 5).
+
 ### Viral Upper Respiratory Tract Infection (URTI)
 Another common cause of pharyngitis. Usually presents with low grade fever (as opposed to bacterial infection). Supportive care.
 
 ### Gastroesophageal reflux disease (GERD)
 Throat pain associated with acid reflux, usually worse with supine positioning, smoking, EtOH etc. Treat with PPI and lifestyle changes.
-
-### Pertussis (Whooping Cough or 100-day cough)
-Bacterial URTI caused by Bordetella pertussis and disruption of ciliary clearing of the epithelium. Highly contagious, with incubation period of 1-3 weeks. Some remain completely asymptomatic. Phase 1 (Catarrhal) lasts 1-2 weeks and symptoms include malaise, rhinorrhea, and mild cough. Phase 2 (Paroxysmal) lasts for 2 months and includes coughing fits, then a sharp inspiration or "whoop", and usually feel well. Phase 3 (Convalescent) lasts for a few weeks and is a general reduction of symptoms. Nasopharyngeal culture and polymerase chain reaction can be used to confirm diagnosis. Antibiotics may be useful when started within 3 weeks of cough onset.
-
-Azithromycin PO for five days (500 mg day 1, 250 mg days 2 through 5).
 
 ## Urgent Causes
 ### Inhaled Foreign Body
