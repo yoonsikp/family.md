@@ -63,6 +63,9 @@
 - Diarrhea
 - C. diff infection
 
+### Azithromycin
+- Pyloric stenosis in infants < 2months of age
+
 ### Warfarin
 - Alcohol interaction (bleeding)
 
