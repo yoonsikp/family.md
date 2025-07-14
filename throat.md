@@ -17,6 +17,11 @@ Another common cause of pharyngitis. Usually presents with low grade fever (as o
 ### Gastroesophageal reflux disease (GERD)
 Throat pain associated with acid reflux, usually worse with supine positioning, smoking, EtOH etc. Treat with PPI and lifestyle changes.
 
+### Pertussis (Whooping Cough or 100-day cough)
+Bacterial URTI caused by Bordetella pertussis and disruption of ciliary clearing of the epithelium. Highly contagious, with incubation period of 1-3 weeks. Some remain completely asymptomatic. Phase 1 (Catarrhal) lasts 1-2 weeks and symptoms include malaise, rhinorrhea, and mild cough. Phase 2 (Paroxysmal) lasts for 2 months and includes coughing fits, then a sharp inspiration or "whoop", and usually feel well. Phase 3 (Convalescent) lasts for a few weeks and is a general reduction of symptoms. Nasopharyngeal culture and polymerase chain reaction can be used to confirm diagnosis. Antibiotics may be useful when started within 3 weeks of cough onset.
+
+Azithromycin PO for five days (500 mg day 1, 250 mg days 2 through 5).
+
 ## Urgent Causes
 ### Inhaled Foreign Body
 
