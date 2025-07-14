@@ -43,7 +43,7 @@
   - Chlorthalidone
   - HCTZ
 - ACEi + ARBs (don't use if pregnant)
-- Long-acting Dihydropyridine CCBs
+- Long-acting Dihydropyridine CCBs (c.f. non-DHP CCBs affect only the heart)
 - Nonselective Beta Blockers
   - Carvedilol (also used for MI, HFrEF, cirrhosis)
   - Lebatalol (in pregnancy or non-HF hypertensive emergency)
