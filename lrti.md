@@ -12,5 +12,7 @@ cough can last a few weeks
 usually can be caused by a virus
 
 ## Bronchiolitis
-Usually <2 year old
+Usually <2 year old and viral cause (i.e. RSV)
+supportive care
+admit if severe respiratory symptoms
 O2 +/- nebulized epi if admitted
