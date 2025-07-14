@@ -9,7 +9,7 @@
 Caused by Group A Streptococcus. No antibiotic resistance seen in this group. Can be diagnosed with throat culture or rapid strep swab. CENTOR score is useful for risk stratificaction. Penicillin or amoxicillin are first-line treatments for strep throat. Do not give amoxicillin if Mono is also suspected, azithromycin can be used instead.
 
 ### Croup
-Viral infection of the upper respiratory tract (subglottis) affecting children <5 years of age. Symptoms incluide barky cough, inspiratory stridor, and increased work of breathing. Commonly caused by parainfluenza, and usually improves <7 days. Steeple sign may be seen on frontal chest X-ray, but is not a sensitive test. Distress or cyanosis are signs of impending respiratory failure and should warrant: nebulised epinephrine, O2 mask, intubation, and dexamethasone. Patients without stridor at rest can be discharged with oral dexamethasone at 0.6mg/kg PO once, with monitoring for improvement.
+Viral infection of the upper respiratory tract (subglottis) affecting children <5 years of age. Symptoms incluide barky cough, inspiratory stridor, and increased work of breathing. Commonly caused by parainfluenza, and usually improves <7 days. Steeple sign may be seen on frontal chest X-ray, but is not a sensitive test. Distress or cyanosis are signs of impending respiratory failure and should warrant emergent: nebulised epinephrine, O2 mask, intubation, and dexamethasone. Patients without stridor at rest can be discharged with oral dexamethasone at 0.6mg/kg PO once, with monitoring for improvement.
 
 ### Viral Upper Respiratory Tract Infection (URTI)
 Another common cause of pharyngitis. Usually presents with low grade fever (as opposed to bacterial infection). Supportive care.
