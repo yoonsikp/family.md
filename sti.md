@@ -51,6 +51,8 @@ Ceftriaxone 500mg IM once + Azithromycin 1g PO once or Ceftriaxone 500mg IM once
 
 Newborns receive 0.5% erythromycin ophthalmic ointment, to prevent Gonococcal ophthalmia neonatorum.
 
+Gentamicin 240mg IM once can be substituted for Ceftriaxone if there is documented resistance or intolerance to mcarolides/cephalosporin. 
+
 ## Chlamydia
 Caused by *Chlamydia trachomatis* bacterium. Similar to Gonorrhea, it can infect the genitals, rectum, or throat. Can lead to pelvic inflammatory disease and infertility. *Lymphogranuloma venereum* (LGV) is a recently identified strain (serovars) that can cause serious illness and scarring, and can cause anal complications.
 ### Symptoms
