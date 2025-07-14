@@ -1,4 +1,5 @@
-# Differential Diagnosis
+# Pharyngitis (Throat Pain)
+## Differential Diagnosis
 - EBV / Mono
 - Strep Pharyngitis
 - Viral
