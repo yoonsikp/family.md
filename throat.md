@@ -1,6 +1,6 @@
 # Pharyngitis and Related Conditions
 
-## Causes
+## Common Causes
 
 ### Infectious Mononucleosis (Mono)
 90% of cases are caused by Epstein–Barr virus (EBV), 5% by Cytomegalovirus (CMV). Usually spread through saliva. Symptoms include fatigue, sore throat, swollen tonsils. Diagnosis can be done with Anti-VCA IgG (previous infection) and Anti-VCA IgM (acute phase) serology. Bloodwork may show elevated liver enzymes. Advise against contact sports for 1-2 months, and any hepatotoxic insults. 
