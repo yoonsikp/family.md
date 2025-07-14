@@ -31,6 +31,9 @@ Infection of the orbits, more common in children. Can spread and is life threate
 ### Retinal Detachment
 Sudden vision loss, flashes, curtain, and floaters. Urgent optho referral for surgery. 
 
+### Primary Meningococcal Conjunctivitis and Gonococcal Conjunctivitis
+Presents with acute and marked purulent conjunctivitis. Conjunctival swabs should be collected. Systemic treatment should be started, e.g. IV Ceftriaxone 2g OD for 7-12 days. 
+
 ## Other Ocular Conditions
 ### Open Angle Glaucoma
 Typically painless, chronic, and not a medical emergency
@@ -39,7 +42,7 @@ Typically painless, chronic, and not a medical emergency
 Blockage of sebaceous gland, usually caused by staph aureus. Treat with warm compresses and erythromycin ointment (BID). Can take several weeks for resolution. 
 
 ### Bacterial Conjunctivitis
-Seen commonly in one eye with crusting/discharge. Usually minimal vision changes. Treat with erythryomicin ointment or Vigamox Ophthalmic drops. 
+Seen commonly in one eye with crusting/discharge. Usually minimal vision changes. Treat with erythryomicin ointment at night time and Vigamox Ophthalmic drops during the day.
 
 ### Other Conjunctivitis and Keratitis
 Other causes of conjunctivitis include allergic, viral, etc. Keratitis is inflammation only affecting the cornea, usually not a true emergency. Microbial keratitis is common in contact lens users and should be treated with Vigamox eyedrops for Pseudomonas coverage. Some autoimmune conditions also present with conjunctivitis / uveitis symptoms. Do not prescribe steroids without optho referral.
