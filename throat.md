@@ -8,7 +8,7 @@
 ### Streptococcal  Pharyngitis (Strep throat)
 Caused by Group A Streptococcus. No antibiotic resistance seen in this group. Can be diagnosed with throat culture or rapid strep swab. CENTOR score is useful for risk stratificaction. Penicillin or amoxicillin are first-line treatments for strep throat. Do not give amoxicillin if Mono is also suspected, azithromycin can be used instead.
 
-### Viral URTI
+### Viral Upper Respiratory Tract Infection (URTI)
 Another common cause of pharyngitis. Usually presents with low grade fever (as opposed to bacterial infection). Supportive care.
 
 ### Gastroesophageal reflux disease (GERD)
