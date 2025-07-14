@@ -17,7 +17,6 @@ Another common cause of pharyngitis. Usually presents with low grade fever (as o
 ### Gastroesophageal reflux disease (GERD)
 Throat pain associated with acid reflux, usually worse with supine positioning, smoking, EtOH etc. Treat with PPI and lifestyle changes.
 
-
 ## Urgent Causes
 ### Inhaled Foreign Body
 
