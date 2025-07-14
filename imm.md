@@ -12,8 +12,8 @@
     - With dirty wounds if tetanus status unknown
 3. Influenza
     - Annual
-4. Pneumococcal-P23
-    - Age >= 65, one dose
+4. Pneu-C20
+    - Age >= 65, one dose (wait 5 years after PPSV23)
 5. Shingles (Herpes Zoster)
     - High lifetime risk of VZV (~50%)
     - Age >= 50, two-dose schedule (0, 2 month)
@@ -27,7 +27,7 @@
 
 1. DTaP-IPV-Hib
     - At 2, 4, 6, 18 month
-2. Pneu-C-13
+2. Pneu-C-13 or Pneu-C-20
     - At 2, 4, 12 month
 3. Rotavirus
     - At 2, 4 month
@@ -73,7 +73,6 @@ Immunity Serology can be tested via blood for Measles, Mumps, Rubella, and Varic
     - Ongoing research, approved in Canada 2023
 6. Meningococcal B (Bexsero)
 7. Typhoid fever
-8. Pneumococcal (PCV20)
 
 ## Hyposlenism or asplenia
 Special consideration for protection against encapsulated bacteria. The following vaccines should be administered again (after their first series as a child).

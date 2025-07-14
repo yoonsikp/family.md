@@ -8,7 +8,7 @@ Morning sickness: usually resolves after the first trimester, small snacks and s
 Hyperemesis gravidarum: severe vomiting, dehydration, electrolyte balances. Possibly linked to GDF15 hormone. May require hospitilization for IVF.
 
 ## Pregnancy and Implantation
-At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. Confirmatory beta HCG is not needed. Ectopic pregnancy occurs at a rate of approximately 2%, and requires emergency treatment. 80% of miscarriages happen during the 1st trimester, symptoms include spotting and cramping. Molar pregnancies are unviable pregnancies, can be detected during routine ultrasound, can also be detected by abnormally elevated beta HCG levels. Ultrasound and beta HCG trend for suspected abortion, trend beta HCG to zero for suspected ectopic.
+At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. Confirmatory beta HCG is not needed. Ectopic pregnancy occurs at a rate of approximately 2%, and requires emergency treatment. 80% of miscarriages happen during the 1st trimester, symptoms include spotting and cramping. Molar pregnancies are unviable pregnancies, can be detected during routine ultrasound, can also be detected by abnormally elevated beta HCG levels. Ultrasound and beta HCG trend for suspected abortion, trend beta HCG to zero for suspected ectopic. Any bleeding/abortion with a negative Rh status should be considered for RhoGAM (<8 weeks is unlikely to be needed).
 
 ## Contraindicated Drugs
 - ACEi/ARBs
@@ -29,6 +29,7 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
 ## Prenatal Visit Schedule
 ### Every visit
 - BP, weight, headache + edema check
+- Bleed or gush or abdominal pain
 - Fetal heart rate at >12 weeks
 - Fundal height at >20 weeks
 
@@ -102,6 +103,10 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
   - Lactational amenorrhea (LAM) for natural birth control
   - Progestin-only contraceptives or IUD 1 month after birth
 - T2DM screening for those with GDM within 6 months
+- Newborn care
+  - Avoid unsupervised tummy time
+  - Watch out for jaundice + biliary atresia
+  - Safe sleep seven after 4mo old (https://llli.org/news/the-safe-sleep-seven/)
 
 ## Conditions during Pregnancy
 - Hypertension
@@ -116,6 +121,10 @@ At-home urine tests have specificity ~99% approximately 2 weeks post ovulation. 
   - Beta-HCG acts like TSH
   - Normal TSH during Pregnancy: 0.1-2.5 (1st trimester), 0.2-3.0 (2nd trimester), 0.3-3.0 (3rd trimester)
   - Only screen if past history of thyroid conditions, goiter, radiation therapy, or any history of autoimmune disease
+
+## Higher Risk Pregnancy
+- Risk factors include two or more pregnancy losses, high BMI, advanced maternal age (>35 yrs).
+- Consider early referral to OBGYN, starting ASA at 12 weeks (reduces risk of preeclampsia), and an early GTT.
 
 ## References
 - https://www.aafp.org/pubs/afp/issues/2014/0215/p273.html

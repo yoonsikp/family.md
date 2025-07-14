@@ -42,9 +42,17 @@
 ### ARBs
 - Hyperkalemia
 
+### Mirabegron
+- HTN
+
 ### Spironolactone
 - Hyperkalemia
 - Gynecomastia
+
+### Bisphosphonate
+- Osteonecrosis of the jaw (avoid after dental surgery)
+- Avascular necrosis
+- Hypocalcemia
 
 ### Cephalosporins
 - Alcohol interaction (toxicity)
@@ -76,6 +84,7 @@
 ### Empagliflozin
 - Urinary tract infection
 - Foot ulcers
+- Dehydration
 
 ### Terbinafine
 - Liver injury

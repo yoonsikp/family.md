@@ -47,7 +47,7 @@ Should be investigated with ultrasound for characterization and diagnosis.
   - confirmed with decreased RAIU
   - usually resolves by itself
 - Euthyroid sick syndrome
-  - normal TSH, low T4
+  - normal TSH, low T3 or T4
   - treat underlying sickness
 - Medications e.g. antithyroid, cholestyramine, amiodarone, phenytoin, lithium
 - De Quervain Thyroiditis

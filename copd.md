@@ -16,6 +16,8 @@ Symptoms include dyspnea, purulent or increased sputum, cough. Start oxygen ther
 
 Antibiotics (e.g. Azithromycin 500 mg PO OD) +/- sputum culture if concern for infection
 
+- RSI: Use ketamine for induction and succinylcholine for paralysis
+
 ## Outpatient Treatment (GOLD 2020)
 Try to divide patients into: High Risk for Exacerbation vs High Symptoms using COPD Assessment Test. High risk for exacerbation: >= 1 severe exacerbation per year. Start with a rescue puffer: short-acting bronchodilator.
 
@@ -26,9 +28,9 @@ Try to divide patients into: High Risk for Exacerbation vs High Symptoms using C
 
 Start triple therapy for those who have severe COPD symptoms.
 
-## Long Term Treatment
+## Long Term Treatment (improves mortality)
 - Supplement oxygen if resting O2 <= 88%. Wear for 15hr/day.
-- Provide Tdap + PPSV23 + flu vaccine.
+- Provide Tdap + PPSV23/PCV20 + flu vaccine.
 - Reduce smoke exposure
 - Continue exercise.
 

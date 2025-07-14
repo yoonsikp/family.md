@@ -3,6 +3,7 @@
 ## Type 1 Diabetes Mellitus (T1DM)
 - incidence peaks in children from 4-14 yrs of age
 - should not use HgB A1C to diagnose, instead use fasting glucose
+- confirmed with GAD Antibody test
 - start insulin early
 
 ## Type 2 Diabetes Mellitus (T2DM)
@@ -33,14 +34,20 @@ Target HgB A1C <= 7.0, <=8.5 if frail or recurring hypoglycemia. Should be measu
     - start if eGFR >30
 - gliclazide (sulfonylurea)
     - increases insulin production
-- semaglutide (glp1 agonist)
-    - Ozempic (weekly injection), 0.25 mg once weekly for 4 weeks, then 0.5 mg once weekly
-    - Rybelsus (daily oral), 3 mg once daily for 30 days, then 7 mg once daily
+- glp1 agonist
+    - semaglutide/Ozempic (weekly injection), 0.25 mg once weekly for 4 weeks, then 0.5 mg per week
+    - semaglutide/Rybelsus (daily oral), 3 mg once daily for 30 days, then 7 mg once daily (less weight loss)
+    - tirzepatide/Mounjaro (weekly injection), 2.5 mg once weekly for 4 weeks, then 5 mg per week
     - start if eGFR >30
     - creates more pancreatic cells
     - weight loss
-- empagaflozin (sglt2 inhibitor)
-    - Jardiance (daily oral), 10mg daily in the morning
+-  dpp4 inhibitor
+    - sitagliptin (Januvia) 50-100mg daily
+    - similar to glp1 agonist
+    - less side effects
+    - slight weight loss
+-  sglt2 inhibitor
+    - empagaflozin (Jardiance), 10mg oral daily in the morning
     - start if eGFR >20
     - releases more glucose through urine
     - cardio and nephro protective
@@ -64,7 +71,12 @@ Those on basal insulin may benefit from having a small snack of complex carbohyd
     - supplemental = see chart (https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/in-hospital-management-clinical-order-set-fillable.pdf)
 
 ## Diabetic ketoacidosis (DKA) VS Hyperosmolar Hyperglycemic State (HHS)
-DKA mostly T1DM. HHS mostly T2DM. DKA has acidosis, ketones plus anion gap. Trigger includes infection or sepsis. Treatment generally IV fluids, potassium replacement. Insulin starts once K+ >= 3.3. IV regular insulin bolus 0.1 units/kg with IV infusion 0.1 units/kg/hr or subcut short acting insulin 0.3units/kg with 0.1units/kg every hr. Continue giving insulin until BG <14, then supplement with IV dextrose.
+DKA mostly T1DM. HHS mostly T2DM. DKA has acidosis, ketones plus anion gap. Trigger includes infection or sepsis. Treatment generally IV fluids, potassium replacement. Insulin starts once K+ >= 3.3. IV regular insulin bolus 0.1 units/kg with IV infusion 0.1 units/kg/hr or subcut short acting insulin 0.3units/kg with 0.1units/kg every hr. Check BG q1hr. Continue giving insulin until BG <14, then supplement with IV dextrose (D5W+NS). Continue insulin until anion gap has closed.
 
 ## Risk Management
-Should be started on a statin above age 40 to reduce cardiovascular risk. ACE inhibitors or ARBs can be used to reduce kidney disease. Empagliflozin also helps with reducing kidney disease and cardiovascular risk.
+Should be started on a statin above age 40 to reduce cardiovascular risk. ACE inhibitors or ARBs can be used to reduce kidney disease. Empagliflozin also helps with reducing kidney disease and cardiovascular risk. Pneumococcal vaccines should also be given at age 50.
+
+## Atypical forms of Diabetes
+- Latent autoimmune diabetes in adults, sometimes referred as Type 1.5 diabetes
+- Ketosis prone diabetes, unprovoked diabetic ketoacidosis
+- Maturity-onset diabetes of the young (MODY), single gene cause of mild diabetes

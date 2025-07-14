@@ -2,11 +2,9 @@
 useful markdown files for family medicine
 
 # TODO
-- headache
 - PID/vaginitis
 - acne
 - fatigue
-- eye
 - peds functional abdo pain
 - swabs/smear
 - hand
@@ -14,3 +12,6 @@ useful markdown files for family medicine
 - lytes
 - endo
 - anion gap
+- CHF/diuretics
+- urinalysis
+- weight loss

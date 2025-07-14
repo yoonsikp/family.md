@@ -63,6 +63,14 @@ Coverage: good gram + (not MRSA), good gram -
 - Pyelonephritis or UTI
 - Community-acquired meningitis (+ vancoymycin)
 
+### Cefixime (PO) - 3rd gen Cephalosporin
+Coverage: some gram + (not MRSA), good gram -
+
+- UTI (incl pediatric population)
+- Sinusitis (incl pediatric population)
+- Bacterial LRTI/URTI
+- AOM
+
 ### Azithromycin (IV/PO) - Macrolide
 Coverage: good gram + (not MRSA), great for atypicals
 
@@ -133,3 +141,6 @@ Note: used for superficial infections
 - Mupirocin or Bactroban (good gram + coverage, incl. MRSA)
 - Fucidin or Fucidic acid (good gram + coverage, incl. MRSA)
 - Bacitracin/polymyxin B or Polysporin (broad coverage, not MRSA)
+
+Note: used for partial or full thickness burns 
+- Silver sulfadiazine or Silvadene (broad coverage, incl. MRSA) - slows healing
