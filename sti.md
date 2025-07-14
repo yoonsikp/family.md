@@ -44,10 +44,10 @@ Caused by *Neisseria gonorrhea* bacterium. Can infect the genitals, rectum, or t
 With infection of the genitals, symptoms include dysuria and abnormal discharge. For men, this includes burning at the urethral opening, or painful testicles. Women may have pain with intercourse, lower abdominal pain, or abnormal vaginal bleeding. With rectal infection, anal itching, pain, or discharge may occur.
 
 ### Testing
-Detected in urine sample, endocervical, rectal, or throat swabs with Nucleic Acid Amplification Test (NAAT). For women, endocervical has higher sensitivity compared to others. For men, first-void or first-catch urine is preferred over urethral. In the MSM (Men who have Sex with Men) population, including a rectal swab and throat swab will help prevent missed infections.
+Detected in urine sample, endocervical, rectal, or throat swabs with Nucleic Acid Amplification Test (NAAT). For women, endocervical has higher sensitivity compared to others. For men, first-void or first-catch urine is preferred over urethral. In the MSM (Men who have Sex with Men) population, including a rectal swab and throat swab will help prevent missed infections. Assume coinfection of chlamydia unless ruled out with testing.
 
 ### Management
-Ceftriaxone 250-500mg IM once + Azithromycin 1g PO once
+Ceftriaxone 500mg IM once + Azithromycin 1g PO once or Ceftriaxone 500mg IM once + Doxycycline 100 mg PO BID for 7 days (if complicated or concerned about resistance)
 
 Newborns receive 0.5% erythromycin ophthalmic ointment, to prevent Gonococcal ophthalmia neonatorum.
 
