@@ -11,10 +11,10 @@ Caused by Group A Streptococcus. No antibiotic resistance seen in this group. Ca
 ### Viral URTI
 Another common cause of pharyngitis. Usually presents with low grade fever (as opposed to bacterial infection). Supportive care.
 
-### GERD
+### Gastroesophageal reflux disease (GERD)
+Throat pain associated with GERD, usually worse with supine positioning, smoking, EtOH etc. Treat with PPI and lifestyle changes.
 
-## Considerations for Emergency Room
-
+## Urgent Causes
 ### Peritonsillar abscess (clinical or CT)
 ### Epiglottitis (thumb sign on XR)
 ### Retropharyngeal abscess (CT)
