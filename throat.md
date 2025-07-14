@@ -26,7 +26,7 @@ Throat pain associated with acid reflux, usually worse with supine positioning, 
 
 ## Urgent Causes
 ### Peritonsillar abscess / Parapharyngeal abscess (clinical or CT)
-High fever, neck pain, sore throat and hot potato voice followed by torticollis, drooling, respiratory distress and stridor. Deviated uvula may be seen on Peritonsillar abscess. Trismus may be seen. CT scan is indicated if needed to localize abscess for incision and drainage. Discharge with ENT followup and oral antibiotics.
+High fever, neck pain, sore throat and hot potato voice followed by torticollis, drooling, respiratory distress and stridor. Deviated uvula may be seen on Peritonsillar abscess. Trismus may be seen. CT scan may be needed to localize abscess. Perform incision and drainage. Discharge with ENT followup and oral antibiotics.
 
 ### Epiglottitis (thumb sign on XR)
 Absence of barky cough, sudden onset of high fever, dysphagia, drooling, toxic appearance, anxious appearance and sitting forward in the ‘sniffing’ position (neck extension). Keep patient calm and prepare for intubation especially in the pediatric population. Start humidified O2, bag mask if necessary, and start Ceftriaxone +/- Vancomycin for MRSA coverage.
