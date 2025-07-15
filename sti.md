@@ -187,10 +187,10 @@ Mgen is a newly emerging STI caused by the *Mycoplasma genitalium* bacterium, th
 Although currently under investigation, symptoms include abnormal discharge from the vagina or urethra, dysuria, or treatment-resistant urethritis, cervicitis, or pelvic inflammatory disease (PID).
 
 ### Testing
-- TODO
+NAAT testing on urine, cervical, vaginal, or urethral swabs.
 
 ### Management
-- TODO
+First treatment: Azithromycin PO OD (500mg day 1, 250mg days 2-5). Subsequent treatments: Moxifloxacin 400mg PO OD for 7 days.
 
 ## References
 - https://www.canada.ca/en/public-health/services/diseases/syphilis.html
