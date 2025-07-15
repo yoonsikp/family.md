@@ -16,10 +16,10 @@ Migraines can be accompanied by aura in a subset of the population. This is char
 Common causes include stress, lack of sleep, lights, weather, and certain foods (high histamine or tyramine foods may be a culprit, cheeses, preserved meats, alcohol, Aspartame, tomatoes). Other specific causes include hormonal (menstruation or menopause) and medication induced. A headache diary can be useful.
 
 ### Treatment
-Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed triptans as an abortive medication: e.g. Rizatriptan dissolving tablet 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid.
+Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed CGRP receptor antagonists or triptans as an abortive medication: e.g. Ubrelvy or Rizatriptan dissolving tablet 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid.
 
-## Preventative
-Some preventative methods include propranolol BID, TCAs, magnesium supplements, creatine, hydration. co q10 supplements. Schedule triptans or COCP for those with hormonal migraines.
+## Prevention
+Some preventative methods include propranolol BID, TCAs, Magnesium 300-500 mg per day, creatine, hydration. CoQ10 supplements. Schedule triptans or COCP for those with hormonal migraines.
 
 ## Tension Headache
 Can be diagnosed as non-pulsating pain bilaterally, akin to a tight ring around the head. It can radiate to the back of the head and neeck. There should be no nausea or vomiting. The duration can last from 30 minutes to 7 days. Sometimes has overlap with muscle strain associated headaches.
