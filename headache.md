@@ -18,7 +18,7 @@ Common causes include stress, lack of sleep, lights, weather, and certain foods 
 ### Treatment
 Mild cases can be treated with rest, dark room, and NSAIDs or Tylenol + baby aspirin. Other considerations include caffeine, hydration. Those with chronic migraines can be prescribed CGRP receptor antagonists or triptans as an abortive medication: e.g. Ubrelvy or Rizatriptan dissolving tablet 5-10mg PO q2h, max 20mg/day. More severe cases may need hospitilization for IV fluids, triptans, IM NSAIDs, IV magnesium, antiemetics (metoclopramide). If persistent, consider opioids and IV valproic acid.
 
-## Prevention
+### Prevention
 Some preventative methods include propranolol BID, TCAs, Magnesium 300-500 mg per day, creatine, hydration. CoQ10 supplements. Schedule triptans or COCP for those with hormonal migraines.
 
 ## Tension Headache
