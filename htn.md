@@ -41,6 +41,7 @@
 ## Pharmacotherapies
 - Thiazide diuretics
   - Chlorthalidone
+  - indapamide
   - HCTZ
 - ACEi + ARBs (don't use if pregnant)
     - Irbesartan or Telmisartan has a long half-life
