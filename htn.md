@@ -46,6 +46,7 @@
     - Irbesartan or Telmisartan has a long half-life
     - Candesartan can be used twice a day
 - Long-acting Dihydropyridine CCBs (c.f. non-DHP CCBs affect only the heart)
+    - amlodipine
 - Nonselective Beta Blockers
   - Carvedilol (also used for MI, HFrEF, cirrhosis)
   - Lebatalol (in pregnancy or non-HF hypertensive emergency)
