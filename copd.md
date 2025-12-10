@@ -18,6 +18,14 @@ Antibiotics (e.g. Azithromycin 500 mg PO OD) +/- sputum culture if concern for i
 
 - RSI: Use ketamine for induction and succinylcholine for paralysis
 
+In emergent scenarios, inhalers can be given as nebulized:
+- Nebulized salbutamol, up to 15 mg/hr, (<1 year 2.5 mg)
+- Nebulized ipratropium, up to 1.5mg/hr
+
+Systemic bronchodilators:
+- IM Epinephrine (0.3 to 0.5 mg q 20 mins x 1-2 doses)
+- IV Epinephrine (0.05 to 0.5 mcg/kg/min)
+
 ## Outpatient Treatment (GOLD 2020)
 Try to divide patients into: High Risk for Exacerbation vs High Symptoms using COPD Assessment Test. High risk for exacerbation: >= 1 severe exacerbation per year. Start with a rescue puffer: short-acting bronchodilator.
 
