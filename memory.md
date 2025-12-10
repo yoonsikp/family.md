@@ -21,3 +21,7 @@ SVT:
 
 Nitro medications are contraindicated in right-sided or inferior myocardial infarction
 
+Sedation:
+- Ketamine 0.5-1.0mg/kg IV (analgesic, dissociation, >3 months old)
+- Propofol 0.5-1.0mg/kg IV (sedation)
+- Ketofol is 1:1 ratio.
