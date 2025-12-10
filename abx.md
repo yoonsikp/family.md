@@ -17,6 +17,10 @@ Note: Clavulanic acid increases diarrhea risk
 - Skin and soft tissue infections (SSTI)
 - CAP
 
+### Fosfomycin
+Coverage: some gram + (not MRSA), some gram -
+- UTI (incl pregnant population)
+
 ### Piperacillin / Tazobactam (IV)
 Coverage: great gram + (not MRSA or VRE), most gram - (incl. Pseudomonas, not atypicals or ESBLs)
 
