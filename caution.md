@@ -2,6 +2,12 @@
 
 ## Medications
 
+### Methotrexate
+- Adujust for CKD
+
+### Colchicine
+- Adujust for CKD
+
 ### Ibuprofen (Advil)
 - Acute kidney injury
 - Stomach ulcers
@@ -141,6 +147,7 @@
 - Overdose
 - GI Upset
 - Hyperkalemia
+- Adjust for CKD
 
 ### Salbutamol
 - Hypokalemia
