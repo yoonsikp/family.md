@@ -8,6 +8,10 @@
 ### Colchicine
 - Adujust for CKD
 
+### Allopurinol
+- Check for liver injury
+- lowered cell counts
+
 ### Ibuprofen (Advil)
 - Acute kidney injury
 - Stomach ulcers
