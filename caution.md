@@ -2,6 +2,9 @@
 
 ## Medications
 
+### Minoxidil
+- Don't use during pregnancy or breastfeeding
+
 ### Methotrexate
 - Adujust for CKD
 
