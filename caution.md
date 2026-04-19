@@ -2,7 +2,7 @@
 
 ## Medications
 
-### Minoxidil
+### Minoxidil & Finasteride
 - Don't use during pregnancy or breastfeeding
 
 ### Methotrexate
