@@ -9,7 +9,7 @@
 3. Obesity
     - every year, check BMI <25, waist circumference?
 4. Colorectal Cancer
-    - 50 - 75 yrs, every 2 years with FOBT or FIT
+    - 45 - 75 yrs, every 2 years with FOBT or FIT
     - if active bleeding or positive FOBT, FIT --> colonoscopy within 8 weeks
     - normal colonoscopy --> no screening needed for 10 years
 5. Aortic Abdominal Aorta (AAA)
@@ -21,7 +21,7 @@
     - HSIL --> colposcopy
     - at least 3 normal PAP smears within 10 years for those above 70
 7. Breast Cancer
-    - women 50 - 75 yrs, every 2-3 years
+    - women 40 - 75 yrs, every 2-3 years
     - mammogram
 8. Lung Cancer
     - smokers 55 - 75 yrs, with 30-pack year history and use within the past 10 yrs 
