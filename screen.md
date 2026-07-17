@@ -15,8 +15,7 @@
 5. Aortic Abdominal Aorta (AAA)
     - men 65 - 80 yrs, once with ultrasound
 6. Cervical Cancer
-    - women 25 - 65 yrs, every 3 years with PAP + pelvic exam
-    - women 30 - 65 yrs, can do a HPV test instead of PAP every 5 years
+    - women 25 - 65 yrs, every 5 years with HPV test + pelvic exam
     - LSIL or ASCUS --> conduct cytology annually for 2 years, colposcopy if abnormal
     - HSIL --> colposcopy
     - at least 3 normal PAP smears within 10 years for those above 70
