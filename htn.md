@@ -12,9 +12,8 @@
 - Kidney Disease
 
 ## Pressure Cutoff for Hypertension
-- Using Automatic Office Blood Pressure >= (135/85)
-- Classic Office Blood Pressure >= (140/90), more likely to have white-coat HTN
-- Using Home Blood Pressure over 7 days, 2x at morning + 2x at night >= (135/85)
+- Using Automatic Office Blood Pressure >= (130/80)
+- Using Home Blood Pressure over 7 days, 2x at morning + 2x at night >= (130/80)
     - Omron brand preferred, more devices on https://hypertension.ca/bpdevices
 
 ## Non-pharmacologic Treatments
@@ -31,12 +30,12 @@
 - Abstain from smoking and EtOH
 
 ## Pharmacologic Treatment Threshold and BP Targets
-- If Higher risk (DM, CKD, CVD, Age >= 75) and BP >= (130/80)
-    - Target (130/80)
-- If Medium risk (EOD, CV risk factors) and BP >= (135/85)
-    - Target (135/85)
-- If Low risk (healthy) and BP >= (160/100)
-    - Target (140/90)
+- If Higher risk (DM, CKD, CVD, Age >= 75, EOD, CV risk factors) and BP >= (130/80)
+    - Pharmacologic Target (systolic 130)
+- If Lower risk (healthy) and BP >= (140/90)
+    - Pharmacologic Target (systolic 130)
+- If Lower risk (healthy) and BP < (140/90)
+    - Non-pharmacologic only, reassess every 1-3 months
 
 ## Pharmacotherapies
 - Thiazide diuretics
@@ -51,6 +50,7 @@
 - Nonselective Beta Blockers
   - Carvedilol (also used for MI, HFrEF, cirrhosis)
   - Lebatalol (in pregnancy or non-HF hypertensive emergency)
+- Spironolactone @ 12.5mg
 
 ## Initial Screening
 - Urinalysis and ACR
